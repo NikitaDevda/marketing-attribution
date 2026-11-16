@@ -1,0 +1,4 @@
+dimension,sessions,viewed,carted,checkout,purchases,bounce_pct,conv_pct
+desktop,7020,4619,1838,1549,1384,34.2,19.72
+tablet,4182,2770,1149,897,758,33.76,18.13
+mobile,12718,8493,3377,2303,1732,33.22,13.62

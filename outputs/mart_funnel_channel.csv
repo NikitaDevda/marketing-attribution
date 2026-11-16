@@ -1,0 +1,121 @@
+channel,landing_page,device,variant,session_start,product_view,add_to_cart,checkout,purchase,view_rate_pct,cart_to_checkout_pct,overall_cvr_pct
+Email,/product,desktop,B,346,325,180,173,169,93.93,96.11,48.84
+Email,/product,tablet,B,200,196,97,91,88,98.0,93.81,44.0
+Email,/product,desktop,A,351,332,166,154,146,94.59,92.77,41.6
+Email,/product,tablet,A,243,232,123,108,98,95.47,87.8,40.33
+Email,/home,tablet,B,53,36,22,21,21,67.92,95.45,39.62
+Email,/home,desktop,A,109,93,48,47,40,85.32,97.92,36.7
+Email,/product,mobile,B,591,557,281,237,213,94.25,84.34,36.04
+Email,/home,desktop,B,111,96,42,39,37,86.49,92.86,33.33
+Email,/product,mobile,A,670,634,325,249,204,94.63,76.62,30.45
+Email,/blog,tablet,B,20,14,7,6,6,70.0,85.71,30.0
+Email,/home,tablet,A,64,54,28,23,19,84.38,82.14,29.69
+Email,/pricing,desktop,B,208,120,67,62,58,57.69,92.54,27.88
+Email,/home,mobile,B,200,167,80,64,55,83.5,80.0,27.5
+Email,/pricing,tablet,B,132,74,39,37,36,56.06,94.87,27.27
+Email,/blog,tablet,A,23,15,7,6,6,65.22,85.71,26.09
+Email,/pricing,desktop,A,188,97,51,47,47,51.6,92.16,25.0
+Email,/blog,desktop,A,33,19,11,8,8,57.58,72.73,24.24
+Email,/home,mobile,A,187,167,72,49,39,89.3,68.06,20.86
+Email,/pricing,mobile,B,364,185,101,84,75,50.82,83.17,20.6
+Email,/blog,desktop,B,50,30,13,12,10,60.0,92.31,20.0
+Email,/blog,mobile,A,78,42,26,19,15,53.85,73.08,19.23
+Email,/pricing,tablet,A,127,55,31,26,24,43.31,83.87,18.9
+Email,/blog,mobile,B,54,29,12,11,9,53.7,91.67,16.67
+Email,/pricing,mobile,A,392,204,107,77,63,52.04,71.96,16.07
+Facebook,/product,desktop,B,124,91,26,20,17,73.39,76.92,13.71
+Facebook,/product,tablet,A,88,67,20,14,10,76.14,70.0,11.36
+Facebook,/pricing,tablet,A,34,13,5,4,3,38.24,80.0,8.82
+Facebook,/product,mobile,A,235,185,53,25,16,78.72,47.17,6.81
+Facebook,/product,tablet,B,89,65,19,11,6,73.03,57.89,6.74
+Facebook,/home,tablet,B,152,102,24,14,10,67.11,58.33,6.58
+Facebook,/blog,tablet,A,138,62,23,13,9,44.93,56.52,6.52
+Facebook,/product,desktop,A,140,102,20,12,8,72.86,60.0,5.71
+Facebook,/blog,tablet,B,132,60,17,11,7,45.45,64.71,5.3
+Facebook,/pricing,desktop,B,77,27,6,5,4,35.06,83.33,5.19
+Facebook,/home,mobile,B,451,262,82,42,23,58.09,51.22,5.1
+Facebook,/home,desktop,B,240,127,28,18,12,52.92,64.29,5.0
+Facebook,/home,desktop,A,264,158,37,23,12,59.85,62.16,4.55
+Facebook,/product,mobile,B,251,187,49,21,11,74.5,42.86,4.38
+Facebook,/pricing,desktop,A,69,20,6,5,3,28.99,83.33,4.35
+Facebook,/pricing,mobile,A,139,49,11,7,5,35.25,63.64,3.6
+Facebook,/blog,desktop,B,223,80,18,10,7,35.87,55.56,3.14
+Facebook,/blog,mobile,A,433,194,45,25,13,44.8,55.56,3.0
+Facebook,/blog,mobile,B,445,203,50,31,13,45.62,62.0,2.92
+Facebook,/home,tablet,A,139,80,21,10,4,57.55,47.62,2.88
+Facebook,/blog,desktop,A,247,100,21,13,7,40.49,61.9,2.83
+Facebook,/home,mobile,A,441,267,59,18,11,60.54,30.51,2.49
+Facebook,/pricing,mobile,B,133,48,13,6,3,36.09,46.15,2.26
+Facebook,/pricing,tablet,B,45,17,3,1,0,37.78,33.33,0.0
+Google Ads,/product,tablet,B,193,170,72,57,46,88.08,79.17,23.83
+Google Ads,/product,desktop,A,381,344,135,100,87,90.29,74.07,22.83
+Google Ads,/product,desktop,B,386,324,122,99,82,83.94,81.15,21.24
+Google Ads,/blog,tablet,B,62,30,19,16,13,48.39,84.21,20.97
+Google Ads,/home,desktop,A,239,163,65,50,44,68.2,76.92,18.41
+Google Ads,/product,tablet,A,224,198,84,55,40,88.39,65.48,17.86
+Google Ads,/product,mobile,B,721,629,237,155,124,87.24,65.4,17.2
+Google Ads,/home,tablet,B,157,104,39,32,24,66.24,82.05,15.29
+Google Ads,/blog,desktop,A,105,59,24,17,15,56.19,70.83,14.29
+Google Ads,/home,desktop,B,226,157,49,36,32,69.47,73.47,14.16
+Google Ads,/blog,desktop,B,96,57,15,13,12,59.38,86.67,12.5
+Google Ads,/home,mobile,B,452,315,121,78,50,69.69,64.46,11.06
+Google Ads,/pricing,desktop,A,251,98,38,31,25,39.04,81.58,9.96
+Google Ads,/product,mobile,A,650,571,217,113,62,87.85,52.07,9.54
+Google Ads,/pricing,mobile,B,429,178,80,52,39,41.49,65.0,9.09
+Google Ads,/pricing,tablet,B,136,49,19,15,12,36.03,78.95,8.82
+Google Ads,/pricing,tablet,A,142,61,24,15,12,42.96,62.5,8.45
+Google Ads,/home,mobile,A,438,313,129,72,34,71.46,55.81,7.76
+Google Ads,/pricing,desktop,B,226,74,22,18,17,32.74,81.82,7.52
+Google Ads,/blog,mobile,A,160,84,24,17,12,52.5,70.83,7.5
+Google Ads,/pricing,mobile,A,460,205,80,46,29,44.57,57.5,6.3
+Google Ads,/blog,mobile,B,158,87,27,20,9,55.06,74.07,5.7
+Google Ads,/home,tablet,A,142,96,23,11,8,67.61,47.83,5.63
+Google Ads,/blog,tablet,A,56,28,8,3,3,50.0,37.5,5.36
+LinkedIn,/product,desktop,B,49,49,23,21,20,100.0,91.3,40.82
+LinkedIn,/product,tablet,A,22,21,7,7,7,95.45,100.0,31.82
+LinkedIn,/product,tablet,B,25,24,11,7,6,96.0,63.64,24.0
+LinkedIn,/home,desktop,A,74,54,18,17,14,72.97,94.44,18.92
+LinkedIn,/product,desktop,A,54,53,16,12,10,98.15,75.0,18.52
+LinkedIn,/home,desktop,B,83,62,19,17,15,74.7,89.47,18.07
+LinkedIn,/home,tablet,B,43,37,11,7,7,86.05,63.64,16.28
+LinkedIn,/blog,desktop,A,101,51,21,17,16,50.5,80.95,15.84
+LinkedIn,/product,mobile,B,96,86,22,17,15,89.58,77.27,15.63
+LinkedIn,/pricing,tablet,B,67,32,12,10,10,47.76,83.33,14.93
+LinkedIn,/blog,desktop,B,103,53,17,15,15,51.46,88.24,14.56
+LinkedIn,/pricing,desktop,B,105,52,17,15,14,49.52,88.24,13.33
+LinkedIn,/blog,tablet,B,64,33,14,11,7,51.56,78.57,10.94
+LinkedIn,/blog,tablet,A,84,42,13,10,9,50.0,76.92,10.71
+LinkedIn,/pricing,desktop,A,109,45,17,15,11,41.28,88.24,10.09
+LinkedIn,/product,mobile,A,83,74,21,13,8,89.16,61.9,9.64
+LinkedIn,/home,tablet,A,46,34,9,5,4,73.91,55.56,8.7
+LinkedIn,/pricing,mobile,B,176,69,20,14,14,39.2,70.0,7.95
+LinkedIn,/blog,mobile,B,220,114,30,23,17,51.82,76.67,7.73
+LinkedIn,/blog,mobile,A,203,113,35,19,14,55.67,54.29,6.9
+LinkedIn,/home,mobile,B,115,84,20,14,7,73.04,70.0,6.09
+LinkedIn,/pricing,tablet,A,53,16,4,3,3,30.19,75.0,5.66
+LinkedIn,/home,mobile,A,119,89,23,11,6,74.79,47.83,5.04
+LinkedIn,/pricing,mobile,A,174,67,20,10,6,38.51,50.0,3.45
+Organic,/product,tablet,B,86,84,42,38,36,97.67,90.48,41.86
+Organic,/product,desktop,B,154,149,64,54,53,96.75,84.38,34.42
+Organic,/product,desktop,A,187,167,80,63,56,89.3,78.75,29.95
+Organic,/product,mobile,B,269,259,120,92,80,96.28,76.67,29.74
+Organic,/home,desktop,A,161,133,60,49,40,82.61,81.67,24.84
+Organic,/home,desktop,B,175,143,50,45,42,81.71,90.0,24.0
+Organic,/product,tablet,A,107,103,39,29,25,96.26,74.36,23.36
+Organic,/home,tablet,B,95,76,28,27,22,80.0,96.43,23.16
+Organic,/home,mobile,B,286,227,90,76,61,79.37,84.44,21.33
+Organic,/product,mobile,A,337,319,130,91,66,94.66,70.0,19.58
+Organic,/blog,desktop,A,402,222,108,90,78,55.22,83.33,19.4
+Organic,/blog,desktop,B,354,196,76,67,64,55.37,88.16,18.08
+Organic,/home,mobile,A,356,273,129,86,63,76.69,66.67,17.7
+Organic,/pricing,desktop,B,109,50,20,20,19,45.87,100.0,17.43
+Organic,/home,tablet,A,92,70,28,20,16,76.09,71.43,17.39
+Organic,/blog,tablet,A,219,121,62,49,38,55.25,79.03,17.35
+Organic,/blog,tablet,B,257,140,62,51,43,54.47,82.26,16.73
+Organic,/pricing,desktop,A,110,47,22,20,18,42.73,90.91,16.36
+Organic,/blog,mobile,B,644,380,175,127,105,59.01,72.57,16.3
+Organic,/pricing,tablet,B,65,24,14,12,10,36.92,85.71,15.38
+Organic,/pricing,tablet,A,66,35,19,11,10,53.03,57.89,15.15
+Organic,/pricing,mobile,B,212,103,49,37,29,48.58,75.51,13.68
+Organic,/blog,mobile,A,677,369,164,121,89,54.51,73.78,13.15
+Organic,/pricing,mobile,A,219,105,48,34,25,47.95,70.83,11.42

@@ -1,0 +1,3406 @@
+date,channel,source,medium,campaign,spend
+2025-01-01,Google Ads,google,cpc,summer_sale,54.92
+2025-01-01,Google Ads,google,cpc,brand_search,723.0
+2025-01-01,Google Ads,google,cpc,competitor_kw,394.69
+2025-01-01,Google Ads,google,cpc,retargeting,243.43
+2025-01-01,Facebook,facebook,paid_social,summer_sale,630.87
+2025-01-01,Facebook,facebook,paid_social,lookalike_audience,26.36
+2025-01-01,Facebook,facebook,paid_social,video_ads,312.29
+2025-01-01,Facebook,facebook,paid_social,retargeting,88.71
+2025-01-01,LinkedIn,linkedin,paid_social,b2b_leads,3.46
+2025-01-01,LinkedIn,linkedin,paid_social,webinar_promo,164.49
+2025-01-01,LinkedIn,linkedin,paid_social,thought_leadership,585.78
+2025-01-01,Organic,google,organic,(not set),0.0
+2025-01-01,Email,newsletter,email,weekly_digest,19.58
+2025-01-01,Email,newsletter,email,cart_reminder,189.61
+2025-01-01,Email,newsletter,email,winback,5.17
+2025-01-02,Google Ads,google,cpc,summer_sale,30.79
+2025-01-02,Google Ads,google,cpc,brand_search,80.41
+2025-01-02,Google Ads,google,cpc,competitor_kw,1299.76
+2025-01-02,Google Ads,google,cpc,retargeting,0.36
+2025-01-02,Facebook,facebook,paid_social,summer_sale,14.64
+2025-01-02,Facebook,facebook,paid_social,lookalike_audience,707.47
+2025-01-02,Facebook,facebook,paid_social,video_ads,566.26
+2025-01-02,Facebook,facebook,paid_social,retargeting,16.58
+2025-01-02,LinkedIn,linkedin,paid_social,b2b_leads,35.62
+2025-01-02,LinkedIn,linkedin,paid_social,webinar_promo,679.65
+2025-01-02,LinkedIn,linkedin,paid_social,thought_leadership,203.47
+2025-01-02,Organic,google,organic,(not set),0.0
+2025-01-02,Email,newsletter,email,weekly_digest,152.81
+2025-01-02,Email,newsletter,email,cart_reminder,3.84
+2025-01-02,Email,newsletter,email,winback,13.67
+2025-01-03,Google Ads,google,cpc,summer_sale,20.29
+2025-01-03,Google Ads,google,cpc,brand_search,20.71
+2025-01-03,Google Ads,google,cpc,competitor_kw,1244.07
+2025-01-03,Google Ads,google,cpc,retargeting,153.69
+2025-01-03,Facebook,facebook,paid_social,summer_sale,360.08
+2025-01-03,Facebook,facebook,paid_social,lookalike_audience,283.84
+2025-01-03,Facebook,facebook,paid_social,video_ads,310.34
+2025-01-03,Facebook,facebook,paid_social,retargeting,240.13
+2025-01-03,LinkedIn,linkedin,paid_social,b2b_leads,814.91
+2025-01-03,LinkedIn,linkedin,paid_social,webinar_promo,74.35
+2025-01-03,LinkedIn,linkedin,paid_social,thought_leadership,2.64
+2025-01-03,Organic,google,organic,(not set),0.0
+2025-01-03,Email,newsletter,email,weekly_digest,30.91
+2025-01-03,Email,newsletter,email,cart_reminder,105.9
+2025-01-03,Email,newsletter,email,winback,25.57
+2025-01-04,Google Ads,google,cpc,summer_sale,284.37
+2025-01-04,Google Ads,google,cpc,brand_search,332.93
+2025-01-04,Google Ads,google,cpc,competitor_kw,32.01
+2025-01-04,Google Ads,google,cpc,retargeting,970.75
+2025-01-04,Facebook,facebook,paid_social,summer_sale,392.71
+2025-01-04,Facebook,facebook,paid_social,lookalike_audience,264.97
+2025-01-04,Facebook,facebook,paid_social,video_ads,87.99
+2025-01-04,Facebook,facebook,paid_social,retargeting,486.51
+2025-01-04,LinkedIn,linkedin,paid_social,b2b_leads,764.07
+2025-01-04,LinkedIn,linkedin,paid_social,webinar_promo,6.19
+2025-01-04,LinkedIn,linkedin,paid_social,thought_leadership,155.35
+2025-01-04,Organic,google,organic,(not set),0.0
+2025-01-04,Email,newsletter,email,weekly_digest,41.6
+2025-01-04,Email,newsletter,email,cart_reminder,4.38
+2025-01-04,Email,newsletter,email,winback,134.52
+2025-01-05,Google Ads,google,cpc,summer_sale,27.21
+2025-01-05,Google Ads,google,cpc,brand_search,127.49
+2025-01-05,Google Ads,google,cpc,competitor_kw,400.96
+2025-01-05,Google Ads,google,cpc,retargeting,929.66
+2025-01-05,Facebook,facebook,paid_social,summer_sale,205.55
+2025-01-05,Facebook,facebook,paid_social,lookalike_audience,310.01
+2025-01-05,Facebook,facebook,paid_social,video_ads,464.77
+2025-01-05,Facebook,facebook,paid_social,retargeting,231.3
+2025-01-05,LinkedIn,linkedin,paid_social,b2b_leads,97.16
+2025-01-05,LinkedIn,linkedin,paid_social,webinar_promo,131.79
+2025-01-05,LinkedIn,linkedin,paid_social,thought_leadership,527.68
+2025-01-05,Organic,google,organic,(not set),0.0
+2025-01-05,Email,newsletter,email,weekly_digest,54.83
+2025-01-05,Email,newsletter,email,cart_reminder,35.22
+2025-01-05,Email,newsletter,email,winback,115.21
+2025-01-06,Google Ads,google,cpc,summer_sale,682.7
+2025-01-06,Google Ads,google,cpc,brand_search,76.44
+2025-01-06,Google Ads,google,cpc,competitor_kw,683.12
+2025-01-06,Google Ads,google,cpc,retargeting,49.72
+2025-01-06,Facebook,facebook,paid_social,summer_sale,40.05
+2025-01-06,Facebook,facebook,paid_social,lookalike_audience,108.1
+2025-01-06,Facebook,facebook,paid_social,video_ads,5.85
+2025-01-06,Facebook,facebook,paid_social,retargeting,1198.66
+2025-01-06,LinkedIn,linkedin,paid_social,b2b_leads,86.39
+2025-01-06,LinkedIn,linkedin,paid_social,webinar_promo,861.6
+2025-01-06,LinkedIn,linkedin,paid_social,thought_leadership,28.87
+2025-01-06,Organic,google,organic,(not set),0.0
+2025-01-06,Email,newsletter,email,weekly_digest,135.54
+2025-01-06,Email,newsletter,email,cart_reminder,16.58
+2025-01-06,Email,newsletter,email,winback,39.67
+2025-01-07,Google Ads,google,cpc,summer_sale,297.43
+2025-01-07,Google Ads,google,cpc,brand_search,100.84
+2025-01-07,Google Ads,google,cpc,competitor_kw,661.54
+2025-01-07,Google Ads,google,cpc,retargeting,152.1
+2025-01-07,Facebook,facebook,paid_social,summer_sale,273.07
+2025-01-07,Facebook,facebook,paid_social,lookalike_audience,389.68
+2025-01-07,Facebook,facebook,paid_social,video_ads,188.06
+2025-01-07,Facebook,facebook,paid_social,retargeting,322.8
+2025-01-07,LinkedIn,linkedin,paid_social,b2b_leads,219.57
+2025-01-07,LinkedIn,linkedin,paid_social,webinar_promo,158.95
+2025-01-07,LinkedIn,linkedin,paid_social,thought_leadership,282.96
+2025-01-07,Organic,google,organic,(not set),0.0
+2025-01-07,Email,newsletter,email,weekly_digest,134.01
+2025-01-07,Email,newsletter,email,cart_reminder,15.88
+2025-01-07,Email,newsletter,email,winback,59.13
+2025-01-08,Google Ads,google,cpc,summer_sale,549.11
+2025-01-08,Google Ads,google,cpc,brand_search,61.53
+2025-01-08,Google Ads,google,cpc,competitor_kw,525.44
+2025-01-08,Google Ads,google,cpc,retargeting,222.55
+2025-01-08,Facebook,facebook,paid_social,summer_sale,63.62
+2025-01-08,Facebook,facebook,paid_social,lookalike_audience,407.63
+2025-01-08,Facebook,facebook,paid_social,video_ads,771.02
+2025-01-08,Facebook,facebook,paid_social,retargeting,11.93
+2025-01-08,LinkedIn,linkedin,paid_social,b2b_leads,328.85
+2025-01-08,LinkedIn,linkedin,paid_social,webinar_promo,234.37
+2025-01-08,LinkedIn,linkedin,paid_social,thought_leadership,239.53
+2025-01-08,Organic,google,organic,(not set),0.0
+2025-01-08,Email,newsletter,email,weekly_digest,114.34
+2025-01-08,Email,newsletter,email,cart_reminder,90.53
+2025-01-08,Email,newsletter,email,winback,11.43
+2025-01-09,Google Ads,google,cpc,summer_sale,248.36
+2025-01-09,Google Ads,google,cpc,brand_search,510.12
+2025-01-09,Google Ads,google,cpc,competitor_kw,565.01
+2025-01-09,Google Ads,google,cpc,retargeting,6.33
+2025-01-09,Facebook,facebook,paid_social,summer_sale,8.69
+2025-01-09,Facebook,facebook,paid_social,lookalike_audience,95.35
+2025-01-09,Facebook,facebook,paid_social,video_ads,369.74
+2025-01-09,Facebook,facebook,paid_social,retargeting,767.87
+2025-01-09,LinkedIn,linkedin,paid_social,b2b_leads,256.89
+2025-01-09,LinkedIn,linkedin,paid_social,webinar_promo,101.62
+2025-01-09,LinkedIn,linkedin,paid_social,thought_leadership,511.16
+2025-01-09,Organic,google,organic,(not set),0.0
+2025-01-09,Email,newsletter,email,weekly_digest,142.65
+2025-01-09,Email,newsletter,email,cart_reminder,8.06
+2025-01-09,Email,newsletter,email,winback,61.06
+2025-01-10,Google Ads,google,cpc,summer_sale,543.88
+2025-01-10,Google Ads,google,cpc,brand_search,161.47
+2025-01-10,Google Ads,google,cpc,competitor_kw,781.47
+2025-01-10,Google Ads,google,cpc,retargeting,134.62
+2025-01-10,Facebook,facebook,paid_social,summer_sale,990.2
+2025-01-10,Facebook,facebook,paid_social,lookalike_audience,22.0
+2025-01-10,Facebook,facebook,paid_social,video_ads,146.73
+2025-01-10,Facebook,facebook,paid_social,retargeting,97.61
+2025-01-10,LinkedIn,linkedin,paid_social,b2b_leads,22.27
+2025-01-10,LinkedIn,linkedin,paid_social,webinar_promo,197.09
+2025-01-10,LinkedIn,linkedin,paid_social,thought_leadership,751.75
+2025-01-10,Organic,google,organic,(not set),0.0
+2025-01-10,Email,newsletter,email,weekly_digest,59.37
+2025-01-10,Email,newsletter,email,cart_reminder,89.23
+2025-01-10,Email,newsletter,email,winback,32.41
+2025-01-11,Google Ads,google,cpc,summer_sale,382.17
+2025-01-11,Google Ads,google,cpc,brand_search,70.6
+2025-01-11,Google Ads,google,cpc,competitor_kw,741.63
+2025-01-11,Google Ads,google,cpc,retargeting,99.82
+2025-01-11,Facebook,facebook,paid_social,summer_sale,536.11
+2025-01-11,Facebook,facebook,paid_social,lookalike_audience,65.82
+2025-01-11,Facebook,facebook,paid_social,video_ads,131.85
+2025-01-11,Facebook,facebook,paid_social,retargeting,357.75
+2025-01-11,LinkedIn,linkedin,paid_social,b2b_leads,118.97
+2025-01-11,LinkedIn,linkedin,paid_social,webinar_promo,406.06
+2025-01-11,LinkedIn,linkedin,paid_social,thought_leadership,113.71
+2025-01-11,Organic,google,organic,(not set),0.0
+2025-01-11,Email,newsletter,email,weekly_digest,183.92
+2025-01-11,Email,newsletter,email,cart_reminder,10.66
+2025-01-11,Email,newsletter,email,winback,33.82
+2025-01-12,Google Ads,google,cpc,summer_sale,385.72
+2025-01-12,Google Ads,google,cpc,brand_search,1009.64
+2025-01-12,Google Ads,google,cpc,competitor_kw,155.6
+2025-01-12,Google Ads,google,cpc,retargeting,266.93
+2025-01-12,Facebook,facebook,paid_social,summer_sale,262.57
+2025-01-12,Facebook,facebook,paid_social,lookalike_audience,523.35
+2025-01-12,Facebook,facebook,paid_social,video_ads,59.29
+2025-01-12,Facebook,facebook,paid_social,retargeting,261.43
+2025-01-12,LinkedIn,linkedin,paid_social,b2b_leads,530.04
+2025-01-12,LinkedIn,linkedin,paid_social,webinar_promo,348.53
+2025-01-12,LinkedIn,linkedin,paid_social,thought_leadership,75.1
+2025-01-12,Organic,google,organic,(not set),0.0
+2025-01-12,Email,newsletter,email,weekly_digest,10.62
+2025-01-12,Email,newsletter,email,cart_reminder,8.1
+2025-01-12,Email,newsletter,email,winback,219.96
+2025-01-13,Google Ads,google,cpc,summer_sale,369.54
+2025-01-13,Google Ads,google,cpc,brand_search,738.74
+2025-01-13,Google Ads,google,cpc,competitor_kw,284.66
+2025-01-13,Google Ads,google,cpc,retargeting,96.33
+2025-01-13,Facebook,facebook,paid_social,summer_sale,210.73
+2025-01-13,Facebook,facebook,paid_social,lookalike_audience,248.41
+2025-01-13,Facebook,facebook,paid_social,video_ads,55.78
+2025-01-13,Facebook,facebook,paid_social,retargeting,593.62
+2025-01-13,LinkedIn,linkedin,paid_social,b2b_leads,867.37
+2025-01-13,LinkedIn,linkedin,paid_social,webinar_promo,43.31
+2025-01-13,LinkedIn,linkedin,paid_social,thought_leadership,84.01
+2025-01-13,Organic,google,organic,(not set),0.0
+2025-01-13,Email,newsletter,email,weekly_digest,78.54
+2025-01-13,Email,newsletter,email,cart_reminder,83.34
+2025-01-13,Email,newsletter,email,winback,64.08
+2025-01-14,Google Ads,google,cpc,summer_sale,277.82
+2025-01-14,Google Ads,google,cpc,brand_search,127.68
+2025-01-14,Google Ads,google,cpc,competitor_kw,246.96
+2025-01-14,Google Ads,google,cpc,retargeting,1086.38
+2025-01-14,Facebook,facebook,paid_social,summer_sale,98.53
+2025-01-14,Facebook,facebook,paid_social,lookalike_audience,22.56
+2025-01-14,Facebook,facebook,paid_social,video_ads,116.29
+2025-01-14,Facebook,facebook,paid_social,retargeting,697.85
+2025-01-14,LinkedIn,linkedin,paid_social,b2b_leads,125.26
+2025-01-14,LinkedIn,linkedin,paid_social,webinar_promo,382.12
+2025-01-14,LinkedIn,linkedin,paid_social,thought_leadership,170.92
+2025-01-14,Organic,google,organic,(not set),0.0
+2025-01-14,Email,newsletter,email,weekly_digest,66.37
+2025-01-14,Email,newsletter,email,cart_reminder,88.67
+2025-01-14,Email,newsletter,email,winback,11.49
+2025-01-15,Google Ads,google,cpc,summer_sale,371.37
+2025-01-15,Google Ads,google,cpc,brand_search,38.7
+2025-01-15,Google Ads,google,cpc,competitor_kw,482.84
+2025-01-15,Google Ads,google,cpc,retargeting,555.54
+2025-01-15,Facebook,facebook,paid_social,summer_sale,592.02
+2025-01-15,Facebook,facebook,paid_social,lookalike_audience,327.48
+2025-01-15,Facebook,facebook,paid_social,video_ads,174.82
+2025-01-15,Facebook,facebook,paid_social,retargeting,122.4
+2025-01-15,LinkedIn,linkedin,paid_social,b2b_leads,430.52
+2025-01-15,LinkedIn,linkedin,paid_social,webinar_promo,375.54
+2025-01-15,LinkedIn,linkedin,paid_social,thought_leadership,40.35
+2025-01-15,Organic,google,organic,(not set),0.0
+2025-01-15,Email,newsletter,email,weekly_digest,24.49
+2025-01-15,Email,newsletter,email,cart_reminder,10.61
+2025-01-15,Email,newsletter,email,winback,133.82
+2025-01-16,Google Ads,google,cpc,summer_sale,30.82
+2025-01-16,Google Ads,google,cpc,brand_search,116.0
+2025-01-16,Google Ads,google,cpc,competitor_kw,1073.7
+2025-01-16,Google Ads,google,cpc,retargeting,449.86
+2025-01-16,Facebook,facebook,paid_social,summer_sale,324.41
+2025-01-16,Facebook,facebook,paid_social,lookalike_audience,221.97
+2025-01-16,Facebook,facebook,paid_social,video_ads,491.42
+2025-01-16,Facebook,facebook,paid_social,retargeting,179.46
+2025-01-16,LinkedIn,linkedin,paid_social,b2b_leads,520.26
+2025-01-16,LinkedIn,linkedin,paid_social,webinar_promo,222.16
+2025-01-16,LinkedIn,linkedin,paid_social,thought_leadership,149.26
+2025-01-16,Organic,google,organic,(not set),0.0
+2025-01-16,Email,newsletter,email,weekly_digest,56.04
+2025-01-16,Email,newsletter,email,cart_reminder,29.85
+2025-01-16,Email,newsletter,email,winback,110.27
+2025-01-17,Google Ads,google,cpc,summer_sale,39.67
+2025-01-17,Google Ads,google,cpc,brand_search,591.21
+2025-01-17,Google Ads,google,cpc,competitor_kw,648.74
+2025-01-17,Google Ads,google,cpc,retargeting,123.12
+2025-01-17,Facebook,facebook,paid_social,summer_sale,297.1
+2025-01-17,Facebook,facebook,paid_social,lookalike_audience,114.96
+2025-01-17,Facebook,facebook,paid_social,video_ads,389.19
+2025-01-17,Facebook,facebook,paid_social,retargeting,533.58
+2025-01-17,LinkedIn,linkedin,paid_social,b2b_leads,122.77
+2025-01-17,LinkedIn,linkedin,paid_social,webinar_promo,690.74
+2025-01-17,LinkedIn,linkedin,paid_social,thought_leadership,10.39
+2025-01-17,Organic,google,organic,(not set),0.0
+2025-01-17,Email,newsletter,email,weekly_digest,77.6
+2025-01-17,Email,newsletter,email,cart_reminder,67.22
+2025-01-17,Email,newsletter,email,winback,45.56
+2025-01-18,Google Ads,google,cpc,summer_sale,577.11
+2025-01-18,Google Ads,google,cpc,brand_search,93.96
+2025-01-18,Google Ads,google,cpc,competitor_kw,2.59
+2025-01-18,Google Ads,google,cpc,retargeting,777.18
+2025-01-18,Facebook,facebook,paid_social,summer_sale,167.08
+2025-01-18,Facebook,facebook,paid_social,lookalike_audience,112.7
+2025-01-18,Facebook,facebook,paid_social,video_ads,24.17
+2025-01-18,Facebook,facebook,paid_social,retargeting,661.79
+2025-01-18,LinkedIn,linkedin,paid_social,b2b_leads,110.14
+2025-01-18,LinkedIn,linkedin,paid_social,webinar_promo,372.0
+2025-01-18,LinkedIn,linkedin,paid_social,thought_leadership,242.62
+2025-01-18,Organic,google,organic,(not set),0.0
+2025-01-18,Email,newsletter,email,weekly_digest,80.49
+2025-01-18,Email,newsletter,email,cart_reminder,63.84
+2025-01-18,Email,newsletter,email,winback,50.53
+2025-01-19,Google Ads,google,cpc,summer_sale,182.99
+2025-01-19,Google Ads,google,cpc,brand_search,687.87
+2025-01-19,Google Ads,google,cpc,competitor_kw,365.41
+2025-01-19,Google Ads,google,cpc,retargeting,136.95
+2025-01-19,Facebook,facebook,paid_social,summer_sale,812.35
+2025-01-19,Facebook,facebook,paid_social,lookalike_audience,196.15
+2025-01-19,Facebook,facebook,paid_social,video_ads,121.63
+2025-01-19,Facebook,facebook,paid_social,retargeting,142.49
+2025-01-19,LinkedIn,linkedin,paid_social,b2b_leads,444.02
+2025-01-19,LinkedIn,linkedin,paid_social,webinar_promo,193.22
+2025-01-19,LinkedIn,linkedin,paid_social,thought_leadership,267.68
+2025-01-19,Organic,google,organic,(not set),0.0
+2025-01-19,Email,newsletter,email,weekly_digest,58.02
+2025-01-19,Email,newsletter,email,cart_reminder,9.07
+2025-01-19,Email,newsletter,email,winback,98.93
+2025-01-20,Google Ads,google,cpc,summer_sale,61.55
+2025-01-20,Google Ads,google,cpc,brand_search,222.05
+2025-01-20,Google Ads,google,cpc,competitor_kw,174.29
+2025-01-20,Google Ads,google,cpc,retargeting,1216.79
+2025-01-20,Facebook,facebook,paid_social,summer_sale,43.12
+2025-01-20,Facebook,facebook,paid_social,lookalike_audience,716.98
+2025-01-20,Facebook,facebook,paid_social,video_ads,136.83
+2025-01-20,Facebook,facebook,paid_social,retargeting,443.08
+2025-01-20,LinkedIn,linkedin,paid_social,b2b_leads,155.1
+2025-01-20,LinkedIn,linkedin,paid_social,webinar_promo,672.85
+2025-01-20,LinkedIn,linkedin,paid_social,thought_leadership,57.78
+2025-01-20,Organic,google,organic,(not set),0.0
+2025-01-20,Email,newsletter,email,weekly_digest,64.64
+2025-01-20,Email,newsletter,email,cart_reminder,47.27
+2025-01-20,Email,newsletter,email,winback,104.22
+2025-01-21,Google Ads,google,cpc,summer_sale,628.71
+2025-01-21,Google Ads,google,cpc,brand_search,63.79
+2025-01-21,Google Ads,google,cpc,competitor_kw,305.35
+2025-01-21,Google Ads,google,cpc,retargeting,614.97
+2025-01-21,Facebook,facebook,paid_social,summer_sale,665.82
+2025-01-21,Facebook,facebook,paid_social,lookalike_audience,104.05
+2025-01-21,Facebook,facebook,paid_social,video_ads,573.0
+2025-01-21,Facebook,facebook,paid_social,retargeting,75.99
+2025-01-21,LinkedIn,linkedin,paid_social,b2b_leads,29.27
+2025-01-21,LinkedIn,linkedin,paid_social,webinar_promo,637.65
+2025-01-21,LinkedIn,linkedin,paid_social,thought_leadership,184.23
+2025-01-21,Organic,google,organic,(not set),0.0
+2025-01-21,Email,newsletter,email,weekly_digest,31.56
+2025-01-21,Email,newsletter,email,cart_reminder,151.06
+2025-01-21,Email,newsletter,email,winback,59.7
+2025-01-22,Google Ads,google,cpc,summer_sale,19.19
+2025-01-22,Google Ads,google,cpc,brand_search,985.54
+2025-01-22,Google Ads,google,cpc,competitor_kw,136.15
+2025-01-22,Google Ads,google,cpc,retargeting,221.4
+2025-01-22,Facebook,facebook,paid_social,summer_sale,303.48
+2025-01-22,Facebook,facebook,paid_social,lookalike_audience,515.84
+2025-01-22,Facebook,facebook,paid_social,video_ads,226.83
+2025-01-22,Facebook,facebook,paid_social,retargeting,12.93
+2025-01-22,LinkedIn,linkedin,paid_social,b2b_leads,201.89
+2025-01-22,LinkedIn,linkedin,paid_social,webinar_promo,526.33
+2025-01-22,LinkedIn,linkedin,paid_social,thought_leadership,16.22
+2025-01-22,Organic,google,organic,(not set),0.0
+2025-01-22,Email,newsletter,email,weekly_digest,112.37
+2025-01-22,Email,newsletter,email,cart_reminder,135.53
+2025-01-22,Email,newsletter,email,winback,0.94
+2025-01-23,Google Ads,google,cpc,summer_sale,11.37
+2025-01-23,Google Ads,google,cpc,brand_search,72.93
+2025-01-23,Google Ads,google,cpc,competitor_kw,1335.43
+2025-01-23,Google Ads,google,cpc,retargeting,193.43
+2025-01-23,Facebook,facebook,paid_social,summer_sale,704.14
+2025-01-23,Facebook,facebook,paid_social,lookalike_audience,337.6
+2025-01-23,Facebook,facebook,paid_social,video_ads,111.87
+2025-01-23,Facebook,facebook,paid_social,retargeting,12.64
+2025-01-23,LinkedIn,linkedin,paid_social,b2b_leads,216.2
+2025-01-23,LinkedIn,linkedin,paid_social,webinar_promo,127.27
+2025-01-23,LinkedIn,linkedin,paid_social,thought_leadership,382.43
+2025-01-23,Organic,google,organic,(not set),0.0
+2025-01-23,Email,newsletter,email,weekly_digest,100.68
+2025-01-23,Email,newsletter,email,cart_reminder,3.98
+2025-01-23,Email,newsletter,email,winback,86.73
+2025-01-24,Google Ads,google,cpc,summer_sale,1199.08
+2025-01-24,Google Ads,google,cpc,brand_search,80.75
+2025-01-24,Google Ads,google,cpc,competitor_kw,13.68
+2025-01-24,Google Ads,google,cpc,retargeting,216.94
+2025-01-24,Facebook,facebook,paid_social,summer_sale,553.92
+2025-01-24,Facebook,facebook,paid_social,lookalike_audience,515.33
+2025-01-24,Facebook,facebook,paid_social,video_ads,29.9
+2025-01-24,Facebook,facebook,paid_social,retargeting,11.3
+2025-01-24,LinkedIn,linkedin,paid_social,b2b_leads,272.09
+2025-01-24,LinkedIn,linkedin,paid_social,webinar_promo,478.03
+2025-01-24,LinkedIn,linkedin,paid_social,thought_leadership,100.56
+2025-01-24,Organic,google,organic,(not set),0.0
+2025-01-24,Email,newsletter,email,weekly_digest,125.04
+2025-01-24,Email,newsletter,email,cart_reminder,71.44
+2025-01-24,Email,newsletter,email,winback,3.18
+2025-01-25,Google Ads,google,cpc,summer_sale,980.53
+2025-01-25,Google Ads,google,cpc,brand_search,227.82
+2025-01-25,Google Ads,google,cpc,competitor_kw,70.41
+2025-01-25,Google Ads,google,cpc,retargeting,240.85
+2025-01-25,Facebook,facebook,paid_social,summer_sale,198.99
+2025-01-25,Facebook,facebook,paid_social,lookalike_audience,190.95
+2025-01-25,Facebook,facebook,paid_social,video_ads,769.72
+2025-01-25,Facebook,facebook,paid_social,retargeting,154.05
+2025-01-25,LinkedIn,linkedin,paid_social,b2b_leads,266.76
+2025-01-25,LinkedIn,linkedin,paid_social,webinar_promo,293.66
+2025-01-25,LinkedIn,linkedin,paid_social,thought_leadership,315.93
+2025-01-25,Organic,google,organic,(not set),0.0
+2025-01-25,Email,newsletter,email,weekly_digest,108.21
+2025-01-25,Email,newsletter,email,cart_reminder,8.31
+2025-01-25,Email,newsletter,email,winback,91.8
+2025-01-26,Google Ads,google,cpc,summer_sale,1289.97
+2025-01-26,Google Ads,google,cpc,brand_search,130.54
+2025-01-26,Google Ads,google,cpc,competitor_kw,14.92
+2025-01-26,Google Ads,google,cpc,retargeting,184.64
+2025-01-26,Facebook,facebook,paid_social,summer_sale,154.91
+2025-01-26,Facebook,facebook,paid_social,lookalike_audience,459.05
+2025-01-26,Facebook,facebook,paid_social,video_ads,424.3
+2025-01-26,Facebook,facebook,paid_social,retargeting,9.57
+2025-01-26,LinkedIn,linkedin,paid_social,b2b_leads,350.44
+2025-01-26,LinkedIn,linkedin,paid_social,webinar_promo,19.66
+2025-01-26,LinkedIn,linkedin,paid_social,thought_leadership,382.79
+2025-01-26,Organic,google,organic,(not set),0.0
+2025-01-26,Email,newsletter,email,weekly_digest,118.26
+2025-01-26,Email,newsletter,email,cart_reminder,43.03
+2025-01-26,Email,newsletter,email,winback,3.14
+2025-01-27,Google Ads,google,cpc,summer_sale,326.66
+2025-01-27,Google Ads,google,cpc,brand_search,265.71
+2025-01-27,Google Ads,google,cpc,competitor_kw,554.65
+2025-01-27,Google Ads,google,cpc,retargeting,249.38
+2025-01-27,Facebook,facebook,paid_social,summer_sale,155.38
+2025-01-27,Facebook,facebook,paid_social,lookalike_audience,695.08
+2025-01-27,Facebook,facebook,paid_social,video_ads,121.14
+2025-01-27,Facebook,facebook,paid_social,retargeting,268.36
+2025-01-27,LinkedIn,linkedin,paid_social,b2b_leads,80.52
+2025-01-27,LinkedIn,linkedin,paid_social,webinar_promo,449.66
+2025-01-27,LinkedIn,linkedin,paid_social,thought_leadership,122.2
+2025-01-27,Organic,google,organic,(not set),0.0
+2025-01-27,Email,newsletter,email,weekly_digest,70.13
+2025-01-27,Email,newsletter,email,cart_reminder,40.97
+2025-01-27,Email,newsletter,email,winback,80.15
+2025-01-28,Google Ads,google,cpc,summer_sale,661.64
+2025-01-28,Google Ads,google,cpc,brand_search,67.27
+2025-01-28,Google Ads,google,cpc,competitor_kw,222.32
+2025-01-28,Google Ads,google,cpc,retargeting,556.61
+2025-01-28,Facebook,facebook,paid_social,summer_sale,422.41
+2025-01-28,Facebook,facebook,paid_social,lookalike_audience,89.86
+2025-01-28,Facebook,facebook,paid_social,video_ads,453.85
+2025-01-28,Facebook,facebook,paid_social,retargeting,140.14
+2025-01-28,LinkedIn,linkedin,paid_social,b2b_leads,36.9
+2025-01-28,LinkedIn,linkedin,paid_social,webinar_promo,612.56
+2025-01-28,LinkedIn,linkedin,paid_social,thought_leadership,151.46
+2025-01-28,Organic,google,organic,(not set),0.0
+2025-01-28,Email,newsletter,email,weekly_digest,40.88
+2025-01-28,Email,newsletter,email,cart_reminder,78.81
+2025-01-28,Email,newsletter,email,winback,92.0
+2025-01-29,Google Ads,google,cpc,summer_sale,578.71
+2025-01-29,Google Ads,google,cpc,brand_search,19.58
+2025-01-29,Google Ads,google,cpc,competitor_kw,422.39
+2025-01-29,Google Ads,google,cpc,retargeting,390.02
+2025-01-29,Facebook,facebook,paid_social,summer_sale,246.88
+2025-01-29,Facebook,facebook,paid_social,lookalike_audience,502.15
+2025-01-29,Facebook,facebook,paid_social,video_ads,310.6
+2025-01-29,Facebook,facebook,paid_social,retargeting,143.33
+2025-01-29,LinkedIn,linkedin,paid_social,b2b_leads,268.58
+2025-01-29,LinkedIn,linkedin,paid_social,webinar_promo,33.57
+2025-01-29,LinkedIn,linkedin,paid_social,thought_leadership,596.38
+2025-01-29,Organic,google,organic,(not set),0.0
+2025-01-29,Email,newsletter,email,weekly_digest,55.31
+2025-01-29,Email,newsletter,email,cart_reminder,12.67
+2025-01-29,Email,newsletter,email,winback,146.87
+2025-01-30,Google Ads,google,cpc,summer_sale,534.41
+2025-01-30,Google Ads,google,cpc,brand_search,158.46
+2025-01-30,Google Ads,google,cpc,competitor_kw,317.39
+2025-01-30,Google Ads,google,cpc,retargeting,431.72
+2025-01-30,Facebook,facebook,paid_social,summer_sale,228.09
+2025-01-30,Facebook,facebook,paid_social,lookalike_audience,408.04
+2025-01-30,Facebook,facebook,paid_social,video_ads,15.09
+2025-01-30,Facebook,facebook,paid_social,retargeting,373.44
+2025-01-30,LinkedIn,linkedin,paid_social,b2b_leads,491.89
+2025-01-30,LinkedIn,linkedin,paid_social,webinar_promo,65.91
+2025-01-30,LinkedIn,linkedin,paid_social,thought_leadership,315.03
+2025-01-30,Organic,google,organic,(not set),0.0
+2025-01-30,Email,newsletter,email,weekly_digest,45.99
+2025-01-30,Email,newsletter,email,cart_reminder,55.39
+2025-01-30,Email,newsletter,email,winback,112.79
+2025-01-31,Google Ads,google,cpc,summer_sale,384.95
+2025-01-31,Google Ads,google,cpc,brand_search,52.11
+2025-01-31,Google Ads,google,cpc,competitor_kw,40.14
+2025-01-31,Google Ads,google,cpc,retargeting,984.85
+2025-01-31,Facebook,facebook,paid_social,summer_sale,239.08
+2025-01-31,Facebook,facebook,paid_social,lookalike_audience,903.96
+2025-01-31,Facebook,facebook,paid_social,video_ads,19.61
+2025-01-31,Facebook,facebook,paid_social,retargeting,236.25
+2025-01-31,LinkedIn,linkedin,paid_social,b2b_leads,400.63
+2025-01-31,LinkedIn,linkedin,paid_social,webinar_promo,458.86
+2025-01-31,LinkedIn,linkedin,paid_social,thought_leadership,93.04
+2025-01-31,Organic,google,organic,(not set),0.0
+2025-01-31,Email,newsletter,email,weekly_digest,78.79
+2025-01-31,Email,newsletter,email,cart_reminder,19.07
+2025-01-31,Email,newsletter,email,winback,85.9
+2025-02-01,Google Ads,google,cpc,summer_sale,29.29
+2025-02-01,Google Ads,google,cpc,brand_search,616.76
+2025-02-01,Google Ads,google,cpc,competitor_kw,327.54
+2025-02-01,Google Ads,google,cpc,retargeting,445.55
+2025-02-01,Facebook,facebook,paid_social,summer_sale,121.74
+2025-02-01,Facebook,facebook,paid_social,lookalike_audience,710.9
+2025-02-01,Facebook,facebook,paid_social,video_ads,316.46
+2025-02-01,Facebook,facebook,paid_social,retargeting,48.39
+2025-02-01,LinkedIn,linkedin,paid_social,b2b_leads,497.58
+2025-02-01,LinkedIn,linkedin,paid_social,webinar_promo,316.8
+2025-02-01,LinkedIn,linkedin,paid_social,thought_leadership,53.92
+2025-02-01,Organic,google,organic,(not set),0.0
+2025-02-01,Email,newsletter,email,weekly_digest,137.02
+2025-02-01,Email,newsletter,email,cart_reminder,15.52
+2025-02-01,Email,newsletter,email,winback,16.73
+2025-02-02,Google Ads,google,cpc,summer_sale,640.84
+2025-02-02,Google Ads,google,cpc,brand_search,427.32
+2025-02-02,Google Ads,google,cpc,competitor_kw,121.94
+2025-02-02,Google Ads,google,cpc,retargeting,351.49
+2025-02-02,Facebook,facebook,paid_social,summer_sale,34.33
+2025-02-02,Facebook,facebook,paid_social,lookalike_audience,481.64
+2025-02-02,Facebook,facebook,paid_social,video_ads,193.67
+2025-02-02,Facebook,facebook,paid_social,retargeting,530.8
+2025-02-02,LinkedIn,linkedin,paid_social,b2b_leads,393.77
+2025-02-02,LinkedIn,linkedin,paid_social,webinar_promo,137.8
+2025-02-02,LinkedIn,linkedin,paid_social,thought_leadership,261.79
+2025-02-02,Organic,google,organic,(not set),0.0
+2025-02-02,Email,newsletter,email,weekly_digest,88.84
+2025-02-02,Email,newsletter,email,cart_reminder,64.86
+2025-02-02,Email,newsletter,email,winback,18.28
+2025-02-03,Google Ads,google,cpc,summer_sale,105.04
+2025-02-03,Google Ads,google,cpc,brand_search,808.1
+2025-02-03,Google Ads,google,cpc,competitor_kw,18.44
+2025-02-03,Google Ads,google,cpc,retargeting,262.06
+2025-02-03,Facebook,facebook,paid_social,summer_sale,624.52
+2025-02-03,Facebook,facebook,paid_social,lookalike_audience,10.38
+2025-02-03,Facebook,facebook,paid_social,video_ads,407.63
+2025-02-03,Facebook,facebook,paid_social,retargeting,58.45
+2025-02-03,LinkedIn,linkedin,paid_social,b2b_leads,305.12
+2025-02-03,LinkedIn,linkedin,paid_social,webinar_promo,281.77
+2025-02-03,LinkedIn,linkedin,paid_social,thought_leadership,82.63
+2025-02-03,Organic,google,organic,(not set),0.0
+2025-02-03,Email,newsletter,email,weekly_digest,66.58
+2025-02-03,Email,newsletter,email,cart_reminder,93.4
+2025-02-03,Email,newsletter,email,winback,4.15
+2025-02-04,Google Ads,google,cpc,summer_sale,139.52
+2025-02-04,Google Ads,google,cpc,brand_search,1584.17
+2025-02-04,Google Ads,google,cpc,competitor_kw,57.33
+2025-02-04,Google Ads,google,cpc,retargeting,107.44
+2025-02-04,Facebook,facebook,paid_social,summer_sale,175.37
+2025-02-04,Facebook,facebook,paid_social,lookalike_audience,151.41
+2025-02-04,Facebook,facebook,paid_social,video_ads,651.9
+2025-02-04,Facebook,facebook,paid_social,retargeting,10.24
+2025-02-04,LinkedIn,linkedin,paid_social,b2b_leads,227.69
+2025-02-04,LinkedIn,linkedin,paid_social,webinar_promo,210.58
+2025-02-04,LinkedIn,linkedin,paid_social,thought_leadership,327.35
+2025-02-04,Organic,google,organic,(not set),0.0
+2025-02-04,Email,newsletter,email,weekly_digest,17.52
+2025-02-04,Email,newsletter,email,cart_reminder,67.62
+2025-02-04,Email,newsletter,email,winback,112.36
+2025-02-05,Google Ads,google,cpc,summer_sale,140.6
+2025-02-05,Google Ads,google,cpc,brand_search,637.46
+2025-02-05,Google Ads,google,cpc,competitor_kw,451.82
+2025-02-05,Google Ads,google,cpc,retargeting,198.33
+2025-02-05,Facebook,facebook,paid_social,summer_sale,309.7
+2025-02-05,Facebook,facebook,paid_social,lookalike_audience,106.84
+2025-02-05,Facebook,facebook,paid_social,video_ads,629.89
+2025-02-05,Facebook,facebook,paid_social,retargeting,67.97
+2025-02-05,LinkedIn,linkedin,paid_social,b2b_leads,82.03
+2025-02-05,LinkedIn,linkedin,paid_social,webinar_promo,17.22
+2025-02-05,LinkedIn,linkedin,paid_social,thought_leadership,883.95
+2025-02-05,Organic,google,organic,(not set),0.0
+2025-02-05,Email,newsletter,email,weekly_digest,22.24
+2025-02-05,Email,newsletter,email,cart_reminder,71.93
+2025-02-05,Email,newsletter,email,winback,136.53
+2025-02-06,Google Ads,google,cpc,summer_sale,5.05
+2025-02-06,Google Ads,google,cpc,brand_search,218.26
+2025-02-06,Google Ads,google,cpc,competitor_kw,1457.61
+2025-02-06,Google Ads,google,cpc,retargeting,79.24
+2025-02-06,Facebook,facebook,paid_social,summer_sale,134.94
+2025-02-06,Facebook,facebook,paid_social,lookalike_audience,624.06
+2025-02-06,Facebook,facebook,paid_social,video_ads,26.17
+2025-02-06,Facebook,facebook,paid_social,retargeting,432.44
+2025-02-06,LinkedIn,linkedin,paid_social,b2b_leads,124.55
+2025-02-06,LinkedIn,linkedin,paid_social,webinar_promo,334.78
+2025-02-06,LinkedIn,linkedin,paid_social,thought_leadership,530.27
+2025-02-06,Organic,google,organic,(not set),0.0
+2025-02-06,Email,newsletter,email,weekly_digest,133.82
+2025-02-06,Email,newsletter,email,cart_reminder,2.48
+2025-02-06,Email,newsletter,email,winback,83.09
+2025-02-07,Google Ads,google,cpc,summer_sale,65.01
+2025-02-07,Google Ads,google,cpc,brand_search,164.2
+2025-02-07,Google Ads,google,cpc,competitor_kw,689.66
+2025-02-07,Google Ads,google,cpc,retargeting,516.61
+2025-02-07,Facebook,facebook,paid_social,summer_sale,545.97
+2025-02-07,Facebook,facebook,paid_social,lookalike_audience,117.16
+2025-02-07,Facebook,facebook,paid_social,video_ads,307.73
+2025-02-07,Facebook,facebook,paid_social,retargeting,403.96
+2025-02-07,LinkedIn,linkedin,paid_social,b2b_leads,61.87
+2025-02-07,LinkedIn,linkedin,paid_social,webinar_promo,376.57
+2025-02-07,LinkedIn,linkedin,paid_social,thought_leadership,292.82
+2025-02-07,Organic,google,organic,(not set),0.0
+2025-02-07,Email,newsletter,email,weekly_digest,59.83
+2025-02-07,Email,newsletter,email,cart_reminder,24.04
+2025-02-07,Email,newsletter,email,winback,126.88
+2025-02-08,Google Ads,google,cpc,summer_sale,1221.94
+2025-02-08,Google Ads,google,cpc,brand_search,123.94
+2025-02-08,Google Ads,google,cpc,competitor_kw,309.97
+2025-02-08,Google Ads,google,cpc,retargeting,13.29
+2025-02-08,Facebook,facebook,paid_social,summer_sale,26.77
+2025-02-08,Facebook,facebook,paid_social,lookalike_audience,538.91
+2025-02-08,Facebook,facebook,paid_social,video_ads,190.54
+2025-02-08,Facebook,facebook,paid_social,retargeting,288.97
+2025-02-08,LinkedIn,linkedin,paid_social,b2b_leads,260.22
+2025-02-08,LinkedIn,linkedin,paid_social,webinar_promo,157.99
+2025-02-08,LinkedIn,linkedin,paid_social,thought_leadership,439.96
+2025-02-08,Organic,google,organic,(not set),0.0
+2025-02-08,Email,newsletter,email,weekly_digest,42.82
+2025-02-08,Email,newsletter,email,cart_reminder,141.88
+2025-02-08,Email,newsletter,email,winback,17.46
+2025-02-09,Google Ads,google,cpc,summer_sale,346.14
+2025-02-09,Google Ads,google,cpc,brand_search,433.61
+2025-02-09,Google Ads,google,cpc,competitor_kw,345.56
+2025-02-09,Google Ads,google,cpc,retargeting,168.69
+2025-02-09,Facebook,facebook,paid_social,summer_sale,13.94
+2025-02-09,Facebook,facebook,paid_social,lookalike_audience,142.83
+2025-02-09,Facebook,facebook,paid_social,video_ads,460.01
+2025-02-09,Facebook,facebook,paid_social,retargeting,485.18
+2025-02-09,LinkedIn,linkedin,paid_social,b2b_leads,157.11
+2025-02-09,LinkedIn,linkedin,paid_social,webinar_promo,132.4
+2025-02-09,LinkedIn,linkedin,paid_social,thought_leadership,397.56
+2025-02-09,Organic,google,organic,(not set),0.0
+2025-02-09,Email,newsletter,email,weekly_digest,103.26
+2025-02-09,Email,newsletter,email,cart_reminder,32.8
+2025-02-09,Email,newsletter,email,winback,60.25
+2025-02-10,Google Ads,google,cpc,summer_sale,621.72
+2025-02-10,Google Ads,google,cpc,brand_search,674.91
+2025-02-10,Google Ads,google,cpc,competitor_kw,113.65
+2025-02-10,Google Ads,google,cpc,retargeting,263.05
+2025-02-10,Facebook,facebook,paid_social,summer_sale,444.49
+2025-02-10,Facebook,facebook,paid_social,lookalike_audience,64.7
+2025-02-10,Facebook,facebook,paid_social,video_ads,767.54
+2025-02-10,Facebook,facebook,paid_social,retargeting,158.08
+2025-02-10,LinkedIn,linkedin,paid_social,b2b_leads,328.19
+2025-02-10,LinkedIn,linkedin,paid_social,webinar_promo,44.63
+2025-02-10,LinkedIn,linkedin,paid_social,thought_leadership,342.76
+2025-02-10,Organic,google,organic,(not set),0.0
+2025-02-10,Email,newsletter,email,weekly_digest,96.85
+2025-02-10,Email,newsletter,email,cart_reminder,88.03
+2025-02-10,Email,newsletter,email,winback,53.83
+2025-02-11,Google Ads,google,cpc,summer_sale,520.15
+2025-02-11,Google Ads,google,cpc,brand_search,399.57
+2025-02-11,Google Ads,google,cpc,competitor_kw,29.69
+2025-02-11,Google Ads,google,cpc,retargeting,693.85
+2025-02-11,Facebook,facebook,paid_social,summer_sale,258.1
+2025-02-11,Facebook,facebook,paid_social,lookalike_audience,294.44
+2025-02-11,Facebook,facebook,paid_social,video_ads,19.81
+2025-02-11,Facebook,facebook,paid_social,retargeting,503.68
+2025-02-11,LinkedIn,linkedin,paid_social,b2b_leads,561.62
+2025-02-11,LinkedIn,linkedin,paid_social,webinar_promo,209.19
+2025-02-11,LinkedIn,linkedin,paid_social,thought_leadership,89.76
+2025-02-11,Organic,google,organic,(not set),0.0
+2025-02-11,Email,newsletter,email,weekly_digest,138.35
+2025-02-11,Email,newsletter,email,cart_reminder,31.35
+2025-02-11,Email,newsletter,email,winback,20.71
+2025-02-12,Google Ads,google,cpc,summer_sale,216.09
+2025-02-12,Google Ads,google,cpc,brand_search,252.84
+2025-02-12,Google Ads,google,cpc,competitor_kw,916.19
+2025-02-12,Google Ads,google,cpc,retargeting,130.69
+2025-02-12,Facebook,facebook,paid_social,summer_sale,340.39
+2025-02-12,Facebook,facebook,paid_social,lookalike_audience,20.0
+2025-02-12,Facebook,facebook,paid_social,video_ads,538.58
+2025-02-12,Facebook,facebook,paid_social,retargeting,434.3
+2025-02-12,LinkedIn,linkedin,paid_social,b2b_leads,52.79
+2025-02-12,LinkedIn,linkedin,paid_social,webinar_promo,627.04
+2025-02-12,LinkedIn,linkedin,paid_social,thought_leadership,21.11
+2025-02-12,Organic,google,organic,(not set),0.0
+2025-02-12,Email,newsletter,email,weekly_digest,64.33
+2025-02-12,Email,newsletter,email,cart_reminder,44.54
+2025-02-12,Email,newsletter,email,winback,75.56
+2025-02-13,Google Ads,google,cpc,summer_sale,20.03
+2025-02-13,Google Ads,google,cpc,brand_search,100.76
+2025-02-13,Google Ads,google,cpc,competitor_kw,1084.78
+2025-02-13,Google Ads,google,cpc,retargeting,379.7
+2025-02-13,Facebook,facebook,paid_social,summer_sale,1036.72
+2025-02-13,Facebook,facebook,paid_social,lookalike_audience,120.98
+2025-02-13,Facebook,facebook,paid_social,video_ads,244.1
+2025-02-13,Facebook,facebook,paid_social,retargeting,17.48
+2025-02-13,LinkedIn,linkedin,paid_social,b2b_leads,177.29
+2025-02-13,LinkedIn,linkedin,paid_social,webinar_promo,278.82
+2025-02-13,LinkedIn,linkedin,paid_social,thought_leadership,316.66
+2025-02-13,Organic,google,organic,(not set),0.0
+2025-02-13,Email,newsletter,email,weekly_digest,115.4
+2025-02-13,Email,newsletter,email,cart_reminder,66.72
+2025-02-13,Email,newsletter,email,winback,26.14
+2025-02-14,Google Ads,google,cpc,summer_sale,600.86
+2025-02-14,Google Ads,google,cpc,brand_search,169.15
+2025-02-14,Google Ads,google,cpc,competitor_kw,715.06
+2025-02-14,Google Ads,google,cpc,retargeting,1.29
+2025-02-14,Facebook,facebook,paid_social,summer_sale,129.28
+2025-02-14,Facebook,facebook,paid_social,lookalike_audience,46.24
+2025-02-14,Facebook,facebook,paid_social,video_ads,221.88
+2025-02-14,Facebook,facebook,paid_social,retargeting,612.11
+2025-02-14,LinkedIn,linkedin,paid_social,b2b_leads,440.59
+2025-02-14,LinkedIn,linkedin,paid_social,webinar_promo,211.56
+2025-02-14,LinkedIn,linkedin,paid_social,thought_leadership,120.21
+2025-02-14,Organic,google,organic,(not set),0.0
+2025-02-14,Email,newsletter,email,weekly_digest,7.01
+2025-02-14,Email,newsletter,email,cart_reminder,146.56
+2025-02-14,Email,newsletter,email,winback,65.14
+2025-02-15,Google Ads,google,cpc,summer_sale,1409.47
+2025-02-15,Google Ads,google,cpc,brand_search,96.65
+2025-02-15,Google Ads,google,cpc,competitor_kw,116.14
+2025-02-15,Google Ads,google,cpc,retargeting,45.8
+2025-02-15,Facebook,facebook,paid_social,summer_sale,586.38
+2025-02-15,Facebook,facebook,paid_social,lookalike_audience,79.09
+2025-02-15,Facebook,facebook,paid_social,video_ads,565.19
+2025-02-15,Facebook,facebook,paid_social,retargeting,60.26
+2025-02-15,LinkedIn,linkedin,paid_social,b2b_leads,74.78
+2025-02-15,LinkedIn,linkedin,paid_social,webinar_promo,383.63
+2025-02-15,LinkedIn,linkedin,paid_social,thought_leadership,297.43
+2025-02-15,Organic,google,organic,(not set),0.0
+2025-02-15,Email,newsletter,email,weekly_digest,19.42
+2025-02-15,Email,newsletter,email,cart_reminder,108.67
+2025-02-15,Email,newsletter,email,winback,90.03
+2025-02-16,Google Ads,google,cpc,summer_sale,317.87
+2025-02-16,Google Ads,google,cpc,brand_search,688.03
+2025-02-16,Google Ads,google,cpc,competitor_kw,190.45
+2025-02-16,Google Ads,google,cpc,retargeting,160.96
+2025-02-16,Facebook,facebook,paid_social,summer_sale,190.71
+2025-02-16,Facebook,facebook,paid_social,lookalike_audience,523.97
+2025-02-16,Facebook,facebook,paid_social,video_ads,68.06
+2025-02-16,Facebook,facebook,paid_social,retargeting,395.78
+2025-02-16,LinkedIn,linkedin,paid_social,b2b_leads,166.74
+2025-02-16,LinkedIn,linkedin,paid_social,webinar_promo,51.98
+2025-02-16,LinkedIn,linkedin,paid_social,thought_leadership,486.34
+2025-02-16,Organic,google,organic,(not set),0.0
+2025-02-16,Email,newsletter,email,weekly_digest,30.67
+2025-02-16,Email,newsletter,email,cart_reminder,17.61
+2025-02-16,Email,newsletter,email,winback,130.31
+2025-02-17,Google Ads,google,cpc,summer_sale,143.44
+2025-02-17,Google Ads,google,cpc,brand_search,386.58
+2025-02-17,Google Ads,google,cpc,competitor_kw,475.76
+2025-02-17,Google Ads,google,cpc,retargeting,439.75
+2025-02-17,Facebook,facebook,paid_social,summer_sale,163.77
+2025-02-17,Facebook,facebook,paid_social,lookalike_audience,334.38
+2025-02-17,Facebook,facebook,paid_social,video_ads,313.93
+2025-02-17,Facebook,facebook,paid_social,retargeting,397.59
+2025-02-17,LinkedIn,linkedin,paid_social,b2b_leads,612.31
+2025-02-17,LinkedIn,linkedin,paid_social,webinar_promo,0.61
+2025-02-17,LinkedIn,linkedin,paid_social,thought_leadership,186.06
+2025-02-17,Organic,google,organic,(not set),0.0
+2025-02-17,Email,newsletter,email,weekly_digest,53.85
+2025-02-17,Email,newsletter,email,cart_reminder,23.71
+2025-02-17,Email,newsletter,email,winback,157.38
+2025-02-18,Google Ads,google,cpc,summer_sale,248.31
+2025-02-18,Google Ads,google,cpc,brand_search,1127.96
+2025-02-18,Google Ads,google,cpc,competitor_kw,189.32
+2025-02-18,Google Ads,google,cpc,retargeting,112.07
+2025-02-18,Facebook,facebook,paid_social,summer_sale,36.58
+2025-02-18,Facebook,facebook,paid_social,lookalike_audience,72.23
+2025-02-18,Facebook,facebook,paid_social,video_ads,538.19
+2025-02-18,Facebook,facebook,paid_social,retargeting,563.63
+2025-02-18,LinkedIn,linkedin,paid_social,b2b_leads,400.01
+2025-02-18,LinkedIn,linkedin,paid_social,webinar_promo,358.37
+2025-02-18,LinkedIn,linkedin,paid_social,thought_leadership,65.17
+2025-02-18,Organic,google,organic,(not set),0.0
+2025-02-18,Email,newsletter,email,weekly_digest,199.89
+2025-02-18,Email,newsletter,email,cart_reminder,7.33
+2025-02-18,Email,newsletter,email,winback,12.4
+2025-02-19,Google Ads,google,cpc,summer_sale,243.25
+2025-02-19,Google Ads,google,cpc,brand_search,411.87
+2025-02-19,Google Ads,google,cpc,competitor_kw,738.94
+2025-02-19,Google Ads,google,cpc,retargeting,324.92
+2025-02-19,Facebook,facebook,paid_social,summer_sale,454.01
+2025-02-19,Facebook,facebook,paid_social,lookalike_audience,368.39
+2025-02-19,Facebook,facebook,paid_social,video_ads,128.55
+2025-02-19,Facebook,facebook,paid_social,retargeting,150.05
+2025-02-19,LinkedIn,linkedin,paid_social,b2b_leads,339.27
+2025-02-19,LinkedIn,linkedin,paid_social,webinar_promo,460.35
+2025-02-19,LinkedIn,linkedin,paid_social,thought_leadership,27.87
+2025-02-19,Organic,google,organic,(not set),0.0
+2025-02-19,Email,newsletter,email,weekly_digest,76.56
+2025-02-19,Email,newsletter,email,cart_reminder,36.55
+2025-02-19,Email,newsletter,email,winback,60.04
+2025-02-20,Google Ads,google,cpc,summer_sale,704.15
+2025-02-20,Google Ads,google,cpc,brand_search,188.46
+2025-02-20,Google Ads,google,cpc,competitor_kw,3.79
+2025-02-20,Google Ads,google,cpc,retargeting,635.07
+2025-02-20,Facebook,facebook,paid_social,summer_sale,338.31
+2025-02-20,Facebook,facebook,paid_social,lookalike_audience,949.02
+2025-02-20,Facebook,facebook,paid_social,video_ads,131.6
+2025-02-20,Facebook,facebook,paid_social,retargeting,9.45
+2025-02-20,LinkedIn,linkedin,paid_social,b2b_leads,129.78
+2025-02-20,LinkedIn,linkedin,paid_social,webinar_promo,372.26
+2025-02-20,LinkedIn,linkedin,paid_social,thought_leadership,419.96
+2025-02-20,Organic,google,organic,(not set),0.0
+2025-02-20,Email,newsletter,email,weekly_digest,67.39
+2025-02-20,Email,newsletter,email,cart_reminder,6.74
+2025-02-20,Email,newsletter,email,winback,116.19
+2025-02-21,Google Ads,google,cpc,summer_sale,20.65
+2025-02-21,Google Ads,google,cpc,brand_search,282.91
+2025-02-21,Google Ads,google,cpc,competitor_kw,671.13
+2025-02-21,Google Ads,google,cpc,retargeting,479.07
+2025-02-21,Facebook,facebook,paid_social,summer_sale,39.83
+2025-02-21,Facebook,facebook,paid_social,lookalike_audience,859.22
+2025-02-21,Facebook,facebook,paid_social,video_ads,144.96
+2025-02-21,Facebook,facebook,paid_social,retargeting,145.95
+2025-02-21,LinkedIn,linkedin,paid_social,b2b_leads,88.23
+2025-02-21,LinkedIn,linkedin,paid_social,webinar_promo,649.66
+2025-02-21,LinkedIn,linkedin,paid_social,thought_leadership,91.28
+2025-02-21,Organic,google,organic,(not set),0.0
+2025-02-21,Email,newsletter,email,weekly_digest,1.38
+2025-02-21,Email,newsletter,email,cart_reminder,63.88
+2025-02-21,Email,newsletter,email,winback,144.3
+2025-02-22,Google Ads,google,cpc,summer_sale,1000.5
+2025-02-22,Google Ads,google,cpc,brand_search,173.93
+2025-02-22,Google Ads,google,cpc,competitor_kw,266.96
+2025-02-22,Google Ads,google,cpc,retargeting,111.31
+2025-02-22,Facebook,facebook,paid_social,summer_sale,135.45
+2025-02-22,Facebook,facebook,paid_social,lookalike_audience,352.49
+2025-02-22,Facebook,facebook,paid_social,video_ads,701.2
+2025-02-22,Facebook,facebook,paid_social,retargeting,19.56
+2025-02-22,LinkedIn,linkedin,paid_social,b2b_leads,331.62
+2025-02-22,LinkedIn,linkedin,paid_social,webinar_promo,319.15
+2025-02-22,LinkedIn,linkedin,paid_social,thought_leadership,0.71
+2025-02-22,Organic,google,organic,(not set),0.0
+2025-02-22,Email,newsletter,email,weekly_digest,17.9
+2025-02-22,Email,newsletter,email,cart_reminder,71.37
+2025-02-22,Email,newsletter,email,winback,86.58
+2025-02-23,Google Ads,google,cpc,summer_sale,234.32
+2025-02-23,Google Ads,google,cpc,brand_search,395.61
+2025-02-23,Google Ads,google,cpc,competitor_kw,676.28
+2025-02-23,Google Ads,google,cpc,retargeting,197.42
+2025-02-23,Facebook,facebook,paid_social,summer_sale,425.86
+2025-02-23,Facebook,facebook,paid_social,lookalike_audience,223.41
+2025-02-23,Facebook,facebook,paid_social,video_ads,287.94
+2025-02-23,Facebook,facebook,paid_social,retargeting,212.55
+2025-02-23,LinkedIn,linkedin,paid_social,b2b_leads,587.47
+2025-02-23,LinkedIn,linkedin,paid_social,webinar_promo,44.08
+2025-02-23,LinkedIn,linkedin,paid_social,thought_leadership,204.82
+2025-02-23,Organic,google,organic,(not set),0.0
+2025-02-23,Email,newsletter,email,weekly_digest,61.2
+2025-02-23,Email,newsletter,email,cart_reminder,114.02
+2025-02-23,Email,newsletter,email,winback,55.51
+2025-02-24,Google Ads,google,cpc,summer_sale,314.48
+2025-02-24,Google Ads,google,cpc,brand_search,592.49
+2025-02-24,Google Ads,google,cpc,competitor_kw,554.86
+2025-02-24,Google Ads,google,cpc,retargeting,137.66
+2025-02-24,Facebook,facebook,paid_social,summer_sale,917.9
+2025-02-24,Facebook,facebook,paid_social,lookalike_audience,84.11
+2025-02-24,Facebook,facebook,paid_social,video_ads,53.97
+2025-02-24,Facebook,facebook,paid_social,retargeting,135.21
+2025-02-24,LinkedIn,linkedin,paid_social,b2b_leads,609.38
+2025-02-24,LinkedIn,linkedin,paid_social,webinar_promo,211.1
+2025-02-24,LinkedIn,linkedin,paid_social,thought_leadership,4.17
+2025-02-24,Organic,google,organic,(not set),0.0
+2025-02-24,Email,newsletter,email,weekly_digest,12.3
+2025-02-24,Email,newsletter,email,cart_reminder,61.54
+2025-02-24,Email,newsletter,email,winback,104.95
+2025-02-25,Google Ads,google,cpc,summer_sale,252.87
+2025-02-25,Google Ads,google,cpc,brand_search,95.61
+2025-02-25,Google Ads,google,cpc,competitor_kw,494.4
+2025-02-25,Google Ads,google,cpc,retargeting,700.58
+2025-02-25,Facebook,facebook,paid_social,summer_sale,509.84
+2025-02-25,Facebook,facebook,paid_social,lookalike_audience,22.67
+2025-02-25,Facebook,facebook,paid_social,video_ads,751.17
+2025-02-25,Facebook,facebook,paid_social,retargeting,58.6
+2025-02-25,LinkedIn,linkedin,paid_social,b2b_leads,292.96
+2025-02-25,LinkedIn,linkedin,paid_social,webinar_promo,90.57
+2025-02-25,LinkedIn,linkedin,paid_social,thought_leadership,417.03
+2025-02-25,Organic,google,organic,(not set),0.0
+2025-02-25,Email,newsletter,email,weekly_digest,18.66
+2025-02-25,Email,newsletter,email,cart_reminder,54.79
+2025-02-25,Email,newsletter,email,winback,117.92
+2025-02-26,Google Ads,google,cpc,summer_sale,191.29
+2025-02-26,Google Ads,google,cpc,brand_search,304.91
+2025-02-26,Google Ads,google,cpc,competitor_kw,146.64
+2025-02-26,Google Ads,google,cpc,retargeting,872.74
+2025-02-26,Facebook,facebook,paid_social,summer_sale,185.0
+2025-02-26,Facebook,facebook,paid_social,lookalike_audience,642.27
+2025-02-26,Facebook,facebook,paid_social,video_ads,205.76
+2025-02-26,Facebook,facebook,paid_social,retargeting,10.49
+2025-02-26,LinkedIn,linkedin,paid_social,b2b_leads,48.49
+2025-02-26,LinkedIn,linkedin,paid_social,webinar_promo,628.32
+2025-02-26,LinkedIn,linkedin,paid_social,thought_leadership,126.33
+2025-02-26,Organic,google,organic,(not set),0.0
+2025-02-26,Email,newsletter,email,weekly_digest,116.9
+2025-02-26,Email,newsletter,email,cart_reminder,30.06
+2025-02-26,Email,newsletter,email,winback,19.01
+2025-02-27,Google Ads,google,cpc,summer_sale,877.82
+2025-02-27,Google Ads,google,cpc,brand_search,559.25
+2025-02-27,Google Ads,google,cpc,competitor_kw,2.91
+2025-02-27,Google Ads,google,cpc,retargeting,200.02
+2025-02-27,Facebook,facebook,paid_social,summer_sale,104.06
+2025-02-27,Facebook,facebook,paid_social,lookalike_audience,41.83
+2025-02-27,Facebook,facebook,paid_social,video_ads,531.95
+2025-02-27,Facebook,facebook,paid_social,retargeting,310.32
+2025-02-27,LinkedIn,linkedin,paid_social,b2b_leads,161.66
+2025-02-27,LinkedIn,linkedin,paid_social,webinar_promo,129.85
+2025-02-27,LinkedIn,linkedin,paid_social,thought_leadership,515.64
+2025-02-27,Organic,google,organic,(not set),0.0
+2025-02-27,Email,newsletter,email,weekly_digest,65.75
+2025-02-27,Email,newsletter,email,cart_reminder,55.92
+2025-02-27,Email,newsletter,email,winback,74.95
+2025-02-28,Google Ads,google,cpc,summer_sale,140.04
+2025-02-28,Google Ads,google,cpc,brand_search,93.82
+2025-02-28,Google Ads,google,cpc,competitor_kw,50.32
+2025-02-28,Google Ads,google,cpc,retargeting,1491.78
+2025-02-28,Facebook,facebook,paid_social,summer_sale,38.32
+2025-02-28,Facebook,facebook,paid_social,lookalike_audience,947.52
+2025-02-28,Facebook,facebook,paid_social,video_ads,191.3
+2025-02-28,Facebook,facebook,paid_social,retargeting,157.57
+2025-02-28,LinkedIn,linkedin,paid_social,b2b_leads,795.58
+2025-02-28,LinkedIn,linkedin,paid_social,webinar_promo,66.44
+2025-02-28,LinkedIn,linkedin,paid_social,thought_leadership,87.72
+2025-02-28,Organic,google,organic,(not set),0.0
+2025-02-28,Email,newsletter,email,weekly_digest,93.7
+2025-02-28,Email,newsletter,email,cart_reminder,96.02
+2025-02-28,Email,newsletter,email,winback,5.26
+2025-03-01,Google Ads,google,cpc,summer_sale,198.44
+2025-03-01,Google Ads,google,cpc,brand_search,620.72
+2025-03-01,Google Ads,google,cpc,competitor_kw,624.73
+2025-03-01,Google Ads,google,cpc,retargeting,160.72
+2025-03-01,Facebook,facebook,paid_social,summer_sale,246.74
+2025-03-01,Facebook,facebook,paid_social,lookalike_audience,182.6
+2025-03-01,Facebook,facebook,paid_social,video_ads,48.36
+2025-03-01,Facebook,facebook,paid_social,retargeting,813.12
+2025-03-01,LinkedIn,linkedin,paid_social,b2b_leads,166.84
+2025-03-01,LinkedIn,linkedin,paid_social,webinar_promo,272.97
+2025-03-01,LinkedIn,linkedin,paid_social,thought_leadership,361.76
+2025-03-01,Organic,google,organic,(not set),0.0
+2025-03-01,Email,newsletter,email,weekly_digest,106.93
+2025-03-01,Email,newsletter,email,cart_reminder,68.49
+2025-03-01,Email,newsletter,email,winback,26.54
+2025-03-02,Google Ads,google,cpc,summer_sale,498.46
+2025-03-02,Google Ads,google,cpc,brand_search,315.82
+2025-03-02,Google Ads,google,cpc,competitor_kw,210.99
+2025-03-02,Google Ads,google,cpc,retargeting,704.63
+2025-03-02,Facebook,facebook,paid_social,summer_sale,210.6
+2025-03-02,Facebook,facebook,paid_social,lookalike_audience,401.47
+2025-03-02,Facebook,facebook,paid_social,video_ads,192.23
+2025-03-02,Facebook,facebook,paid_social,retargeting,168.29
+2025-03-02,LinkedIn,linkedin,paid_social,b2b_leads,184.75
+2025-03-02,LinkedIn,linkedin,paid_social,webinar_promo,270.59
+2025-03-02,LinkedIn,linkedin,paid_social,thought_leadership,355.11
+2025-03-02,Organic,google,organic,(not set),0.0
+2025-03-02,Email,newsletter,email,weekly_digest,144.15
+2025-03-02,Email,newsletter,email,cart_reminder,28.9
+2025-03-02,Email,newsletter,email,winback,9.72
+2025-03-03,Google Ads,google,cpc,summer_sale,465.09
+2025-03-03,Google Ads,google,cpc,brand_search,468.39
+2025-03-03,Google Ads,google,cpc,competitor_kw,313.05
+2025-03-03,Google Ads,google,cpc,retargeting,467.75
+2025-03-03,Facebook,facebook,paid_social,summer_sale,88.98
+2025-03-03,Facebook,facebook,paid_social,lookalike_audience,356.52
+2025-03-03,Facebook,facebook,paid_social,video_ads,447.68
+2025-03-03,Facebook,facebook,paid_social,retargeting,58.87
+2025-03-03,LinkedIn,linkedin,paid_social,b2b_leads,30.97
+2025-03-03,LinkedIn,linkedin,paid_social,webinar_promo,405.03
+2025-03-03,LinkedIn,linkedin,paid_social,thought_leadership,456.19
+2025-03-03,Organic,google,organic,(not set),0.0
+2025-03-03,Email,newsletter,email,weekly_digest,12.77
+2025-03-03,Email,newsletter,email,cart_reminder,17.12
+2025-03-03,Email,newsletter,email,winback,172.3
+2025-03-04,Google Ads,google,cpc,summer_sale,288.02
+2025-03-04,Google Ads,google,cpc,brand_search,282.58
+2025-03-04,Google Ads,google,cpc,competitor_kw,962.17
+2025-03-04,Google Ads,google,cpc,retargeting,36.4
+2025-03-04,Facebook,facebook,paid_social,summer_sale,168.33
+2025-03-04,Facebook,facebook,paid_social,lookalike_audience,875.34
+2025-03-04,Facebook,facebook,paid_social,video_ads,73.57
+2025-03-04,Facebook,facebook,paid_social,retargeting,107.07
+2025-03-04,LinkedIn,linkedin,paid_social,b2b_leads,3.71
+2025-03-04,LinkedIn,linkedin,paid_social,webinar_promo,258.99
+2025-03-04,LinkedIn,linkedin,paid_social,thought_leadership,422.42
+2025-03-04,Organic,google,organic,(not set),0.0
+2025-03-04,Email,newsletter,email,weekly_digest,1.65
+2025-03-04,Email,newsletter,email,cart_reminder,185.01
+2025-03-04,Email,newsletter,email,winback,6.83
+2025-03-05,Google Ads,google,cpc,summer_sale,138.69
+2025-03-05,Google Ads,google,cpc,brand_search,1093.49
+2025-03-05,Google Ads,google,cpc,competitor_kw,461.74
+2025-03-05,Google Ads,google,cpc,retargeting,28.25
+2025-03-05,Facebook,facebook,paid_social,summer_sale,3.36
+2025-03-05,Facebook,facebook,paid_social,lookalike_audience,526.08
+2025-03-05,Facebook,facebook,paid_social,video_ads,288.71
+2025-03-05,Facebook,facebook,paid_social,retargeting,645.52
+2025-03-05,LinkedIn,linkedin,paid_social,b2b_leads,200.33
+2025-03-05,LinkedIn,linkedin,paid_social,webinar_promo,395.36
+2025-03-05,LinkedIn,linkedin,paid_social,thought_leadership,193.63
+2025-03-05,Organic,google,organic,(not set),0.0
+2025-03-05,Email,newsletter,email,weekly_digest,96.46
+2025-03-05,Email,newsletter,email,cart_reminder,47.36
+2025-03-05,Email,newsletter,email,winback,11.99
+2025-03-06,Google Ads,google,cpc,summer_sale,155.51
+2025-03-06,Google Ads,google,cpc,brand_search,174.35
+2025-03-06,Google Ads,google,cpc,competitor_kw,1246.04
+2025-03-06,Google Ads,google,cpc,retargeting,121.17
+2025-03-06,Facebook,facebook,paid_social,summer_sale,104.54
+2025-03-06,Facebook,facebook,paid_social,lookalike_audience,143.97
+2025-03-06,Facebook,facebook,paid_social,video_ads,100.18
+2025-03-06,Facebook,facebook,paid_social,retargeting,603.13
+2025-03-06,LinkedIn,linkedin,paid_social,b2b_leads,477.91
+2025-03-06,LinkedIn,linkedin,paid_social,webinar_promo,132.85
+2025-03-06,LinkedIn,linkedin,paid_social,thought_leadership,159.64
+2025-03-06,Organic,google,organic,(not set),0.0
+2025-03-06,Email,newsletter,email,weekly_digest,37.89
+2025-03-06,Email,newsletter,email,cart_reminder,78.6
+2025-03-06,Email,newsletter,email,winback,67.25
+2025-03-07,Google Ads,google,cpc,summer_sale,459.63
+2025-03-07,Google Ads,google,cpc,brand_search,303.1
+2025-03-07,Google Ads,google,cpc,competitor_kw,271.18
+2025-03-07,Google Ads,google,cpc,retargeting,286.46
+2025-03-07,Facebook,facebook,paid_social,summer_sale,658.4
+2025-03-07,Facebook,facebook,paid_social,lookalike_audience,226.9
+2025-03-07,Facebook,facebook,paid_social,video_ads,16.99
+2025-03-07,Facebook,facebook,paid_social,retargeting,263.96
+2025-03-07,LinkedIn,linkedin,paid_social,b2b_leads,137.68
+2025-03-07,LinkedIn,linkedin,paid_social,webinar_promo,366.02
+2025-03-07,LinkedIn,linkedin,paid_social,thought_leadership,383.69
+2025-03-07,Organic,google,organic,(not set),0.0
+2025-03-07,Email,newsletter,email,weekly_digest,8.23
+2025-03-07,Email,newsletter,email,cart_reminder,1.89
+2025-03-07,Email,newsletter,email,winback,209.29
+2025-03-08,Google Ads,google,cpc,summer_sale,402.29
+2025-03-08,Google Ads,google,cpc,brand_search,889.35
+2025-03-08,Google Ads,google,cpc,competitor_kw,411.96
+2025-03-08,Google Ads,google,cpc,retargeting,20.88
+2025-03-08,Facebook,facebook,paid_social,summer_sale,75.43
+2025-03-08,Facebook,facebook,paid_social,lookalike_audience,920.04
+2025-03-08,Facebook,facebook,paid_social,video_ads,0.0
+2025-03-08,Facebook,facebook,paid_social,retargeting,333.99
+2025-03-08,LinkedIn,linkedin,paid_social,b2b_leads,24.21
+2025-03-08,LinkedIn,linkedin,paid_social,webinar_promo,707.19
+2025-03-08,LinkedIn,linkedin,paid_social,thought_leadership,85.28
+2025-03-08,Organic,google,organic,(not set),0.0
+2025-03-08,Email,newsletter,email,weekly_digest,27.74
+2025-03-08,Email,newsletter,email,cart_reminder,57.88
+2025-03-08,Email,newsletter,email,winback,110.51
+2025-03-09,Google Ads,google,cpc,summer_sale,550.34
+2025-03-09,Google Ads,google,cpc,brand_search,80.15
+2025-03-09,Google Ads,google,cpc,competitor_kw,279.33
+2025-03-09,Google Ads,google,cpc,retargeting,516.72
+2025-03-09,Facebook,facebook,paid_social,summer_sale,203.06
+2025-03-09,Facebook,facebook,paid_social,lookalike_audience,167.0
+2025-03-09,Facebook,facebook,paid_social,video_ads,157.07
+2025-03-09,Facebook,facebook,paid_social,retargeting,522.89
+2025-03-09,LinkedIn,linkedin,paid_social,b2b_leads,151.32
+2025-03-09,LinkedIn,linkedin,paid_social,webinar_promo,77.16
+2025-03-09,LinkedIn,linkedin,paid_social,thought_leadership,695.96
+2025-03-09,Organic,google,organic,(not set),0.0
+2025-03-09,Email,newsletter,email,weekly_digest,121.83
+2025-03-09,Email,newsletter,email,cart_reminder,8.99
+2025-03-09,Email,newsletter,email,winback,72.36
+2025-03-10,Google Ads,google,cpc,summer_sale,73.8
+2025-03-10,Google Ads,google,cpc,brand_search,572.47
+2025-03-10,Google Ads,google,cpc,competitor_kw,509.21
+2025-03-10,Google Ads,google,cpc,retargeting,324.05
+2025-03-10,Facebook,facebook,paid_social,summer_sale,104.04
+2025-03-10,Facebook,facebook,paid_social,lookalike_audience,256.46
+2025-03-10,Facebook,facebook,paid_social,video_ads,533.26
+2025-03-10,Facebook,facebook,paid_social,retargeting,57.38
+2025-03-10,LinkedIn,linkedin,paid_social,b2b_leads,231.81
+2025-03-10,LinkedIn,linkedin,paid_social,webinar_promo,109.58
+2025-03-10,LinkedIn,linkedin,paid_social,thought_leadership,361.51
+2025-03-10,Organic,google,organic,(not set),0.0
+2025-03-10,Email,newsletter,email,weekly_digest,25.31
+2025-03-10,Email,newsletter,email,cart_reminder,56.35
+2025-03-10,Email,newsletter,email,winback,109.45
+2025-03-11,Google Ads,google,cpc,summer_sale,29.07
+2025-03-11,Google Ads,google,cpc,brand_search,28.79
+2025-03-11,Google Ads,google,cpc,competitor_kw,725.99
+2025-03-11,Google Ads,google,cpc,retargeting,806.57
+2025-03-11,Facebook,facebook,paid_social,summer_sale,649.29
+2025-03-11,Facebook,facebook,paid_social,lookalike_audience,172.12
+2025-03-11,Facebook,facebook,paid_social,video_ads,53.72
+2025-03-11,Facebook,facebook,paid_social,retargeting,157.12
+2025-03-11,LinkedIn,linkedin,paid_social,b2b_leads,123.4
+2025-03-11,LinkedIn,linkedin,paid_social,webinar_promo,701.76
+2025-03-11,LinkedIn,linkedin,paid_social,thought_leadership,77.94
+2025-03-11,Organic,google,organic,(not set),0.0
+2025-03-11,Email,newsletter,email,weekly_digest,89.05
+2025-03-11,Email,newsletter,email,cart_reminder,73.25
+2025-03-11,Email,newsletter,email,winback,53.29
+2025-03-12,Google Ads,google,cpc,summer_sale,466.05
+2025-03-12,Google Ads,google,cpc,brand_search,109.64
+2025-03-12,Google Ads,google,cpc,competitor_kw,0.87
+2025-03-12,Google Ads,google,cpc,retargeting,1110.25
+2025-03-12,Facebook,facebook,paid_social,summer_sale,952.55
+2025-03-12,Facebook,facebook,paid_social,lookalike_audience,254.61
+2025-03-12,Facebook,facebook,paid_social,video_ads,98.28
+2025-03-12,Facebook,facebook,paid_social,retargeting,87.61
+2025-03-12,LinkedIn,linkedin,paid_social,b2b_leads,711.23
+2025-03-12,LinkedIn,linkedin,paid_social,webinar_promo,63.64
+2025-03-12,LinkedIn,linkedin,paid_social,thought_leadership,220.39
+2025-03-12,Organic,google,organic,(not set),0.0
+2025-03-12,Email,newsletter,email,weekly_digest,129.88
+2025-03-12,Email,newsletter,email,cart_reminder,60.68
+2025-03-12,Email,newsletter,email,winback,25.03
+2025-03-13,Google Ads,google,cpc,summer_sale,401.57
+2025-03-13,Google Ads,google,cpc,brand_search,135.57
+2025-03-13,Google Ads,google,cpc,competitor_kw,244.73
+2025-03-13,Google Ads,google,cpc,retargeting,942.4
+2025-03-13,Facebook,facebook,paid_social,summer_sale,32.93
+2025-03-13,Facebook,facebook,paid_social,lookalike_audience,268.36
+2025-03-13,Facebook,facebook,paid_social,video_ads,347.38
+2025-03-13,Facebook,facebook,paid_social,retargeting,727.14
+2025-03-13,LinkedIn,linkedin,paid_social,b2b_leads,1.18
+2025-03-13,LinkedIn,linkedin,paid_social,webinar_promo,552.9
+2025-03-13,LinkedIn,linkedin,paid_social,thought_leadership,41.56
+2025-03-13,Organic,google,organic,(not set),0.0
+2025-03-13,Email,newsletter,email,weekly_digest,17.1
+2025-03-13,Email,newsletter,email,cart_reminder,15.61
+2025-03-13,Email,newsletter,email,winback,150.55
+2025-03-14,Google Ads,google,cpc,summer_sale,25.83
+2025-03-14,Google Ads,google,cpc,brand_search,251.51
+2025-03-14,Google Ads,google,cpc,competitor_kw,543.72
+2025-03-14,Google Ads,google,cpc,retargeting,705.3
+2025-03-14,Facebook,facebook,paid_social,summer_sale,165.18
+2025-03-14,Facebook,facebook,paid_social,lookalike_audience,311.3
+2025-03-14,Facebook,facebook,paid_social,video_ads,718.74
+2025-03-14,Facebook,facebook,paid_social,retargeting,19.28
+2025-03-14,LinkedIn,linkedin,paid_social,b2b_leads,52.78
+2025-03-14,LinkedIn,linkedin,paid_social,webinar_promo,509.58
+2025-03-14,LinkedIn,linkedin,paid_social,thought_leadership,279.8
+2025-03-14,Organic,google,organic,(not set),0.0
+2025-03-14,Email,newsletter,email,weekly_digest,1.41
+2025-03-14,Email,newsletter,email,cart_reminder,27.0
+2025-03-14,Email,newsletter,email,winback,171.65
+2025-03-15,Google Ads,google,cpc,summer_sale,423.59
+2025-03-15,Google Ads,google,cpc,brand_search,705.71
+2025-03-15,Google Ads,google,cpc,competitor_kw,319.59
+2025-03-15,Google Ads,google,cpc,retargeting,112.81
+2025-03-15,Facebook,facebook,paid_social,summer_sale,110.02
+2025-03-15,Facebook,facebook,paid_social,lookalike_audience,552.12
+2025-03-15,Facebook,facebook,paid_social,video_ads,514.65
+2025-03-15,Facebook,facebook,paid_social,retargeting,47.64
+2025-03-15,LinkedIn,linkedin,paid_social,b2b_leads,321.62
+2025-03-15,LinkedIn,linkedin,paid_social,webinar_promo,507.21
+2025-03-15,LinkedIn,linkedin,paid_social,thought_leadership,66.14
+2025-03-15,Organic,google,organic,(not set),0.0
+2025-03-15,Email,newsletter,email,weekly_digest,14.79
+2025-03-15,Email,newsletter,email,cart_reminder,209.39
+2025-03-15,Email,newsletter,email,winback,1.41
+2025-03-16,Google Ads,google,cpc,summer_sale,379.72
+2025-03-16,Google Ads,google,cpc,brand_search,241.22
+2025-03-16,Google Ads,google,cpc,competitor_kw,812.43
+2025-03-16,Google Ads,google,cpc,retargeting,120.04
+2025-03-16,Facebook,facebook,paid_social,summer_sale,81.68
+2025-03-16,Facebook,facebook,paid_social,lookalike_audience,608.86
+2025-03-16,Facebook,facebook,paid_social,video_ads,32.65
+2025-03-16,Facebook,facebook,paid_social,retargeting,289.47
+2025-03-16,LinkedIn,linkedin,paid_social,b2b_leads,386.06
+2025-03-16,LinkedIn,linkedin,paid_social,webinar_promo,85.72
+2025-03-16,LinkedIn,linkedin,paid_social,thought_leadership,302.45
+2025-03-16,Organic,google,organic,(not set),0.0
+2025-03-16,Email,newsletter,email,weekly_digest,57.37
+2025-03-16,Email,newsletter,email,cart_reminder,5.49
+2025-03-16,Email,newsletter,email,winback,105.22
+2025-03-17,Google Ads,google,cpc,summer_sale,1020.32
+2025-03-17,Google Ads,google,cpc,brand_search,187.59
+2025-03-17,Google Ads,google,cpc,competitor_kw,116.7
+2025-03-17,Google Ads,google,cpc,retargeting,77.21
+2025-03-17,Facebook,facebook,paid_social,summer_sale,77.72
+2025-03-17,Facebook,facebook,paid_social,lookalike_audience,37.38
+2025-03-17,Facebook,facebook,paid_social,video_ads,46.29
+2025-03-17,Facebook,facebook,paid_social,retargeting,985.46
+2025-03-17,LinkedIn,linkedin,paid_social,b2b_leads,37.12
+2025-03-17,LinkedIn,linkedin,paid_social,webinar_promo,335.59
+2025-03-17,LinkedIn,linkedin,paid_social,thought_leadership,401.48
+2025-03-17,Organic,google,organic,(not set),0.0
+2025-03-17,Email,newsletter,email,weekly_digest,8.38
+2025-03-17,Email,newsletter,email,cart_reminder,169.85
+2025-03-17,Email,newsletter,email,winback,46.89
+2025-03-18,Google Ads,google,cpc,summer_sale,390.12
+2025-03-18,Google Ads,google,cpc,brand_search,796.24
+2025-03-18,Google Ads,google,cpc,competitor_kw,263.48
+2025-03-18,Google Ads,google,cpc,retargeting,19.3
+2025-03-18,Facebook,facebook,paid_social,summer_sale,123.32
+2025-03-18,Facebook,facebook,paid_social,lookalike_audience,906.55
+2025-03-18,Facebook,facebook,paid_social,video_ads,96.63
+2025-03-18,Facebook,facebook,paid_social,retargeting,95.75
+2025-03-18,LinkedIn,linkedin,paid_social,b2b_leads,358.57
+2025-03-18,LinkedIn,linkedin,paid_social,webinar_promo,178.39
+2025-03-18,LinkedIn,linkedin,paid_social,thought_leadership,141.89
+2025-03-18,Organic,google,organic,(not set),0.0
+2025-03-18,Email,newsletter,email,weekly_digest,37.47
+2025-03-18,Email,newsletter,email,cart_reminder,5.18
+2025-03-18,Email,newsletter,email,winback,168.15
+2025-03-19,Google Ads,google,cpc,summer_sale,1236.8
+2025-03-19,Google Ads,google,cpc,brand_search,167.26
+2025-03-19,Google Ads,google,cpc,competitor_kw,88.06
+2025-03-19,Google Ads,google,cpc,retargeting,10.59
+2025-03-19,Facebook,facebook,paid_social,summer_sale,46.47
+2025-03-19,Facebook,facebook,paid_social,lookalike_audience,173.08
+2025-03-19,Facebook,facebook,paid_social,video_ads,556.64
+2025-03-19,Facebook,facebook,paid_social,retargeting,472.92
+2025-03-19,LinkedIn,linkedin,paid_social,b2b_leads,280.89
+2025-03-19,LinkedIn,linkedin,paid_social,webinar_promo,739.7
+2025-03-19,LinkedIn,linkedin,paid_social,thought_leadership,7.82
+2025-03-19,Organic,google,organic,(not set),0.0
+2025-03-19,Email,newsletter,email,weekly_digest,18.17
+2025-03-19,Email,newsletter,email,cart_reminder,128.85
+2025-03-19,Email,newsletter,email,winback,16.51
+2025-03-20,Google Ads,google,cpc,summer_sale,14.34
+2025-03-20,Google Ads,google,cpc,brand_search,656.52
+2025-03-20,Google Ads,google,cpc,competitor_kw,510.8
+2025-03-20,Google Ads,google,cpc,retargeting,248.05
+2025-03-20,Facebook,facebook,paid_social,summer_sale,147.95
+2025-03-20,Facebook,facebook,paid_social,lookalike_audience,334.19
+2025-03-20,Facebook,facebook,paid_social,video_ads,271.18
+2025-03-20,Facebook,facebook,paid_social,retargeting,269.41
+2025-03-20,LinkedIn,linkedin,paid_social,b2b_leads,618.91
+2025-03-20,LinkedIn,linkedin,paid_social,webinar_promo,264.73
+2025-03-20,LinkedIn,linkedin,paid_social,thought_leadership,57.55
+2025-03-20,Organic,google,organic,(not set),0.0
+2025-03-20,Email,newsletter,email,weekly_digest,21.82
+2025-03-20,Email,newsletter,email,cart_reminder,99.07
+2025-03-20,Email,newsletter,email,winback,72.89
+2025-03-21,Google Ads,google,cpc,summer_sale,157.51
+2025-03-21,Google Ads,google,cpc,brand_search,190.8
+2025-03-21,Google Ads,google,cpc,competitor_kw,918.36
+2025-03-21,Google Ads,google,cpc,retargeting,38.44
+2025-03-21,Facebook,facebook,paid_social,summer_sale,1099.07
+2025-03-21,Facebook,facebook,paid_social,lookalike_audience,166.23
+2025-03-21,Facebook,facebook,paid_social,video_ads,20.83
+2025-03-21,Facebook,facebook,paid_social,retargeting,118.63
+2025-03-21,LinkedIn,linkedin,paid_social,b2b_leads,285.12
+2025-03-21,LinkedIn,linkedin,paid_social,webinar_promo,263.19
+2025-03-21,LinkedIn,linkedin,paid_social,thought_leadership,181.96
+2025-03-21,Organic,google,organic,(not set),0.0
+2025-03-21,Email,newsletter,email,weekly_digest,25.49
+2025-03-21,Email,newsletter,email,cart_reminder,90.72
+2025-03-21,Email,newsletter,email,winback,46.16
+2025-03-22,Google Ads,google,cpc,summer_sale,248.99
+2025-03-22,Google Ads,google,cpc,brand_search,9.77
+2025-03-22,Google Ads,google,cpc,competitor_kw,593.08
+2025-03-22,Google Ads,google,cpc,retargeting,333.06
+2025-03-22,Facebook,facebook,paid_social,summer_sale,4.05
+2025-03-22,Facebook,facebook,paid_social,lookalike_audience,840.93
+2025-03-22,Facebook,facebook,paid_social,video_ads,123.43
+2025-03-22,Facebook,facebook,paid_social,retargeting,316.41
+2025-03-22,LinkedIn,linkedin,paid_social,b2b_leads,107.39
+2025-03-22,LinkedIn,linkedin,paid_social,webinar_promo,127.89
+2025-03-22,LinkedIn,linkedin,paid_social,thought_leadership,506.97
+2025-03-22,Organic,google,organic,(not set),0.0
+2025-03-22,Email,newsletter,email,weekly_digest,90.02
+2025-03-22,Email,newsletter,email,cart_reminder,42.62
+2025-03-22,Email,newsletter,email,winback,94.44
+2025-03-23,Google Ads,google,cpc,summer_sale,602.96
+2025-03-23,Google Ads,google,cpc,brand_search,259.91
+2025-03-23,Google Ads,google,cpc,competitor_kw,432.21
+2025-03-23,Google Ads,google,cpc,retargeting,58.83
+2025-03-23,Facebook,facebook,paid_social,summer_sale,706.11
+2025-03-23,Facebook,facebook,paid_social,lookalike_audience,223.72
+2025-03-23,Facebook,facebook,paid_social,video_ads,13.66
+2025-03-23,Facebook,facebook,paid_social,retargeting,345.51
+2025-03-23,LinkedIn,linkedin,paid_social,b2b_leads,181.93
+2025-03-23,LinkedIn,linkedin,paid_social,webinar_promo,598.57
+2025-03-23,LinkedIn,linkedin,paid_social,thought_leadership,123.56
+2025-03-23,Organic,google,organic,(not set),0.0
+2025-03-23,Email,newsletter,email,weekly_digest,7.25
+2025-03-23,Email,newsletter,email,cart_reminder,23.68
+2025-03-23,Email,newsletter,email,winback,161.04
+2025-03-24,Google Ads,google,cpc,summer_sale,72.86
+2025-03-24,Google Ads,google,cpc,brand_search,153.12
+2025-03-24,Google Ads,google,cpc,competitor_kw,151.97
+2025-03-24,Google Ads,google,cpc,retargeting,987.87
+2025-03-24,Facebook,facebook,paid_social,summer_sale,27.98
+2025-03-24,Facebook,facebook,paid_social,lookalike_audience,258.19
+2025-03-24,Facebook,facebook,paid_social,video_ads,311.16
+2025-03-24,Facebook,facebook,paid_social,retargeting,628.98
+2025-03-24,LinkedIn,linkedin,paid_social,b2b_leads,429.05
+2025-03-24,LinkedIn,linkedin,paid_social,webinar_promo,6.15
+2025-03-24,LinkedIn,linkedin,paid_social,thought_leadership,211.4
+2025-03-24,Organic,google,organic,(not set),0.0
+2025-03-24,Email,newsletter,email,weekly_digest,91.22
+2025-03-24,Email,newsletter,email,cart_reminder,68.59
+2025-03-24,Email,newsletter,email,winback,19.26
+2025-03-25,Google Ads,google,cpc,summer_sale,278.91
+2025-03-25,Google Ads,google,cpc,brand_search,702.68
+2025-03-25,Google Ads,google,cpc,competitor_kw,68.67
+2025-03-25,Google Ads,google,cpc,retargeting,587.14
+2025-03-25,Facebook,facebook,paid_social,summer_sale,15.86
+2025-03-25,Facebook,facebook,paid_social,lookalike_audience,758.46
+2025-03-25,Facebook,facebook,paid_social,video_ads,142.95
+2025-03-25,Facebook,facebook,paid_social,retargeting,205.03
+2025-03-25,LinkedIn,linkedin,paid_social,b2b_leads,278.39
+2025-03-25,LinkedIn,linkedin,paid_social,webinar_promo,22.52
+2025-03-25,LinkedIn,linkedin,paid_social,thought_leadership,420.88
+2025-03-25,Organic,google,organic,(not set),0.0
+2025-03-25,Email,newsletter,email,weekly_digest,153.91
+2025-03-25,Email,newsletter,email,cart_reminder,9.02
+2025-03-25,Email,newsletter,email,winback,59.64
+2025-03-26,Google Ads,google,cpc,summer_sale,242.22
+2025-03-26,Google Ads,google,cpc,brand_search,721.64
+2025-03-26,Google Ads,google,cpc,competitor_kw,286.45
+2025-03-26,Google Ads,google,cpc,retargeting,225.2
+2025-03-26,Facebook,facebook,paid_social,summer_sale,37.18
+2025-03-26,Facebook,facebook,paid_social,lookalike_audience,87.3
+2025-03-26,Facebook,facebook,paid_social,video_ads,585.62
+2025-03-26,Facebook,facebook,paid_social,retargeting,383.42
+2025-03-26,LinkedIn,linkedin,paid_social,b2b_leads,103.34
+2025-03-26,LinkedIn,linkedin,paid_social,webinar_promo,352.17
+2025-03-26,LinkedIn,linkedin,paid_social,thought_leadership,394.61
+2025-03-26,Organic,google,organic,(not set),0.0
+2025-03-26,Email,newsletter,email,weekly_digest,33.65
+2025-03-26,Email,newsletter,email,cart_reminder,118.34
+2025-03-26,Email,newsletter,email,winback,11.98
+2025-03-27,Google Ads,google,cpc,summer_sale,282.17
+2025-03-27,Google Ads,google,cpc,brand_search,111.09
+2025-03-27,Google Ads,google,cpc,competitor_kw,40.35
+2025-03-27,Google Ads,google,cpc,retargeting,1005.24
+2025-03-27,Facebook,facebook,paid_social,summer_sale,237.05
+2025-03-27,Facebook,facebook,paid_social,lookalike_audience,815.22
+2025-03-27,Facebook,facebook,paid_social,video_ads,22.99
+2025-03-27,Facebook,facebook,paid_social,retargeting,242.82
+2025-03-27,LinkedIn,linkedin,paid_social,b2b_leads,464.08
+2025-03-27,LinkedIn,linkedin,paid_social,webinar_promo,318.29
+2025-03-27,LinkedIn,linkedin,paid_social,thought_leadership,37.28
+2025-03-27,Organic,google,organic,(not set),0.0
+2025-03-27,Email,newsletter,email,weekly_digest,194.11
+2025-03-27,Email,newsletter,email,cart_reminder,10.09
+2025-03-27,Email,newsletter,email,winback,48.56
+2025-03-28,Google Ads,google,cpc,summer_sale,352.49
+2025-03-28,Google Ads,google,cpc,brand_search,571.51
+2025-03-28,Google Ads,google,cpc,competitor_kw,278.39
+2025-03-28,Google Ads,google,cpc,retargeting,201.14
+2025-03-28,Facebook,facebook,paid_social,summer_sale,50.11
+2025-03-28,Facebook,facebook,paid_social,lookalike_audience,519.27
+2025-03-28,Facebook,facebook,paid_social,video_ads,251.8
+2025-03-28,Facebook,facebook,paid_social,retargeting,189.07
+2025-03-28,LinkedIn,linkedin,paid_social,b2b_leads,62.57
+2025-03-28,LinkedIn,linkedin,paid_social,webinar_promo,106.6
+2025-03-28,LinkedIn,linkedin,paid_social,thought_leadership,792.37
+2025-03-28,Organic,google,organic,(not set),0.0
+2025-03-28,Email,newsletter,email,weekly_digest,140.03
+2025-03-28,Email,newsletter,email,cart_reminder,10.95
+2025-03-28,Email,newsletter,email,winback,97.93
+2025-03-29,Google Ads,google,cpc,summer_sale,530.75
+2025-03-29,Google Ads,google,cpc,brand_search,948.19
+2025-03-29,Google Ads,google,cpc,competitor_kw,144.54
+2025-03-29,Google Ads,google,cpc,retargeting,77.14
+2025-03-29,Facebook,facebook,paid_social,summer_sale,267.07
+2025-03-29,Facebook,facebook,paid_social,lookalike_audience,165.28
+2025-03-29,Facebook,facebook,paid_social,video_ads,107.47
+2025-03-29,Facebook,facebook,paid_social,retargeting,764.28
+2025-03-29,LinkedIn,linkedin,paid_social,b2b_leads,130.8
+2025-03-29,LinkedIn,linkedin,paid_social,webinar_promo,161.64
+2025-03-29,LinkedIn,linkedin,paid_social,thought_leadership,500.51
+2025-03-29,Organic,google,organic,(not set),0.0
+2025-03-29,Email,newsletter,email,weekly_digest,141.32
+2025-03-29,Email,newsletter,email,cart_reminder,70.13
+2025-03-29,Email,newsletter,email,winback,20.01
+2025-03-30,Google Ads,google,cpc,summer_sale,772.81
+2025-03-30,Google Ads,google,cpc,brand_search,602.06
+2025-03-30,Google Ads,google,cpc,competitor_kw,157.43
+2025-03-30,Google Ads,google,cpc,retargeting,259.23
+2025-03-30,Facebook,facebook,paid_social,summer_sale,107.21
+2025-03-30,Facebook,facebook,paid_social,lookalike_audience,307.48
+2025-03-30,Facebook,facebook,paid_social,video_ads,595.89
+2025-03-30,Facebook,facebook,paid_social,retargeting,5.73
+2025-03-30,LinkedIn,linkedin,paid_social,b2b_leads,145.44
+2025-03-30,LinkedIn,linkedin,paid_social,webinar_promo,363.38
+2025-03-30,LinkedIn,linkedin,paid_social,thought_leadership,170.66
+2025-03-30,Organic,google,organic,(not set),0.0
+2025-03-30,Email,newsletter,email,weekly_digest,9.16
+2025-03-30,Email,newsletter,email,cart_reminder,89.64
+2025-03-30,Email,newsletter,email,winback,145.31
+2025-03-31,Google Ads,google,cpc,summer_sale,257.21
+2025-03-31,Google Ads,google,cpc,brand_search,115.35
+2025-03-31,Google Ads,google,cpc,competitor_kw,460.02
+2025-03-31,Google Ads,google,cpc,retargeting,813.53
+2025-03-31,Facebook,facebook,paid_social,summer_sale,423.57
+2025-03-31,Facebook,facebook,paid_social,lookalike_audience,152.71
+2025-03-31,Facebook,facebook,paid_social,video_ads,20.37
+2025-03-31,Facebook,facebook,paid_social,retargeting,429.49
+2025-03-31,LinkedIn,linkedin,paid_social,b2b_leads,336.9
+2025-03-31,LinkedIn,linkedin,paid_social,webinar_promo,302.77
+2025-03-31,LinkedIn,linkedin,paid_social,thought_leadership,153.27
+2025-03-31,Organic,google,organic,(not set),0.0
+2025-03-31,Email,newsletter,email,weekly_digest,7.72
+2025-03-31,Email,newsletter,email,cart_reminder,139.89
+2025-03-31,Email,newsletter,email,winback,50.49
+2025-04-01,Google Ads,google,cpc,summer_sale,220.69
+2025-04-01,Google Ads,google,cpc,brand_search,122.3
+2025-04-01,Google Ads,google,cpc,competitor_kw,942.07
+2025-04-01,Google Ads,google,cpc,retargeting,232.94
+2025-04-01,Facebook,facebook,paid_social,summer_sale,67.95
+2025-04-01,Facebook,facebook,paid_social,lookalike_audience,265.6
+2025-04-01,Facebook,facebook,paid_social,video_ads,337.29
+2025-04-01,Facebook,facebook,paid_social,retargeting,443.28
+2025-04-01,LinkedIn,linkedin,paid_social,b2b_leads,48.98
+2025-04-01,LinkedIn,linkedin,paid_social,webinar_promo,332.03
+2025-04-01,LinkedIn,linkedin,paid_social,thought_leadership,326.68
+2025-04-01,Organic,google,organic,(not set),0.0
+2025-04-01,Email,newsletter,email,weekly_digest,226.44
+2025-04-01,Email,newsletter,email,cart_reminder,1.66
+2025-04-01,Email,newsletter,email,winback,7.64
+2025-04-02,Google Ads,google,cpc,summer_sale,703.61
+2025-04-02,Google Ads,google,cpc,brand_search,103.24
+2025-04-02,Google Ads,google,cpc,competitor_kw,281.34
+2025-04-02,Google Ads,google,cpc,retargeting,335.96
+2025-04-02,Facebook,facebook,paid_social,summer_sale,853.21
+2025-04-02,Facebook,facebook,paid_social,lookalike_audience,56.45
+2025-04-02,Facebook,facebook,paid_social,video_ads,186.43
+2025-04-02,Facebook,facebook,paid_social,retargeting,207.43
+2025-04-02,LinkedIn,linkedin,paid_social,b2b_leads,191.22
+2025-04-02,LinkedIn,linkedin,paid_social,webinar_promo,246.38
+2025-04-02,LinkedIn,linkedin,paid_social,thought_leadership,296.21
+2025-04-02,Organic,google,organic,(not set),0.0
+2025-04-02,Email,newsletter,email,weekly_digest,183.39
+2025-04-02,Email,newsletter,email,cart_reminder,33.29
+2025-04-02,Email,newsletter,email,winback,25.53
+2025-04-03,Google Ads,google,cpc,summer_sale,454.23
+2025-04-03,Google Ads,google,cpc,brand_search,26.59
+2025-04-03,Google Ads,google,cpc,competitor_kw,103.53
+2025-04-03,Google Ads,google,cpc,retargeting,1203.59
+2025-04-03,Facebook,facebook,paid_social,summer_sale,277.57
+2025-04-03,Facebook,facebook,paid_social,lookalike_audience,84.3
+2025-04-03,Facebook,facebook,paid_social,video_ads,677.37
+2025-04-03,Facebook,facebook,paid_social,retargeting,278.77
+2025-04-03,LinkedIn,linkedin,paid_social,b2b_leads,625.14
+2025-04-03,LinkedIn,linkedin,paid_social,webinar_promo,62.27
+2025-04-03,LinkedIn,linkedin,paid_social,thought_leadership,61.4
+2025-04-03,Organic,google,organic,(not set),0.0
+2025-04-03,Email,newsletter,email,weekly_digest,17.77
+2025-04-03,Email,newsletter,email,cart_reminder,157.86
+2025-04-03,Email,newsletter,email,winback,41.05
+2025-04-04,Google Ads,google,cpc,summer_sale,57.86
+2025-04-04,Google Ads,google,cpc,brand_search,373.65
+2025-04-04,Google Ads,google,cpc,competitor_kw,28.42
+2025-04-04,Google Ads,google,cpc,retargeting,1075.56
+2025-04-04,Facebook,facebook,paid_social,summer_sale,62.6
+2025-04-04,Facebook,facebook,paid_social,lookalike_audience,822.14
+2025-04-04,Facebook,facebook,paid_social,video_ads,93.62
+2025-04-04,Facebook,facebook,paid_social,retargeting,109.87
+2025-04-04,LinkedIn,linkedin,paid_social,b2b_leads,510.8
+2025-04-04,LinkedIn,linkedin,paid_social,webinar_promo,53.68
+2025-04-04,LinkedIn,linkedin,paid_social,thought_leadership,48.31
+2025-04-04,Organic,google,organic,(not set),0.0
+2025-04-04,Email,newsletter,email,weekly_digest,42.84
+2025-04-04,Email,newsletter,email,cart_reminder,72.92
+2025-04-04,Email,newsletter,email,winback,99.29
+2025-04-05,Google Ads,google,cpc,summer_sale,647.89
+2025-04-05,Google Ads,google,cpc,brand_search,130.4
+2025-04-05,Google Ads,google,cpc,competitor_kw,124.22
+2025-04-05,Google Ads,google,cpc,retargeting,351.3
+2025-04-05,Facebook,facebook,paid_social,summer_sale,291.28
+2025-04-05,Facebook,facebook,paid_social,lookalike_audience,4.15
+2025-04-05,Facebook,facebook,paid_social,video_ads,172.71
+2025-04-05,Facebook,facebook,paid_social,retargeting,886.05
+2025-04-05,LinkedIn,linkedin,paid_social,b2b_leads,282.97
+2025-04-05,LinkedIn,linkedin,paid_social,webinar_promo,44.36
+2025-04-05,LinkedIn,linkedin,paid_social,thought_leadership,420.03
+2025-04-05,Organic,google,organic,(not set),0.0
+2025-04-05,Email,newsletter,email,weekly_digest,121.31
+2025-04-05,Email,newsletter,email,cart_reminder,78.27
+2025-04-05,Email,newsletter,email,winback,26.89
+2025-04-06,Google Ads,google,cpc,summer_sale,5.01
+2025-04-06,Google Ads,google,cpc,brand_search,523.12
+2025-04-06,Google Ads,google,cpc,competitor_kw,678.06
+2025-04-06,Google Ads,google,cpc,retargeting,231.78
+2025-04-06,Facebook,facebook,paid_social,summer_sale,98.55
+2025-04-06,Facebook,facebook,paid_social,lookalike_audience,4.34
+2025-04-06,Facebook,facebook,paid_social,video_ads,681.38
+2025-04-06,Facebook,facebook,paid_social,retargeting,271.61
+2025-04-06,LinkedIn,linkedin,paid_social,b2b_leads,494.56
+2025-04-06,LinkedIn,linkedin,paid_social,webinar_promo,10.68
+2025-04-06,LinkedIn,linkedin,paid_social,thought_leadership,202.26
+2025-04-06,Organic,google,organic,(not set),0.0
+2025-04-06,Email,newsletter,email,weekly_digest,80.87
+2025-04-06,Email,newsletter,email,cart_reminder,75.19
+2025-04-06,Email,newsletter,email,winback,42.99
+2025-04-07,Google Ads,google,cpc,summer_sale,137.05
+2025-04-07,Google Ads,google,cpc,brand_search,12.69
+2025-04-07,Google Ads,google,cpc,competitor_kw,1510.21
+2025-04-07,Google Ads,google,cpc,retargeting,158.77
+2025-04-07,Facebook,facebook,paid_social,summer_sale,215.24
+2025-04-07,Facebook,facebook,paid_social,lookalike_audience,267.84
+2025-04-07,Facebook,facebook,paid_social,video_ads,299.04
+2025-04-07,Facebook,facebook,paid_social,retargeting,402.87
+2025-04-07,LinkedIn,linkedin,paid_social,b2b_leads,611.83
+2025-04-07,LinkedIn,linkedin,paid_social,webinar_promo,21.68
+2025-04-07,LinkedIn,linkedin,paid_social,thought_leadership,201.5
+2025-04-07,Organic,google,organic,(not set),0.0
+2025-04-07,Email,newsletter,email,weekly_digest,1.84
+2025-04-07,Email,newsletter,email,cart_reminder,225.46
+2025-04-07,Email,newsletter,email,winback,31.17
+2025-04-08,Google Ads,google,cpc,summer_sale,294.56
+2025-04-08,Google Ads,google,cpc,brand_search,50.14
+2025-04-08,Google Ads,google,cpc,competitor_kw,1311.95
+2025-04-08,Google Ads,google,cpc,retargeting,6.49
+2025-04-08,Facebook,facebook,paid_social,summer_sale,281.62
+2025-04-08,Facebook,facebook,paid_social,lookalike_audience,88.44
+2025-04-08,Facebook,facebook,paid_social,video_ads,455.73
+2025-04-08,Facebook,facebook,paid_social,retargeting,407.71
+2025-04-08,LinkedIn,linkedin,paid_social,b2b_leads,711.39
+2025-04-08,LinkedIn,linkedin,paid_social,webinar_promo,161.83
+2025-04-08,LinkedIn,linkedin,paid_social,thought_leadership,16.68
+2025-04-08,Organic,google,organic,(not set),0.0
+2025-04-08,Email,newsletter,email,weekly_digest,112.88
+2025-04-08,Email,newsletter,email,cart_reminder,28.04
+2025-04-08,Email,newsletter,email,winback,55.74
+2025-04-09,Google Ads,google,cpc,summer_sale,46.22
+2025-04-09,Google Ads,google,cpc,brand_search,928.68
+2025-04-09,Google Ads,google,cpc,competitor_kw,491.56
+2025-04-09,Google Ads,google,cpc,retargeting,15.65
+2025-04-09,Facebook,facebook,paid_social,summer_sale,890.59
+2025-04-09,Facebook,facebook,paid_social,lookalike_audience,52.17
+2025-04-09,Facebook,facebook,paid_social,video_ads,237.59
+2025-04-09,Facebook,facebook,paid_social,retargeting,35.77
+2025-04-09,LinkedIn,linkedin,paid_social,b2b_leads,270.89
+2025-04-09,LinkedIn,linkedin,paid_social,webinar_promo,374.46
+2025-04-09,LinkedIn,linkedin,paid_social,thought_leadership,113.82
+2025-04-09,Organic,google,organic,(not set),0.0
+2025-04-09,Email,newsletter,email,weekly_digest,39.77
+2025-04-09,Email,newsletter,email,cart_reminder,106.23
+2025-04-09,Email,newsletter,email,winback,55.69
+2025-04-10,Google Ads,google,cpc,summer_sale,120.58
+2025-04-10,Google Ads,google,cpc,brand_search,464.91
+2025-04-10,Google Ads,google,cpc,competitor_kw,726.46
+2025-04-10,Google Ads,google,cpc,retargeting,392.23
+2025-04-10,Facebook,facebook,paid_social,summer_sale,21.9
+2025-04-10,Facebook,facebook,paid_social,lookalike_audience,183.19
+2025-04-10,Facebook,facebook,paid_social,video_ads,67.69
+2025-04-10,Facebook,facebook,paid_social,retargeting,751.41
+2025-04-10,LinkedIn,linkedin,paid_social,b2b_leads,532.6
+2025-04-10,LinkedIn,linkedin,paid_social,webinar_promo,209.64
+2025-04-10,LinkedIn,linkedin,paid_social,thought_leadership,68.19
+2025-04-10,Organic,google,organic,(not set),0.0
+2025-04-10,Email,newsletter,email,weekly_digest,6.78
+2025-04-10,Email,newsletter,email,cart_reminder,174.49
+2025-04-10,Email,newsletter,email,winback,23.91
+2025-04-11,Google Ads,google,cpc,summer_sale,70.37
+2025-04-11,Google Ads,google,cpc,brand_search,53.97
+2025-04-11,Google Ads,google,cpc,competitor_kw,169.21
+2025-04-11,Google Ads,google,cpc,retargeting,1287.28
+2025-04-11,Facebook,facebook,paid_social,summer_sale,149.64
+2025-04-11,Facebook,facebook,paid_social,lookalike_audience,931.05
+2025-04-11,Facebook,facebook,paid_social,video_ads,94.66
+2025-04-11,Facebook,facebook,paid_social,retargeting,63.06
+2025-04-11,LinkedIn,linkedin,paid_social,b2b_leads,70.89
+2025-04-11,LinkedIn,linkedin,paid_social,webinar_promo,180.32
+2025-04-11,LinkedIn,linkedin,paid_social,thought_leadership,595.69
+2025-04-11,Organic,google,organic,(not set),0.0
+2025-04-11,Email,newsletter,email,weekly_digest,34.4
+2025-04-11,Email,newsletter,email,cart_reminder,133.99
+2025-04-11,Email,newsletter,email,winback,30.34
+2025-04-12,Google Ads,google,cpc,summer_sale,925.58
+2025-04-12,Google Ads,google,cpc,brand_search,29.84
+2025-04-12,Google Ads,google,cpc,competitor_kw,80.44
+2025-04-12,Google Ads,google,cpc,retargeting,312.22
+2025-04-12,Facebook,facebook,paid_social,summer_sale,297.45
+2025-04-12,Facebook,facebook,paid_social,lookalike_audience,166.32
+2025-04-12,Facebook,facebook,paid_social,video_ads,458.89
+2025-04-12,Facebook,facebook,paid_social,retargeting,537.35
+2025-04-12,LinkedIn,linkedin,paid_social,b2b_leads,177.34
+2025-04-12,LinkedIn,linkedin,paid_social,webinar_promo,14.13
+2025-04-12,LinkedIn,linkedin,paid_social,thought_leadership,702.84
+2025-04-12,Organic,google,organic,(not set),0.0
+2025-04-12,Email,newsletter,email,weekly_digest,41.93
+2025-04-12,Email,newsletter,email,cart_reminder,68.05
+2025-04-12,Email,newsletter,email,winback,84.64
+2025-04-13,Google Ads,google,cpc,summer_sale,751.66
+2025-04-13,Google Ads,google,cpc,brand_search,48.56
+2025-04-13,Google Ads,google,cpc,competitor_kw,262.51
+2025-04-13,Google Ads,google,cpc,retargeting,608.8
+2025-04-13,Facebook,facebook,paid_social,summer_sale,79.83
+2025-04-13,Facebook,facebook,paid_social,lookalike_audience,515.47
+2025-04-13,Facebook,facebook,paid_social,video_ads,117.05
+2025-04-13,Facebook,facebook,paid_social,retargeting,470.09
+2025-04-13,LinkedIn,linkedin,paid_social,b2b_leads,156.48
+2025-04-13,LinkedIn,linkedin,paid_social,webinar_promo,51.79
+2025-04-13,LinkedIn,linkedin,paid_social,thought_leadership,605.03
+2025-04-13,Organic,google,organic,(not set),0.0
+2025-04-13,Email,newsletter,email,weekly_digest,12.22
+2025-04-13,Email,newsletter,email,cart_reminder,143.78
+2025-04-13,Email,newsletter,email,winback,21.5
+2025-04-14,Google Ads,google,cpc,summer_sale,107.08
+2025-04-14,Google Ads,google,cpc,brand_search,132.79
+2025-04-14,Google Ads,google,cpc,competitor_kw,1224.81
+2025-04-14,Google Ads,google,cpc,retargeting,304.83
+2025-04-14,Facebook,facebook,paid_social,summer_sale,2.58
+2025-04-14,Facebook,facebook,paid_social,lookalike_audience,527.97
+2025-04-14,Facebook,facebook,paid_social,video_ads,435.47
+2025-04-14,Facebook,facebook,paid_social,retargeting,99.79
+2025-04-14,LinkedIn,linkedin,paid_social,b2b_leads,476.33
+2025-04-14,LinkedIn,linkedin,paid_social,webinar_promo,43.37
+2025-04-14,LinkedIn,linkedin,paid_social,thought_leadership,286.47
+2025-04-14,Organic,google,organic,(not set),0.0
+2025-04-14,Email,newsletter,email,weekly_digest,93.0
+2025-04-14,Email,newsletter,email,cart_reminder,100.1
+2025-04-14,Email,newsletter,email,winback,14.56
+2025-04-15,Google Ads,google,cpc,summer_sale,311.78
+2025-04-15,Google Ads,google,cpc,brand_search,559.7
+2025-04-15,Google Ads,google,cpc,competitor_kw,808.81
+2025-04-15,Google Ads,google,cpc,retargeting,33.54
+2025-04-15,Facebook,facebook,paid_social,summer_sale,520.73
+2025-04-15,Facebook,facebook,paid_social,lookalike_audience,138.36
+2025-04-15,Facebook,facebook,paid_social,video_ads,262.72
+2025-04-15,Facebook,facebook,paid_social,retargeting,337.38
+2025-04-15,LinkedIn,linkedin,paid_social,b2b_leads,506.28
+2025-04-15,LinkedIn,linkedin,paid_social,webinar_promo,266.7
+2025-04-15,LinkedIn,linkedin,paid_social,thought_leadership,23.82
+2025-04-15,Organic,google,organic,(not set),0.0
+2025-04-15,Email,newsletter,email,weekly_digest,7.01
+2025-04-15,Email,newsletter,email,cart_reminder,122.26
+2025-04-15,Email,newsletter,email,winback,71.82
+2025-04-16,Google Ads,google,cpc,summer_sale,171.09
+2025-04-16,Google Ads,google,cpc,brand_search,490.97
+2025-04-16,Google Ads,google,cpc,competitor_kw,744.61
+2025-04-16,Google Ads,google,cpc,retargeting,72.97
+2025-04-16,Facebook,facebook,paid_social,summer_sale,63.57
+2025-04-16,Facebook,facebook,paid_social,lookalike_audience,257.21
+2025-04-16,Facebook,facebook,paid_social,video_ads,462.79
+2025-04-16,Facebook,facebook,paid_social,retargeting,566.51
+2025-04-16,LinkedIn,linkedin,paid_social,b2b_leads,115.05
+2025-04-16,LinkedIn,linkedin,paid_social,webinar_promo,475.42
+2025-04-16,LinkedIn,linkedin,paid_social,thought_leadership,244.43
+2025-04-16,Organic,google,organic,(not set),0.0
+2025-04-16,Email,newsletter,email,weekly_digest,51.01
+2025-04-16,Email,newsletter,email,cart_reminder,99.3
+2025-04-16,Email,newsletter,email,winback,63.72
+2025-04-17,Google Ads,google,cpc,summer_sale,756.25
+2025-04-17,Google Ads,google,cpc,brand_search,250.12
+2025-04-17,Google Ads,google,cpc,competitor_kw,666.65
+2025-04-17,Google Ads,google,cpc,retargeting,83.95
+2025-04-17,Facebook,facebook,paid_social,summer_sale,239.26
+2025-04-17,Facebook,facebook,paid_social,lookalike_audience,227.39
+2025-04-17,Facebook,facebook,paid_social,video_ads,116.31
+2025-04-17,Facebook,facebook,paid_social,retargeting,584.26
+2025-04-17,LinkedIn,linkedin,paid_social,b2b_leads,91.61
+2025-04-17,LinkedIn,linkedin,paid_social,webinar_promo,492.1
+2025-04-17,LinkedIn,linkedin,paid_social,thought_leadership,334.3
+2025-04-17,Organic,google,organic,(not set),0.0
+2025-04-17,Email,newsletter,email,weekly_digest,17.31
+2025-04-17,Email,newsletter,email,cart_reminder,78.12
+2025-04-17,Email,newsletter,email,winback,88.69
+2025-04-18,Google Ads,google,cpc,summer_sale,115.87
+2025-04-18,Google Ads,google,cpc,brand_search,92.72
+2025-04-18,Google Ads,google,cpc,competitor_kw,1238.29
+2025-04-18,Google Ads,google,cpc,retargeting,282.02
+2025-04-18,Facebook,facebook,paid_social,summer_sale,258.46
+2025-04-18,Facebook,facebook,paid_social,lookalike_audience,479.48
+2025-04-18,Facebook,facebook,paid_social,video_ads,397.13
+2025-04-18,Facebook,facebook,paid_social,retargeting,29.79
+2025-04-18,LinkedIn,linkedin,paid_social,b2b_leads,607.22
+2025-04-18,LinkedIn,linkedin,paid_social,webinar_promo,103.17
+2025-04-18,LinkedIn,linkedin,paid_social,thought_leadership,167.9
+2025-04-18,Organic,google,organic,(not set),0.0
+2025-04-18,Email,newsletter,email,weekly_digest,81.67
+2025-04-18,Email,newsletter,email,cart_reminder,35.18
+2025-04-18,Email,newsletter,email,winback,56.18
+2025-04-19,Google Ads,google,cpc,summer_sale,739.48
+2025-04-19,Google Ads,google,cpc,brand_search,248.76
+2025-04-19,Google Ads,google,cpc,competitor_kw,296.36
+2025-04-19,Google Ads,google,cpc,retargeting,134.81
+2025-04-19,Facebook,facebook,paid_social,summer_sale,170.13
+2025-04-19,Facebook,facebook,paid_social,lookalike_audience,1063.45
+2025-04-19,Facebook,facebook,paid_social,video_ads,3.27
+2025-04-19,Facebook,facebook,paid_social,retargeting,204.05
+2025-04-19,LinkedIn,linkedin,paid_social,b2b_leads,264.33
+2025-04-19,LinkedIn,linkedin,paid_social,webinar_promo,21.57
+2025-04-19,LinkedIn,linkedin,paid_social,thought_leadership,539.75
+2025-04-19,Organic,google,organic,(not set),0.0
+2025-04-19,Email,newsletter,email,weekly_digest,64.29
+2025-04-19,Email,newsletter,email,cart_reminder,37.17
+2025-04-19,Email,newsletter,email,winback,80.62
+2025-04-20,Google Ads,google,cpc,summer_sale,288.28
+2025-04-20,Google Ads,google,cpc,brand_search,773.36
+2025-04-20,Google Ads,google,cpc,competitor_kw,57.85
+2025-04-20,Google Ads,google,cpc,retargeting,508.41
+2025-04-20,Facebook,facebook,paid_social,summer_sale,147.83
+2025-04-20,Facebook,facebook,paid_social,lookalike_audience,26.31
+2025-04-20,Facebook,facebook,paid_social,video_ads,314.08
+2025-04-20,Facebook,facebook,paid_social,retargeting,644.55
+2025-04-20,LinkedIn,linkedin,paid_social,b2b_leads,518.34
+2025-04-20,LinkedIn,linkedin,paid_social,webinar_promo,107.95
+2025-04-20,LinkedIn,linkedin,paid_social,thought_leadership,226.91
+2025-04-20,Organic,google,organic,(not set),0.0
+2025-04-20,Email,newsletter,email,weekly_digest,129.45
+2025-04-20,Email,newsletter,email,cart_reminder,23.18
+2025-04-20,Email,newsletter,email,winback,19.78
+2025-04-21,Google Ads,google,cpc,summer_sale,306.22
+2025-04-21,Google Ads,google,cpc,brand_search,33.78
+2025-04-21,Google Ads,google,cpc,competitor_kw,889.12
+2025-04-21,Google Ads,google,cpc,retargeting,12.94
+2025-04-21,Facebook,facebook,paid_social,summer_sale,198.88
+2025-04-21,Facebook,facebook,paid_social,lookalike_audience,101.82
+2025-04-21,Facebook,facebook,paid_social,video_ads,382.56
+2025-04-21,Facebook,facebook,paid_social,retargeting,586.38
+2025-04-21,LinkedIn,linkedin,paid_social,b2b_leads,181.5
+2025-04-21,LinkedIn,linkedin,paid_social,webinar_promo,445.71
+2025-04-21,LinkedIn,linkedin,paid_social,thought_leadership,36.23
+2025-04-21,Organic,google,organic,(not set),0.0
+2025-04-21,Email,newsletter,email,weekly_digest,17.89
+2025-04-21,Email,newsletter,email,cart_reminder,180.92
+2025-04-21,Email,newsletter,email,winback,9.04
+2025-04-22,Google Ads,google,cpc,summer_sale,1351.84
+2025-04-22,Google Ads,google,cpc,brand_search,101.88
+2025-04-22,Google Ads,google,cpc,competitor_kw,89.82
+2025-04-22,Google Ads,google,cpc,retargeting,64.32
+2025-04-22,Facebook,facebook,paid_social,summer_sale,90.06
+2025-04-22,Facebook,facebook,paid_social,lookalike_audience,1097.6
+2025-04-22,Facebook,facebook,paid_social,video_ads,161.02
+2025-04-22,Facebook,facebook,paid_social,retargeting,64.08
+2025-04-22,LinkedIn,linkedin,paid_social,b2b_leads,254.38
+2025-04-22,LinkedIn,linkedin,paid_social,webinar_promo,363.8
+2025-04-22,LinkedIn,linkedin,paid_social,thought_leadership,219.71
+2025-04-22,Organic,google,organic,(not set),0.0
+2025-04-22,Email,newsletter,email,weekly_digest,13.16
+2025-04-22,Email,newsletter,email,cart_reminder,117.82
+2025-04-22,Email,newsletter,email,winback,12.92
+2025-04-23,Google Ads,google,cpc,summer_sale,87.97
+2025-04-23,Google Ads,google,cpc,brand_search,124.6
+2025-04-23,Google Ads,google,cpc,competitor_kw,1218.66
+2025-04-23,Google Ads,google,cpc,retargeting,159.54
+2025-04-23,Facebook,facebook,paid_social,summer_sale,168.2
+2025-04-23,Facebook,facebook,paid_social,lookalike_audience,179.83
+2025-04-23,Facebook,facebook,paid_social,video_ads,552.08
+2025-04-23,Facebook,facebook,paid_social,retargeting,374.84
+2025-04-23,LinkedIn,linkedin,paid_social,b2b_leads,508.15
+2025-04-23,LinkedIn,linkedin,paid_social,webinar_promo,278.12
+2025-04-23,LinkedIn,linkedin,paid_social,thought_leadership,27.05
+2025-04-23,Organic,google,organic,(not set),0.0
+2025-04-23,Email,newsletter,email,weekly_digest,139.33
+2025-04-23,Email,newsletter,email,cart_reminder,30.0
+2025-04-23,Email,newsletter,email,winback,47.02
+2025-04-24,Google Ads,google,cpc,summer_sale,310.49
+2025-04-24,Google Ads,google,cpc,brand_search,633.32
+2025-04-24,Google Ads,google,cpc,competitor_kw,401.03
+2025-04-24,Google Ads,google,cpc,retargeting,125.9
+2025-04-24,Facebook,facebook,paid_social,summer_sale,803.82
+2025-04-24,Facebook,facebook,paid_social,lookalike_audience,229.93
+2025-04-24,Facebook,facebook,paid_social,video_ads,131.52
+2025-04-24,Facebook,facebook,paid_social,retargeting,67.87
+2025-04-24,LinkedIn,linkedin,paid_social,b2b_leads,161.83
+2025-04-24,LinkedIn,linkedin,paid_social,webinar_promo,445.07
+2025-04-24,LinkedIn,linkedin,paid_social,thought_leadership,63.34
+2025-04-24,Organic,google,organic,(not set),0.0
+2025-04-24,Email,newsletter,email,weekly_digest,203.98
+2025-04-24,Email,newsletter,email,cart_reminder,22.65
+2025-04-24,Email,newsletter,email,winback,3.65
+2025-04-25,Google Ads,google,cpc,summer_sale,701.91
+2025-04-25,Google Ads,google,cpc,brand_search,92.76
+2025-04-25,Google Ads,google,cpc,competitor_kw,103.83
+2025-04-25,Google Ads,google,cpc,retargeting,471.45
+2025-04-25,Facebook,facebook,paid_social,summer_sale,97.45
+2025-04-25,Facebook,facebook,paid_social,lookalike_audience,742.76
+2025-04-25,Facebook,facebook,paid_social,video_ads,89.73
+2025-04-25,Facebook,facebook,paid_social,retargeting,292.54
+2025-04-25,LinkedIn,linkedin,paid_social,b2b_leads,351.23
+2025-04-25,LinkedIn,linkedin,paid_social,webinar_promo,132.49
+2025-04-25,LinkedIn,linkedin,paid_social,thought_leadership,330.63
+2025-04-25,Organic,google,organic,(not set),0.0
+2025-04-25,Email,newsletter,email,weekly_digest,108.07
+2025-04-25,Email,newsletter,email,cart_reminder,14.2
+2025-04-25,Email,newsletter,email,winback,77.99
+2025-04-26,Google Ads,google,cpc,summer_sale,119.86
+2025-04-26,Google Ads,google,cpc,brand_search,436.71
+2025-04-26,Google Ads,google,cpc,competitor_kw,91.37
+2025-04-26,Google Ads,google,cpc,retargeting,966.26
+2025-04-26,Facebook,facebook,paid_social,summer_sale,717.29
+2025-04-26,Facebook,facebook,paid_social,lookalike_audience,76.02
+2025-04-26,Facebook,facebook,paid_social,video_ads,100.5
+2025-04-26,Facebook,facebook,paid_social,retargeting,374.11
+2025-04-26,LinkedIn,linkedin,paid_social,b2b_leads,130.1
+2025-04-26,LinkedIn,linkedin,paid_social,webinar_promo,399.31
+2025-04-26,LinkedIn,linkedin,paid_social,thought_leadership,206.24
+2025-04-26,Organic,google,organic,(not set),0.0
+2025-04-26,Email,newsletter,email,weekly_digest,71.16
+2025-04-26,Email,newsletter,email,cart_reminder,83.17
+2025-04-26,Email,newsletter,email,winback,78.58
+2025-04-27,Google Ads,google,cpc,summer_sale,228.49
+2025-04-27,Google Ads,google,cpc,brand_search,179.15
+2025-04-27,Google Ads,google,cpc,competitor_kw,86.1
+2025-04-27,Google Ads,google,cpc,retargeting,1016.32
+2025-04-27,Facebook,facebook,paid_social,summer_sale,674.33
+2025-04-27,Facebook,facebook,paid_social,lookalike_audience,57.33
+2025-04-27,Facebook,facebook,paid_social,video_ads,6.75
+2025-04-27,Facebook,facebook,paid_social,retargeting,218.03
+2025-04-27,LinkedIn,linkedin,paid_social,b2b_leads,104.39
+2025-04-27,LinkedIn,linkedin,paid_social,webinar_promo,74.64
+2025-04-27,LinkedIn,linkedin,paid_social,thought_leadership,453.59
+2025-04-27,Organic,google,organic,(not set),0.0
+2025-04-27,Email,newsletter,email,weekly_digest,161.46
+2025-04-27,Email,newsletter,email,cart_reminder,5.29
+2025-04-27,Email,newsletter,email,winback,27.6
+2025-04-28,Google Ads,google,cpc,summer_sale,451.34
+2025-04-28,Google Ads,google,cpc,brand_search,697.19
+2025-04-28,Google Ads,google,cpc,competitor_kw,467.48
+2025-04-28,Google Ads,google,cpc,retargeting,16.96
+2025-04-28,Facebook,facebook,paid_social,summer_sale,300.84
+2025-04-28,Facebook,facebook,paid_social,lookalike_audience,212.56
+2025-04-28,Facebook,facebook,paid_social,video_ads,240.26
+2025-04-28,Facebook,facebook,paid_social,retargeting,561.24
+2025-04-28,LinkedIn,linkedin,paid_social,b2b_leads,484.8
+2025-04-28,LinkedIn,linkedin,paid_social,webinar_promo,49.07
+2025-04-28,LinkedIn,linkedin,paid_social,thought_leadership,433.37
+2025-04-28,Organic,google,organic,(not set),0.0
+2025-04-28,Email,newsletter,email,weekly_digest,13.32
+2025-04-28,Email,newsletter,email,cart_reminder,103.94
+2025-04-28,Email,newsletter,email,winback,70.37
+2025-04-29,Google Ads,google,cpc,summer_sale,376.3
+2025-04-29,Google Ads,google,cpc,brand_search,473.46
+2025-04-29,Google Ads,google,cpc,competitor_kw,191.89
+2025-04-29,Google Ads,google,cpc,retargeting,310.27
+2025-04-29,Facebook,facebook,paid_social,summer_sale,602.99
+2025-04-29,Facebook,facebook,paid_social,lookalike_audience,21.42
+2025-04-29,Facebook,facebook,paid_social,video_ads,27.9
+2025-04-29,Facebook,facebook,paid_social,retargeting,556.88
+2025-04-29,LinkedIn,linkedin,paid_social,b2b_leads,89.72
+2025-04-29,LinkedIn,linkedin,paid_social,webinar_promo,74.26
+2025-04-29,LinkedIn,linkedin,paid_social,thought_leadership,579.91
+2025-04-29,Organic,google,organic,(not set),0.0
+2025-04-29,Email,newsletter,email,weekly_digest,30.82
+2025-04-29,Email,newsletter,email,cart_reminder,24.86
+2025-04-29,Email,newsletter,email,winback,151.87
+2025-04-30,Google Ads,google,cpc,summer_sale,319.26
+2025-04-30,Google Ads,google,cpc,brand_search,246.68
+2025-04-30,Google Ads,google,cpc,competitor_kw,168.92
+2025-04-30,Google Ads,google,cpc,retargeting,867.33
+2025-04-30,Facebook,facebook,paid_social,summer_sale,222.11
+2025-04-30,Facebook,facebook,paid_social,lookalike_audience,169.49
+2025-04-30,Facebook,facebook,paid_social,video_ads,205.74
+2025-04-30,Facebook,facebook,paid_social,retargeting,503.24
+2025-04-30,LinkedIn,linkedin,paid_social,b2b_leads,172.94
+2025-04-30,LinkedIn,linkedin,paid_social,webinar_promo,376.81
+2025-04-30,LinkedIn,linkedin,paid_social,thought_leadership,428.85
+2025-04-30,Organic,google,organic,(not set),0.0
+2025-04-30,Email,newsletter,email,weekly_digest,68.21
+2025-04-30,Email,newsletter,email,cart_reminder,118.41
+2025-04-30,Email,newsletter,email,winback,4.73
+2025-05-01,Google Ads,google,cpc,summer_sale,252.05
+2025-05-01,Google Ads,google,cpc,brand_search,377.72
+2025-05-01,Google Ads,google,cpc,competitor_kw,751.93
+2025-05-01,Google Ads,google,cpc,retargeting,214.17
+2025-05-01,Facebook,facebook,paid_social,summer_sale,475.39
+2025-05-01,Facebook,facebook,paid_social,lookalike_audience,191.36
+2025-05-01,Facebook,facebook,paid_social,video_ads,275.43
+2025-05-01,Facebook,facebook,paid_social,retargeting,64.23
+2025-05-01,LinkedIn,linkedin,paid_social,b2b_leads,641.21
+2025-05-01,LinkedIn,linkedin,paid_social,webinar_promo,56.82
+2025-05-01,LinkedIn,linkedin,paid_social,thought_leadership,134.85
+2025-05-01,Organic,google,organic,(not set),0.0
+2025-05-01,Email,newsletter,email,weekly_digest,114.63
+2025-05-01,Email,newsletter,email,cart_reminder,7.91
+2025-05-01,Email,newsletter,email,winback,84.52
+2025-05-02,Google Ads,google,cpc,summer_sale,100.68
+2025-05-02,Google Ads,google,cpc,brand_search,332.48
+2025-05-02,Google Ads,google,cpc,competitor_kw,691.11
+2025-05-02,Google Ads,google,cpc,retargeting,243.06
+2025-05-02,Facebook,facebook,paid_social,summer_sale,91.06
+2025-05-02,Facebook,facebook,paid_social,lookalike_audience,448.19
+2025-05-02,Facebook,facebook,paid_social,video_ads,275.33
+2025-05-02,Facebook,facebook,paid_social,retargeting,359.06
+2025-05-02,LinkedIn,linkedin,paid_social,b2b_leads,53.96
+2025-05-02,LinkedIn,linkedin,paid_social,webinar_promo,501.46
+2025-05-02,LinkedIn,linkedin,paid_social,thought_leadership,349.03
+2025-05-02,Organic,google,organic,(not set),0.0
+2025-05-02,Email,newsletter,email,weekly_digest,10.98
+2025-05-02,Email,newsletter,email,cart_reminder,59.11
+2025-05-02,Email,newsletter,email,winback,106.89
+2025-05-03,Google Ads,google,cpc,summer_sale,104.9
+2025-05-03,Google Ads,google,cpc,brand_search,113.41
+2025-05-03,Google Ads,google,cpc,competitor_kw,614.4
+2025-05-03,Google Ads,google,cpc,retargeting,536.76
+2025-05-03,Facebook,facebook,paid_social,summer_sale,411.37
+2025-05-03,Facebook,facebook,paid_social,lookalike_audience,422.67
+2025-05-03,Facebook,facebook,paid_social,video_ads,263.22
+2025-05-03,Facebook,facebook,paid_social,retargeting,177.39
+2025-05-03,LinkedIn,linkedin,paid_social,b2b_leads,107.11
+2025-05-03,LinkedIn,linkedin,paid_social,webinar_promo,148.93
+2025-05-03,LinkedIn,linkedin,paid_social,thought_leadership,513.23
+2025-05-03,Organic,google,organic,(not set),0.0
+2025-05-03,Email,newsletter,email,weekly_digest,72.35
+2025-05-03,Email,newsletter,email,cart_reminder,18.36
+2025-05-03,Email,newsletter,email,winback,108.71
+2025-05-04,Google Ads,google,cpc,summer_sale,452.89
+2025-05-04,Google Ads,google,cpc,brand_search,343.23
+2025-05-04,Google Ads,google,cpc,competitor_kw,506.02
+2025-05-04,Google Ads,google,cpc,retargeting,183.0
+2025-05-04,Facebook,facebook,paid_social,summer_sale,87.54
+2025-05-04,Facebook,facebook,paid_social,lookalike_audience,447.83
+2025-05-04,Facebook,facebook,paid_social,video_ads,520.85
+2025-05-04,Facebook,facebook,paid_social,retargeting,33.84
+2025-05-04,LinkedIn,linkedin,paid_social,b2b_leads,214.77
+2025-05-04,LinkedIn,linkedin,paid_social,webinar_promo,257.92
+2025-05-04,LinkedIn,linkedin,paid_social,thought_leadership,191.54
+2025-05-04,Organic,google,organic,(not set),0.0
+2025-05-04,Email,newsletter,email,weekly_digest,57.11
+2025-05-04,Email,newsletter,email,cart_reminder,60.48
+2025-05-04,Email,newsletter,email,winback,59.06
+2025-05-05,Google Ads,google,cpc,summer_sale,274.45
+2025-05-05,Google Ads,google,cpc,brand_search,1009.69
+2025-05-05,Google Ads,google,cpc,competitor_kw,56.26
+2025-05-05,Google Ads,google,cpc,retargeting,71.63
+2025-05-05,Facebook,facebook,paid_social,summer_sale,137.3
+2025-05-05,Facebook,facebook,paid_social,lookalike_audience,116.46
+2025-05-05,Facebook,facebook,paid_social,video_ads,315.14
+2025-05-05,Facebook,facebook,paid_social,retargeting,485.81
+2025-05-05,LinkedIn,linkedin,paid_social,b2b_leads,215.94
+2025-05-05,LinkedIn,linkedin,paid_social,webinar_promo,245.83
+2025-05-05,LinkedIn,linkedin,paid_social,thought_leadership,283.7
+2025-05-05,Organic,google,organic,(not set),0.0
+2025-05-05,Email,newsletter,email,weekly_digest,33.51
+2025-05-05,Email,newsletter,email,cart_reminder,160.09
+2025-05-05,Email,newsletter,email,winback,32.63
+2025-05-06,Google Ads,google,cpc,summer_sale,219.59
+2025-05-06,Google Ads,google,cpc,brand_search,187.24
+2025-05-06,Google Ads,google,cpc,competitor_kw,144.82
+2025-05-06,Google Ads,google,cpc,retargeting,937.23
+2025-05-06,Facebook,facebook,paid_social,summer_sale,557.24
+2025-05-06,Facebook,facebook,paid_social,lookalike_audience,201.73
+2025-05-06,Facebook,facebook,paid_social,video_ads,62.16
+2025-05-06,Facebook,facebook,paid_social,retargeting,223.48
+2025-05-06,LinkedIn,linkedin,paid_social,b2b_leads,503.78
+2025-05-06,LinkedIn,linkedin,paid_social,webinar_promo,12.34
+2025-05-06,LinkedIn,linkedin,paid_social,thought_leadership,219.9
+2025-05-06,Organic,google,organic,(not set),0.0
+2025-05-06,Email,newsletter,email,weekly_digest,48.9
+2025-05-06,Email,newsletter,email,cart_reminder,87.89
+2025-05-06,Email,newsletter,email,winback,67.28
+2025-05-07,Google Ads,google,cpc,summer_sale,130.59
+2025-05-07,Google Ads,google,cpc,brand_search,192.59
+2025-05-07,Google Ads,google,cpc,competitor_kw,1205.72
+2025-05-07,Google Ads,google,cpc,retargeting,207.76
+2025-05-07,Facebook,facebook,paid_social,summer_sale,23.91
+2025-05-07,Facebook,facebook,paid_social,lookalike_audience,96.29
+2025-05-07,Facebook,facebook,paid_social,video_ads,540.49
+2025-05-07,Facebook,facebook,paid_social,retargeting,289.98
+2025-05-07,LinkedIn,linkedin,paid_social,b2b_leads,320.3
+2025-05-07,LinkedIn,linkedin,paid_social,webinar_promo,303.68
+2025-05-07,LinkedIn,linkedin,paid_social,thought_leadership,27.93
+2025-05-07,Organic,google,organic,(not set),0.0
+2025-05-07,Email,newsletter,email,weekly_digest,70.78
+2025-05-07,Email,newsletter,email,cart_reminder,94.19
+2025-05-07,Email,newsletter,email,winback,28.68
+2025-05-08,Google Ads,google,cpc,summer_sale,88.06
+2025-05-08,Google Ads,google,cpc,brand_search,91.35
+2025-05-08,Google Ads,google,cpc,competitor_kw,561.51
+2025-05-08,Google Ads,google,cpc,retargeting,618.15
+2025-05-08,Facebook,facebook,paid_social,summer_sale,622.93
+2025-05-08,Facebook,facebook,paid_social,lookalike_audience,301.95
+2025-05-08,Facebook,facebook,paid_social,video_ads,57.15
+2025-05-08,Facebook,facebook,paid_social,retargeting,205.71
+2025-05-08,LinkedIn,linkedin,paid_social,b2b_leads,225.77
+2025-05-08,LinkedIn,linkedin,paid_social,webinar_promo,484.91
+2025-05-08,LinkedIn,linkedin,paid_social,thought_leadership,125.73
+2025-05-08,Organic,google,organic,(not set),0.0
+2025-05-08,Email,newsletter,email,weekly_digest,9.26
+2025-05-08,Email,newsletter,email,cart_reminder,96.1
+2025-05-08,Email,newsletter,email,winback,107.43
+2025-05-09,Google Ads,google,cpc,summer_sale,104.26
+2025-05-09,Google Ads,google,cpc,brand_search,437.2
+2025-05-09,Google Ads,google,cpc,competitor_kw,858.35
+2025-05-09,Google Ads,google,cpc,retargeting,52.27
+2025-05-09,Facebook,facebook,paid_social,summer_sale,182.13
+2025-05-09,Facebook,facebook,paid_social,lookalike_audience,378.76
+2025-05-09,Facebook,facebook,paid_social,video_ads,441.49
+2025-05-09,Facebook,facebook,paid_social,retargeting,163.79
+2025-05-09,LinkedIn,linkedin,paid_social,b2b_leads,440.69
+2025-05-09,LinkedIn,linkedin,paid_social,webinar_promo,357.63
+2025-05-09,LinkedIn,linkedin,paid_social,thought_leadership,88.56
+2025-05-09,Organic,google,organic,(not set),0.0
+2025-05-09,Email,newsletter,email,weekly_digest,55.69
+2025-05-09,Email,newsletter,email,cart_reminder,46.15
+2025-05-09,Email,newsletter,email,winback,80.82
+2025-05-10,Google Ads,google,cpc,summer_sale,367.7
+2025-05-10,Google Ads,google,cpc,brand_search,565.38
+2025-05-10,Google Ads,google,cpc,competitor_kw,318.43
+2025-05-10,Google Ads,google,cpc,retargeting,130.55
+2025-05-10,Facebook,facebook,paid_social,summer_sale,15.01
+2025-05-10,Facebook,facebook,paid_social,lookalike_audience,781.95
+2025-05-10,Facebook,facebook,paid_social,video_ads,225.04
+2025-05-10,Facebook,facebook,paid_social,retargeting,312.38
+2025-05-10,LinkedIn,linkedin,paid_social,b2b_leads,389.71
+2025-05-10,LinkedIn,linkedin,paid_social,webinar_promo,502.01
+2025-05-10,LinkedIn,linkedin,paid_social,thought_leadership,69.93
+2025-05-10,Organic,google,organic,(not set),0.0
+2025-05-10,Email,newsletter,email,weekly_digest,24.56
+2025-05-10,Email,newsletter,email,cart_reminder,127.62
+2025-05-10,Email,newsletter,email,winback,7.74
+2025-05-11,Google Ads,google,cpc,summer_sale,279.96
+2025-05-11,Google Ads,google,cpc,brand_search,12.05
+2025-05-11,Google Ads,google,cpc,competitor_kw,659.52
+2025-05-11,Google Ads,google,cpc,retargeting,327.54
+2025-05-11,Facebook,facebook,paid_social,summer_sale,88.36
+2025-05-11,Facebook,facebook,paid_social,lookalike_audience,120.35
+2025-05-11,Facebook,facebook,paid_social,video_ads,750.76
+2025-05-11,Facebook,facebook,paid_social,retargeting,315.78
+2025-05-11,LinkedIn,linkedin,paid_social,b2b_leads,723.11
+2025-05-11,LinkedIn,linkedin,paid_social,webinar_promo,59.84
+2025-05-11,LinkedIn,linkedin,paid_social,thought_leadership,35.63
+2025-05-11,Organic,google,organic,(not set),0.0
+2025-05-11,Email,newsletter,email,weekly_digest,44.97
+2025-05-11,Email,newsletter,email,cart_reminder,115.12
+2025-05-11,Email,newsletter,email,winback,53.41
+2025-05-12,Google Ads,google,cpc,summer_sale,74.99
+2025-05-12,Google Ads,google,cpc,brand_search,386.41
+2025-05-12,Google Ads,google,cpc,competitor_kw,1298.86
+2025-05-12,Google Ads,google,cpc,retargeting,114.39
+2025-05-12,Facebook,facebook,paid_social,summer_sale,26.42
+2025-05-12,Facebook,facebook,paid_social,lookalike_audience,316.99
+2025-05-12,Facebook,facebook,paid_social,video_ads,164.16
+2025-05-12,Facebook,facebook,paid_social,retargeting,653.96
+2025-05-12,LinkedIn,linkedin,paid_social,b2b_leads,399.69
+2025-05-12,LinkedIn,linkedin,paid_social,webinar_promo,170.22
+2025-05-12,LinkedIn,linkedin,paid_social,thought_leadership,337.04
+2025-05-12,Organic,google,organic,(not set),0.0
+2025-05-12,Email,newsletter,email,weekly_digest,10.78
+2025-05-12,Email,newsletter,email,cart_reminder,115.9
+2025-05-12,Email,newsletter,email,winback,56.69
+2025-05-13,Google Ads,google,cpc,summer_sale,583.91
+2025-05-13,Google Ads,google,cpc,brand_search,584.38
+2025-05-13,Google Ads,google,cpc,competitor_kw,320.25
+2025-05-13,Google Ads,google,cpc,retargeting,99.86
+2025-05-13,Facebook,facebook,paid_social,summer_sale,358.92
+2025-05-13,Facebook,facebook,paid_social,lookalike_audience,201.04
+2025-05-13,Facebook,facebook,paid_social,video_ads,107.44
+2025-05-13,Facebook,facebook,paid_social,retargeting,465.48
+2025-05-13,LinkedIn,linkedin,paid_social,b2b_leads,130.85
+2025-05-13,LinkedIn,linkedin,paid_social,webinar_promo,337.27
+2025-05-13,LinkedIn,linkedin,paid_social,thought_leadership,439.76
+2025-05-13,Organic,google,organic,(not set),0.0
+2025-05-13,Email,newsletter,email,weekly_digest,81.32
+2025-05-13,Email,newsletter,email,cart_reminder,101.93
+2025-05-13,Email,newsletter,email,winback,37.38
+2025-05-14,Google Ads,google,cpc,summer_sale,134.76
+2025-05-14,Google Ads,google,cpc,brand_search,755.53
+2025-05-14,Google Ads,google,cpc,competitor_kw,178.29
+2025-05-14,Google Ads,google,cpc,retargeting,233.08
+2025-05-14,Facebook,facebook,paid_social,summer_sale,278.7
+2025-05-14,Facebook,facebook,paid_social,lookalike_audience,591.6
+2025-05-14,Facebook,facebook,paid_social,video_ads,311.53
+2025-05-14,Facebook,facebook,paid_social,retargeting,31.4
+2025-05-14,LinkedIn,linkedin,paid_social,b2b_leads,657.68
+2025-05-14,LinkedIn,linkedin,paid_social,webinar_promo,18.7
+2025-05-14,LinkedIn,linkedin,paid_social,thought_leadership,132.01
+2025-05-14,Organic,google,organic,(not set),0.0
+2025-05-14,Email,newsletter,email,weekly_digest,63.28
+2025-05-14,Email,newsletter,email,cart_reminder,14.46
+2025-05-14,Email,newsletter,email,winback,126.7
+2025-05-15,Google Ads,google,cpc,summer_sale,380.65
+2025-05-15,Google Ads,google,cpc,brand_search,118.45
+2025-05-15,Google Ads,google,cpc,competitor_kw,476.34
+2025-05-15,Google Ads,google,cpc,retargeting,410.44
+2025-05-15,Facebook,facebook,paid_social,summer_sale,608.84
+2025-05-15,Facebook,facebook,paid_social,lookalike_audience,139.17
+2025-05-15,Facebook,facebook,paid_social,video_ads,122.35
+2025-05-15,Facebook,facebook,paid_social,retargeting,278.69
+2025-05-15,LinkedIn,linkedin,paid_social,b2b_leads,58.06
+2025-05-15,LinkedIn,linkedin,paid_social,webinar_promo,695.77
+2025-05-15,LinkedIn,linkedin,paid_social,thought_leadership,27.22
+2025-05-15,Organic,google,organic,(not set),0.0
+2025-05-15,Email,newsletter,email,weekly_digest,85.08
+2025-05-15,Email,newsletter,email,cart_reminder,48.94
+2025-05-15,Email,newsletter,email,winback,43.84
+2025-05-16,Google Ads,google,cpc,summer_sale,128.55
+2025-05-16,Google Ads,google,cpc,brand_search,764.6
+2025-05-16,Google Ads,google,cpc,competitor_kw,11.93
+2025-05-16,Google Ads,google,cpc,retargeting,671.92
+2025-05-16,Facebook,facebook,paid_social,summer_sale,11.5
+2025-05-16,Facebook,facebook,paid_social,lookalike_audience,343.41
+2025-05-16,Facebook,facebook,paid_social,video_ads,336.85
+2025-05-16,Facebook,facebook,paid_social,retargeting,345.41
+2025-05-16,LinkedIn,linkedin,paid_social,b2b_leads,626.75
+2025-05-16,LinkedIn,linkedin,paid_social,webinar_promo,54.04
+2025-05-16,LinkedIn,linkedin,paid_social,thought_leadership,216.01
+2025-05-16,Organic,google,organic,(not set),0.0
+2025-05-16,Email,newsletter,email,weekly_digest,32.11
+2025-05-16,Email,newsletter,email,cart_reminder,53.04
+2025-05-16,Email,newsletter,email,winback,102.1
+2025-05-17,Google Ads,google,cpc,summer_sale,554.96
+2025-05-17,Google Ads,google,cpc,brand_search,277.31
+2025-05-17,Google Ads,google,cpc,competitor_kw,398.0
+2025-05-17,Google Ads,google,cpc,retargeting,35.9
+2025-05-17,Facebook,facebook,paid_social,summer_sale,84.4
+2025-05-17,Facebook,facebook,paid_social,lookalike_audience,365.22
+2025-05-17,Facebook,facebook,paid_social,video_ads,251.47
+2025-05-17,Facebook,facebook,paid_social,retargeting,706.45
+2025-05-17,LinkedIn,linkedin,paid_social,b2b_leads,586.51
+2025-05-17,LinkedIn,linkedin,paid_social,webinar_promo,4.92
+2025-05-17,LinkedIn,linkedin,paid_social,thought_leadership,101.5
+2025-05-17,Organic,google,organic,(not set),0.0
+2025-05-17,Email,newsletter,email,weekly_digest,23.37
+2025-05-17,Email,newsletter,email,cart_reminder,63.11
+2025-05-17,Email,newsletter,email,winback,85.45
+2025-05-18,Google Ads,google,cpc,summer_sale,179.24
+2025-05-18,Google Ads,google,cpc,brand_search,428.38
+2025-05-18,Google Ads,google,cpc,competitor_kw,87.06
+2025-05-18,Google Ads,google,cpc,retargeting,628.14
+2025-05-18,Facebook,facebook,paid_social,summer_sale,734.43
+2025-05-18,Facebook,facebook,paid_social,lookalike_audience,242.07
+2025-05-18,Facebook,facebook,paid_social,video_ads,71.0
+2025-05-18,Facebook,facebook,paid_social,retargeting,198.07
+2025-05-18,LinkedIn,linkedin,paid_social,b2b_leads,255.56
+2025-05-18,LinkedIn,linkedin,paid_social,webinar_promo,145.73
+2025-05-18,LinkedIn,linkedin,paid_social,thought_leadership,255.04
+2025-05-18,Organic,google,organic,(not set),0.0
+2025-05-18,Email,newsletter,email,weekly_digest,22.38
+2025-05-18,Email,newsletter,email,cart_reminder,4.63
+2025-05-18,Email,newsletter,email,winback,205.33
+2025-05-19,Google Ads,google,cpc,summer_sale,321.39
+2025-05-19,Google Ads,google,cpc,brand_search,31.57
+2025-05-19,Google Ads,google,cpc,competitor_kw,589.89
+2025-05-19,Google Ads,google,cpc,retargeting,358.6
+2025-05-19,Facebook,facebook,paid_social,summer_sale,449.15
+2025-05-19,Facebook,facebook,paid_social,lookalike_audience,124.35
+2025-05-19,Facebook,facebook,paid_social,video_ads,730.17
+2025-05-19,Facebook,facebook,paid_social,retargeting,17.43
+2025-05-19,LinkedIn,linkedin,paid_social,b2b_leads,267.91
+2025-05-19,LinkedIn,linkedin,paid_social,webinar_promo,394.33
+2025-05-19,LinkedIn,linkedin,paid_social,thought_leadership,103.61
+2025-05-19,Organic,google,organic,(not set),0.0
+2025-05-19,Email,newsletter,email,weekly_digest,44.59
+2025-05-19,Email,newsletter,email,cart_reminder,42.68
+2025-05-19,Email,newsletter,email,winback,74.79
+2025-05-20,Google Ads,google,cpc,summer_sale,39.81
+2025-05-20,Google Ads,google,cpc,brand_search,508.06
+2025-05-20,Google Ads,google,cpc,competitor_kw,760.4
+2025-05-20,Google Ads,google,cpc,retargeting,253.47
+2025-05-20,Facebook,facebook,paid_social,summer_sale,62.36
+2025-05-20,Facebook,facebook,paid_social,lookalike_audience,430.16
+2025-05-20,Facebook,facebook,paid_social,video_ads,2.17
+2025-05-20,Facebook,facebook,paid_social,retargeting,498.1
+2025-05-20,LinkedIn,linkedin,paid_social,b2b_leads,40.5
+2025-05-20,LinkedIn,linkedin,paid_social,webinar_promo,260.43
+2025-05-20,LinkedIn,linkedin,paid_social,thought_leadership,548.25
+2025-05-20,Organic,google,organic,(not set),0.0
+2025-05-20,Email,newsletter,email,weekly_digest,22.23
+2025-05-20,Email,newsletter,email,cart_reminder,43.7
+2025-05-20,Email,newsletter,email,winback,131.4
+2025-05-21,Google Ads,google,cpc,summer_sale,27.02
+2025-05-21,Google Ads,google,cpc,brand_search,443.01
+2025-05-21,Google Ads,google,cpc,competitor_kw,400.62
+2025-05-21,Google Ads,google,cpc,retargeting,413.4
+2025-05-21,Facebook,facebook,paid_social,summer_sale,18.06
+2025-05-21,Facebook,facebook,paid_social,lookalike_audience,468.34
+2025-05-21,Facebook,facebook,paid_social,video_ads,323.09
+2025-05-21,Facebook,facebook,paid_social,retargeting,199.12
+2025-05-21,LinkedIn,linkedin,paid_social,b2b_leads,645.17
+2025-05-21,LinkedIn,linkedin,paid_social,webinar_promo,10.56
+2025-05-21,LinkedIn,linkedin,paid_social,thought_leadership,104.43
+2025-05-21,Organic,google,organic,(not set),0.0
+2025-05-21,Email,newsletter,email,weekly_digest,52.25
+2025-05-21,Email,newsletter,email,cart_reminder,21.99
+2025-05-21,Email,newsletter,email,winback,152.86
+2025-05-22,Google Ads,google,cpc,summer_sale,491.95
+2025-05-22,Google Ads,google,cpc,brand_search,919.17
+2025-05-22,Google Ads,google,cpc,competitor_kw,176.21
+2025-05-22,Google Ads,google,cpc,retargeting,261.43
+2025-05-22,Facebook,facebook,paid_social,summer_sale,170.67
+2025-05-22,Facebook,facebook,paid_social,lookalike_audience,422.45
+2025-05-22,Facebook,facebook,paid_social,video_ads,288.12
+2025-05-22,Facebook,facebook,paid_social,retargeting,228.11
+2025-05-22,LinkedIn,linkedin,paid_social,b2b_leads,87.87
+2025-05-22,LinkedIn,linkedin,paid_social,webinar_promo,249.23
+2025-05-22,LinkedIn,linkedin,paid_social,thought_leadership,392.94
+2025-05-22,Organic,google,organic,(not set),0.0
+2025-05-22,Email,newsletter,email,weekly_digest,63.14
+2025-05-22,Email,newsletter,email,cart_reminder,41.95
+2025-05-22,Email,newsletter,email,winback,55.95
+2025-05-23,Google Ads,google,cpc,summer_sale,245.78
+2025-05-23,Google Ads,google,cpc,brand_search,65.27
+2025-05-23,Google Ads,google,cpc,competitor_kw,135.36
+2025-05-23,Google Ads,google,cpc,retargeting,1072.3
+2025-05-23,Facebook,facebook,paid_social,summer_sale,134.12
+2025-05-23,Facebook,facebook,paid_social,lookalike_audience,15.24
+2025-05-23,Facebook,facebook,paid_social,video_ads,309.09
+2025-05-23,Facebook,facebook,paid_social,retargeting,739.78
+2025-05-23,LinkedIn,linkedin,paid_social,b2b_leads,353.17
+2025-05-23,LinkedIn,linkedin,paid_social,webinar_promo,28.87
+2025-05-23,LinkedIn,linkedin,paid_social,thought_leadership,317.91
+2025-05-23,Organic,google,organic,(not set),0.0
+2025-05-23,Email,newsletter,email,weekly_digest,34.86
+2025-05-23,Email,newsletter,email,cart_reminder,45.18
+2025-05-23,Email,newsletter,email,winback,143.18
+2025-05-24,Google Ads,google,cpc,summer_sale,148.71
+2025-05-24,Google Ads,google,cpc,brand_search,215.01
+2025-05-24,Google Ads,google,cpc,competitor_kw,130.37
+2025-05-24,Google Ads,google,cpc,retargeting,1038.64
+2025-05-24,Facebook,facebook,paid_social,summer_sale,539.06
+2025-05-24,Facebook,facebook,paid_social,lookalike_audience,217.95
+2025-05-24,Facebook,facebook,paid_social,video_ads,64.26
+2025-05-24,Facebook,facebook,paid_social,retargeting,406.6
+2025-05-24,LinkedIn,linkedin,paid_social,b2b_leads,452.51
+2025-05-24,LinkedIn,linkedin,paid_social,webinar_promo,120.19
+2025-05-24,LinkedIn,linkedin,paid_social,thought_leadership,60.52
+2025-05-24,Organic,google,organic,(not set),0.0
+2025-05-24,Email,newsletter,email,weekly_digest,81.52
+2025-05-24,Email,newsletter,email,cart_reminder,35.47
+2025-05-24,Email,newsletter,email,winback,71.45
+2025-05-25,Google Ads,google,cpc,summer_sale,168.49
+2025-05-25,Google Ads,google,cpc,brand_search,451.3
+2025-05-25,Google Ads,google,cpc,competitor_kw,355.25
+2025-05-25,Google Ads,google,cpc,retargeting,697.6
+2025-05-25,Facebook,facebook,paid_social,summer_sale,201.59
+2025-05-25,Facebook,facebook,paid_social,lookalike_audience,409.42
+2025-05-25,Facebook,facebook,paid_social,video_ads,266.19
+2025-05-25,Facebook,facebook,paid_social,retargeting,157.17
+2025-05-25,LinkedIn,linkedin,paid_social,b2b_leads,616.9
+2025-05-25,LinkedIn,linkedin,paid_social,webinar_promo,203.75
+2025-05-25,LinkedIn,linkedin,paid_social,thought_leadership,74.06
+2025-05-25,Organic,google,organic,(not set),0.0
+2025-05-25,Email,newsletter,email,weekly_digest,64.48
+2025-05-25,Email,newsletter,email,cart_reminder,97.16
+2025-05-25,Email,newsletter,email,winback,23.47
+2025-05-26,Google Ads,google,cpc,summer_sale,391.55
+2025-05-26,Google Ads,google,cpc,brand_search,7.62
+2025-05-26,Google Ads,google,cpc,competitor_kw,386.07
+2025-05-26,Google Ads,google,cpc,retargeting,756.78
+2025-05-26,Facebook,facebook,paid_social,summer_sale,25.75
+2025-05-26,Facebook,facebook,paid_social,lookalike_audience,202.72
+2025-05-26,Facebook,facebook,paid_social,video_ads,108.13
+2025-05-26,Facebook,facebook,paid_social,retargeting,867.31
+2025-05-26,LinkedIn,linkedin,paid_social,b2b_leads,144.34
+2025-05-26,LinkedIn,linkedin,paid_social,webinar_promo,163.73
+2025-05-26,LinkedIn,linkedin,paid_social,thought_leadership,488.84
+2025-05-26,Organic,google,organic,(not set),0.0
+2025-05-26,Email,newsletter,email,weekly_digest,61.55
+2025-05-26,Email,newsletter,email,cart_reminder,20.65
+2025-05-26,Email,newsletter,email,winback,136.47
+2025-05-27,Google Ads,google,cpc,summer_sale,362.21
+2025-05-27,Google Ads,google,cpc,brand_search,115.84
+2025-05-27,Google Ads,google,cpc,competitor_kw,472.7
+2025-05-27,Google Ads,google,cpc,retargeting,502.77
+2025-05-27,Facebook,facebook,paid_social,summer_sale,125.19
+2025-05-27,Facebook,facebook,paid_social,lookalike_audience,358.79
+2025-05-27,Facebook,facebook,paid_social,video_ads,575.47
+2025-05-27,Facebook,facebook,paid_social,retargeting,118.25
+2025-05-27,LinkedIn,linkedin,paid_social,b2b_leads,68.71
+2025-05-27,LinkedIn,linkedin,paid_social,webinar_promo,848.05
+2025-05-27,LinkedIn,linkedin,paid_social,thought_leadership,14.45
+2025-05-27,Organic,google,organic,(not set),0.0
+2025-05-27,Email,newsletter,email,weekly_digest,105.44
+2025-05-27,Email,newsletter,email,cart_reminder,62.26
+2025-05-27,Email,newsletter,email,winback,19.79
+2025-05-28,Google Ads,google,cpc,summer_sale,241.13
+2025-05-28,Google Ads,google,cpc,brand_search,512.92
+2025-05-28,Google Ads,google,cpc,competitor_kw,174.95
+2025-05-28,Google Ads,google,cpc,retargeting,621.1
+2025-05-28,Facebook,facebook,paid_social,summer_sale,554.47
+2025-05-28,Facebook,facebook,paid_social,lookalike_audience,116.77
+2025-05-28,Facebook,facebook,paid_social,video_ads,211.04
+2025-05-28,Facebook,facebook,paid_social,retargeting,563.71
+2025-05-28,LinkedIn,linkedin,paid_social,b2b_leads,11.41
+2025-05-28,LinkedIn,linkedin,paid_social,webinar_promo,214.36
+2025-05-28,LinkedIn,linkedin,paid_social,thought_leadership,728.65
+2025-05-28,Organic,google,organic,(not set),0.0
+2025-05-28,Email,newsletter,email,weekly_digest,55.47
+2025-05-28,Email,newsletter,email,cart_reminder,48.24
+2025-05-28,Email,newsletter,email,winback,67.79
+2025-05-29,Google Ads,google,cpc,summer_sale,12.3
+2025-05-29,Google Ads,google,cpc,brand_search,0.5
+2025-05-29,Google Ads,google,cpc,competitor_kw,1212.84
+2025-05-29,Google Ads,google,cpc,retargeting,254.55
+2025-05-29,Facebook,facebook,paid_social,summer_sale,722.11
+2025-05-29,Facebook,facebook,paid_social,lookalike_audience,170.67
+2025-05-29,Facebook,facebook,paid_social,video_ads,48.58
+2025-05-29,Facebook,facebook,paid_social,retargeting,325.73
+2025-05-29,LinkedIn,linkedin,paid_social,b2b_leads,275.83
+2025-05-29,LinkedIn,linkedin,paid_social,webinar_promo,473.36
+2025-05-29,LinkedIn,linkedin,paid_social,thought_leadership,81.96
+2025-05-29,Organic,google,organic,(not set),0.0
+2025-05-29,Email,newsletter,email,weekly_digest,40.9
+2025-05-29,Email,newsletter,email,cart_reminder,58.71
+2025-05-29,Email,newsletter,email,winback,64.65
+2025-05-30,Google Ads,google,cpc,summer_sale,625.6
+2025-05-30,Google Ads,google,cpc,brand_search,295.65
+2025-05-30,Google Ads,google,cpc,competitor_kw,30.24
+2025-05-30,Google Ads,google,cpc,retargeting,324.67
+2025-05-30,Facebook,facebook,paid_social,summer_sale,245.71
+2025-05-30,Facebook,facebook,paid_social,lookalike_audience,100.89
+2025-05-30,Facebook,facebook,paid_social,video_ads,418.44
+2025-05-30,Facebook,facebook,paid_social,retargeting,219.45
+2025-05-30,LinkedIn,linkedin,paid_social,b2b_leads,408.81
+2025-05-30,LinkedIn,linkedin,paid_social,webinar_promo,286.16
+2025-05-30,LinkedIn,linkedin,paid_social,thought_leadership,140.92
+2025-05-30,Organic,google,organic,(not set),0.0
+2025-05-30,Email,newsletter,email,weekly_digest,121.59
+2025-05-30,Email,newsletter,email,cart_reminder,3.08
+2025-05-30,Email,newsletter,email,winback,49.85
+2025-05-31,Google Ads,google,cpc,summer_sale,548.31
+2025-05-31,Google Ads,google,cpc,brand_search,334.61
+2025-05-31,Google Ads,google,cpc,competitor_kw,34.21
+2025-05-31,Google Ads,google,cpc,retargeting,373.88
+2025-05-31,Facebook,facebook,paid_social,summer_sale,155.12
+2025-05-31,Facebook,facebook,paid_social,lookalike_audience,94.24
+2025-05-31,Facebook,facebook,paid_social,video_ads,268.19
+2025-05-31,Facebook,facebook,paid_social,retargeting,711.65
+2025-05-31,LinkedIn,linkedin,paid_social,b2b_leads,637.77
+2025-05-31,LinkedIn,linkedin,paid_social,webinar_promo,106.48
+2025-05-31,LinkedIn,linkedin,paid_social,thought_leadership,69.1
+2025-05-31,Organic,google,organic,(not set),0.0
+2025-05-31,Email,newsletter,email,weekly_digest,36.09
+2025-05-31,Email,newsletter,email,cart_reminder,17.34
+2025-05-31,Email,newsletter,email,winback,177.96
+2025-06-01,Google Ads,google,cpc,summer_sale,434.83
+2025-06-01,Google Ads,google,cpc,brand_search,601.52
+2025-06-01,Google Ads,google,cpc,competitor_kw,374.17
+2025-06-01,Google Ads,google,cpc,retargeting,84.24
+2025-06-01,Facebook,facebook,paid_social,summer_sale,26.96
+2025-06-01,Facebook,facebook,paid_social,lookalike_audience,532.72
+2025-06-01,Facebook,facebook,paid_social,video_ads,302.94
+2025-06-01,Facebook,facebook,paid_social,retargeting,524.27
+2025-06-01,LinkedIn,linkedin,paid_social,b2b_leads,2.02
+2025-06-01,LinkedIn,linkedin,paid_social,webinar_promo,663.41
+2025-06-01,LinkedIn,linkedin,paid_social,thought_leadership,148.59
+2025-06-01,Organic,google,organic,(not set),0.0
+2025-06-01,Email,newsletter,email,weekly_digest,98.83
+2025-06-01,Email,newsletter,email,cart_reminder,69.76
+2025-06-01,Email,newsletter,email,winback,53.64
+2025-06-02,Google Ads,google,cpc,summer_sale,221.83
+2025-06-02,Google Ads,google,cpc,brand_search,629.35
+2025-06-02,Google Ads,google,cpc,competitor_kw,249.02
+2025-06-02,Google Ads,google,cpc,retargeting,285.86
+2025-06-02,Facebook,facebook,paid_social,summer_sale,13.23
+2025-06-02,Facebook,facebook,paid_social,lookalike_audience,117.74
+2025-06-02,Facebook,facebook,paid_social,video_ads,1041.27
+2025-06-02,Facebook,facebook,paid_social,retargeting,208.18
+2025-06-02,LinkedIn,linkedin,paid_social,b2b_leads,123.73
+2025-06-02,LinkedIn,linkedin,paid_social,webinar_promo,204.6
+2025-06-02,LinkedIn,linkedin,paid_social,thought_leadership,382.18
+2025-06-02,Organic,google,organic,(not set),0.0
+2025-06-02,Email,newsletter,email,weekly_digest,117.02
+2025-06-02,Email,newsletter,email,cart_reminder,14.88
+2025-06-02,Email,newsletter,email,winback,56.75
+2025-06-03,Google Ads,google,cpc,summer_sale,606.31
+2025-06-03,Google Ads,google,cpc,brand_search,310.8
+2025-06-03,Google Ads,google,cpc,competitor_kw,307.05
+2025-06-03,Google Ads,google,cpc,retargeting,124.71
+2025-06-03,Facebook,facebook,paid_social,summer_sale,44.55
+2025-06-03,Facebook,facebook,paid_social,lookalike_audience,134.18
+2025-06-03,Facebook,facebook,paid_social,video_ads,768.13
+2025-06-03,Facebook,facebook,paid_social,retargeting,30.67
+2025-06-03,LinkedIn,linkedin,paid_social,b2b_leads,13.01
+2025-06-03,LinkedIn,linkedin,paid_social,webinar_promo,507.45
+2025-06-03,LinkedIn,linkedin,paid_social,thought_leadership,404.28
+2025-06-03,Organic,google,organic,(not set),0.0
+2025-06-03,Email,newsletter,email,weekly_digest,6.13
+2025-06-03,Email,newsletter,email,cart_reminder,63.15
+2025-06-03,Email,newsletter,email,winback,79.39
+2025-06-04,Google Ads,google,cpc,summer_sale,895.31
+2025-06-04,Google Ads,google,cpc,brand_search,267.08
+2025-06-04,Google Ads,google,cpc,competitor_kw,179.52
+2025-06-04,Google Ads,google,cpc,retargeting,351.08
+2025-06-04,Facebook,facebook,paid_social,summer_sale,117.7
+2025-06-04,Facebook,facebook,paid_social,lookalike_audience,52.72
+2025-06-04,Facebook,facebook,paid_social,video_ads,633.8
+2025-06-04,Facebook,facebook,paid_social,retargeting,221.87
+2025-06-04,LinkedIn,linkedin,paid_social,b2b_leads,443.05
+2025-06-04,LinkedIn,linkedin,paid_social,webinar_promo,207.59
+2025-06-04,LinkedIn,linkedin,paid_social,thought_leadership,181.55
+2025-06-04,Organic,google,organic,(not set),0.0
+2025-06-04,Email,newsletter,email,weekly_digest,56.24
+2025-06-04,Email,newsletter,email,cart_reminder,39.52
+2025-06-04,Email,newsletter,email,winback,80.0
+2025-06-05,Google Ads,google,cpc,summer_sale,197.76
+2025-06-05,Google Ads,google,cpc,brand_search,501.65
+2025-06-05,Google Ads,google,cpc,competitor_kw,270.57
+2025-06-05,Google Ads,google,cpc,retargeting,263.08
+2025-06-05,Facebook,facebook,paid_social,summer_sale,494.26
+2025-06-05,Facebook,facebook,paid_social,lookalike_audience,275.04
+2025-06-05,Facebook,facebook,paid_social,video_ads,348.29
+2025-06-05,Facebook,facebook,paid_social,retargeting,150.17
+2025-06-05,LinkedIn,linkedin,paid_social,b2b_leads,206.5
+2025-06-05,LinkedIn,linkedin,paid_social,webinar_promo,305.65
+2025-06-05,LinkedIn,linkedin,paid_social,thought_leadership,288.39
+2025-06-05,Organic,google,organic,(not set),0.0
+2025-06-05,Email,newsletter,email,weekly_digest,16.17
+2025-06-05,Email,newsletter,email,cart_reminder,147.25
+2025-06-05,Email,newsletter,email,winback,48.53
+2025-06-06,Google Ads,google,cpc,summer_sale,703.59
+2025-06-06,Google Ads,google,cpc,brand_search,625.58
+2025-06-06,Google Ads,google,cpc,competitor_kw,186.21
+2025-06-06,Google Ads,google,cpc,retargeting,28.31
+2025-06-06,Facebook,facebook,paid_social,summer_sale,609.64
+2025-06-06,Facebook,facebook,paid_social,lookalike_audience,308.63
+2025-06-06,Facebook,facebook,paid_social,video_ads,108.82
+2025-06-06,Facebook,facebook,paid_social,retargeting,147.24
+2025-06-06,LinkedIn,linkedin,paid_social,b2b_leads,98.16
+2025-06-06,LinkedIn,linkedin,paid_social,webinar_promo,458.36
+2025-06-06,LinkedIn,linkedin,paid_social,thought_leadership,126.24
+2025-06-06,Organic,google,organic,(not set),0.0
+2025-06-06,Email,newsletter,email,weekly_digest,6.55
+2025-06-06,Email,newsletter,email,cart_reminder,5.3
+2025-06-06,Email,newsletter,email,winback,199.44
+2025-06-07,Google Ads,google,cpc,summer_sale,24.73
+2025-06-07,Google Ads,google,cpc,brand_search,228.66
+2025-06-07,Google Ads,google,cpc,competitor_kw,819.07
+2025-06-07,Google Ads,google,cpc,retargeting,368.08
+2025-06-07,Facebook,facebook,paid_social,summer_sale,189.08
+2025-06-07,Facebook,facebook,paid_social,lookalike_audience,161.07
+2025-06-07,Facebook,facebook,paid_social,video_ads,543.7
+2025-06-07,Facebook,facebook,paid_social,retargeting,19.92
+2025-06-07,LinkedIn,linkedin,paid_social,b2b_leads,105.9
+2025-06-07,LinkedIn,linkedin,paid_social,webinar_promo,51.67
+2025-06-07,LinkedIn,linkedin,paid_social,thought_leadership,552.23
+2025-06-07,Organic,google,organic,(not set),0.0
+2025-06-07,Email,newsletter,email,weekly_digest,107.12
+2025-06-07,Email,newsletter,email,cart_reminder,96.82
+2025-06-07,Email,newsletter,email,winback,9.91
+2025-06-08,Google Ads,google,cpc,summer_sale,350.72
+2025-06-08,Google Ads,google,cpc,brand_search,183.02
+2025-06-08,Google Ads,google,cpc,competitor_kw,865.15
+2025-06-08,Google Ads,google,cpc,retargeting,108.07
+2025-06-08,Facebook,facebook,paid_social,summer_sale,504.54
+2025-06-08,Facebook,facebook,paid_social,lookalike_audience,526.11
+2025-06-08,Facebook,facebook,paid_social,video_ads,0.1
+2025-06-08,Facebook,facebook,paid_social,retargeting,13.26
+2025-06-08,LinkedIn,linkedin,paid_social,b2b_leads,259.95
+2025-06-08,LinkedIn,linkedin,paid_social,webinar_promo,1.15
+2025-06-08,LinkedIn,linkedin,paid_social,thought_leadership,513.47
+2025-06-08,Organic,google,organic,(not set),0.0
+2025-06-08,Email,newsletter,email,weekly_digest,125.26
+2025-06-08,Email,newsletter,email,cart_reminder,19.88
+2025-06-08,Email,newsletter,email,winback,59.59
+2025-06-09,Google Ads,google,cpc,summer_sale,147.87
+2025-06-09,Google Ads,google,cpc,brand_search,956.15
+2025-06-09,Google Ads,google,cpc,competitor_kw,422.02
+2025-06-09,Google Ads,google,cpc,retargeting,91.44
+2025-06-09,Facebook,facebook,paid_social,summer_sale,350.17
+2025-06-09,Facebook,facebook,paid_social,lookalike_audience,402.43
+2025-06-09,Facebook,facebook,paid_social,video_ads,215.36
+2025-06-09,Facebook,facebook,paid_social,retargeting,87.45
+2025-06-09,LinkedIn,linkedin,paid_social,b2b_leads,161.1
+2025-06-09,LinkedIn,linkedin,paid_social,webinar_promo,251.93
+2025-06-09,LinkedIn,linkedin,paid_social,thought_leadership,232.67
+2025-06-09,Organic,google,organic,(not set),0.0
+2025-06-09,Email,newsletter,email,weekly_digest,89.41
+2025-06-09,Email,newsletter,email,cart_reminder,44.26
+2025-06-09,Email,newsletter,email,winback,30.72
+2025-06-10,Google Ads,google,cpc,summer_sale,439.49
+2025-06-10,Google Ads,google,cpc,brand_search,687.63
+2025-06-10,Google Ads,google,cpc,competitor_kw,15.83
+2025-06-10,Google Ads,google,cpc,retargeting,458.78
+2025-06-10,Facebook,facebook,paid_social,summer_sale,165.84
+2025-06-10,Facebook,facebook,paid_social,lookalike_audience,189.8
+2025-06-10,Facebook,facebook,paid_social,video_ads,390.82
+2025-06-10,Facebook,facebook,paid_social,retargeting,335.33
+2025-06-10,LinkedIn,linkedin,paid_social,b2b_leads,657.5
+2025-06-10,LinkedIn,linkedin,paid_social,webinar_promo,206.51
+2025-06-10,LinkedIn,linkedin,paid_social,thought_leadership,95.74
+2025-06-10,Organic,google,organic,(not set),0.0
+2025-06-10,Email,newsletter,email,weekly_digest,11.7
+2025-06-10,Email,newsletter,email,cart_reminder,47.24
+2025-06-10,Email,newsletter,email,winback,101.37
+2025-06-11,Google Ads,google,cpc,summer_sale,83.01
+2025-06-11,Google Ads,google,cpc,brand_search,53.38
+2025-06-11,Google Ads,google,cpc,competitor_kw,493.94
+2025-06-11,Google Ads,google,cpc,retargeting,821.33
+2025-06-11,Facebook,facebook,paid_social,summer_sale,25.73
+2025-06-11,Facebook,facebook,paid_social,lookalike_audience,22.07
+2025-06-11,Facebook,facebook,paid_social,video_ads,1008.88
+2025-06-11,Facebook,facebook,paid_social,retargeting,28.55
+2025-06-11,LinkedIn,linkedin,paid_social,b2b_leads,239.02
+2025-06-11,LinkedIn,linkedin,paid_social,webinar_promo,536.08
+2025-06-11,LinkedIn,linkedin,paid_social,thought_leadership,31.39
+2025-06-11,Organic,google,organic,(not set),0.0
+2025-06-11,Email,newsletter,email,weekly_digest,116.8
+2025-06-11,Email,newsletter,email,cart_reminder,36.72
+2025-06-11,Email,newsletter,email,winback,10.97
+2025-06-12,Google Ads,google,cpc,summer_sale,204.99
+2025-06-12,Google Ads,google,cpc,brand_search,735.38
+2025-06-12,Google Ads,google,cpc,competitor_kw,156.89
+2025-06-12,Google Ads,google,cpc,retargeting,268.3
+2025-06-12,Facebook,facebook,paid_social,summer_sale,353.75
+2025-06-12,Facebook,facebook,paid_social,lookalike_audience,482.67
+2025-06-12,Facebook,facebook,paid_social,video_ads,102.2
+2025-06-12,Facebook,facebook,paid_social,retargeting,243.58
+2025-06-12,LinkedIn,linkedin,paid_social,b2b_leads,190.25
+2025-06-12,LinkedIn,linkedin,paid_social,webinar_promo,648.07
+2025-06-12,LinkedIn,linkedin,paid_social,thought_leadership,6.86
+2025-06-12,Organic,google,organic,(not set),0.0
+2025-06-12,Email,newsletter,email,weekly_digest,27.33
+2025-06-12,Email,newsletter,email,cart_reminder,74.49
+2025-06-12,Email,newsletter,email,winback,132.45
+2025-06-13,Google Ads,google,cpc,summer_sale,5.5
+2025-06-13,Google Ads,google,cpc,brand_search,349.28
+2025-06-13,Google Ads,google,cpc,competitor_kw,44.45
+2025-06-13,Google Ads,google,cpc,retargeting,749.41
+2025-06-13,Facebook,facebook,paid_social,summer_sale,136.49
+2025-06-13,Facebook,facebook,paid_social,lookalike_audience,225.03
+2025-06-13,Facebook,facebook,paid_social,video_ads,289.36
+2025-06-13,Facebook,facebook,paid_social,retargeting,508.07
+2025-06-13,LinkedIn,linkedin,paid_social,b2b_leads,609.72
+2025-06-13,LinkedIn,linkedin,paid_social,webinar_promo,97.67
+2025-06-13,LinkedIn,linkedin,paid_social,thought_leadership,233.84
+2025-06-13,Organic,google,organic,(not set),0.0
+2025-06-13,Email,newsletter,email,weekly_digest,156.25
+2025-06-13,Email,newsletter,email,cart_reminder,36.33
+2025-06-13,Email,newsletter,email,winback,24.78
+2025-06-14,Google Ads,google,cpc,summer_sale,50.13
+2025-06-14,Google Ads,google,cpc,brand_search,1051.54
+2025-06-14,Google Ads,google,cpc,competitor_kw,47.5
+2025-06-14,Google Ads,google,cpc,retargeting,408.16
+2025-06-14,Facebook,facebook,paid_social,summer_sale,311.93
+2025-06-14,Facebook,facebook,paid_social,lookalike_audience,590.48
+2025-06-14,Facebook,facebook,paid_social,video_ads,159.4
+2025-06-14,Facebook,facebook,paid_social,retargeting,68.58
+2025-06-14,LinkedIn,linkedin,paid_social,b2b_leads,315.44
+2025-06-14,LinkedIn,linkedin,paid_social,webinar_promo,119.54
+2025-06-14,LinkedIn,linkedin,paid_social,thought_leadership,353.31
+2025-06-14,Organic,google,organic,(not set),0.0
+2025-06-14,Email,newsletter,email,weekly_digest,80.55
+2025-06-14,Email,newsletter,email,cart_reminder,5.65
+2025-06-14,Email,newsletter,email,winback,73.5
+2025-06-15,Google Ads,google,cpc,summer_sale,387.73
+2025-06-15,Google Ads,google,cpc,brand_search,375.52
+2025-06-15,Google Ads,google,cpc,competitor_kw,78.31
+2025-06-15,Google Ads,google,cpc,retargeting,668.04
+2025-06-15,Facebook,facebook,paid_social,summer_sale,57.31
+2025-06-15,Facebook,facebook,paid_social,lookalike_audience,394.07
+2025-06-15,Facebook,facebook,paid_social,video_ads,334.63
+2025-06-15,Facebook,facebook,paid_social,retargeting,407.17
+2025-06-15,LinkedIn,linkedin,paid_social,b2b_leads,303.69
+2025-06-15,LinkedIn,linkedin,paid_social,webinar_promo,198.45
+2025-06-15,LinkedIn,linkedin,paid_social,thought_leadership,313.46
+2025-06-15,Organic,google,organic,(not set),0.0
+2025-06-15,Email,newsletter,email,weekly_digest,192.82
+2025-06-15,Email,newsletter,email,cart_reminder,36.27
+2025-06-15,Email,newsletter,email,winback,8.22
+2025-06-16,Google Ads,google,cpc,summer_sale,122.2
+2025-06-16,Google Ads,google,cpc,brand_search,87.88
+2025-06-16,Google Ads,google,cpc,competitor_kw,1037.47
+2025-06-16,Google Ads,google,cpc,retargeting,90.14
+2025-06-16,Facebook,facebook,paid_social,summer_sale,597.8
+2025-06-16,Facebook,facebook,paid_social,lookalike_audience,53.98
+2025-06-16,Facebook,facebook,paid_social,video_ads,222.88
+2025-06-16,Facebook,facebook,paid_social,retargeting,174.34
+2025-06-16,LinkedIn,linkedin,paid_social,b2b_leads,68.86
+2025-06-16,LinkedIn,linkedin,paid_social,webinar_promo,408.01
+2025-06-16,LinkedIn,linkedin,paid_social,thought_leadership,323.03
+2025-06-16,Organic,google,organic,(not set),0.0
+2025-06-16,Email,newsletter,email,weekly_digest,18.51
+2025-06-16,Email,newsletter,email,cart_reminder,25.67
+2025-06-16,Email,newsletter,email,winback,179.15
+2025-06-17,Google Ads,google,cpc,summer_sale,404.44
+2025-06-17,Google Ads,google,cpc,brand_search,299.52
+2025-06-17,Google Ads,google,cpc,competitor_kw,347.35
+2025-06-17,Google Ads,google,cpc,retargeting,347.42
+2025-06-17,Facebook,facebook,paid_social,summer_sale,942.57
+2025-06-17,Facebook,facebook,paid_social,lookalike_audience,28.53
+2025-06-17,Facebook,facebook,paid_social,video_ads,49.58
+2025-06-17,Facebook,facebook,paid_social,retargeting,190.4
+2025-06-17,LinkedIn,linkedin,paid_social,b2b_leads,98.35
+2025-06-17,LinkedIn,linkedin,paid_social,webinar_promo,180.54
+2025-06-17,LinkedIn,linkedin,paid_social,thought_leadership,638.41
+2025-06-17,Organic,google,organic,(not set),0.0
+2025-06-17,Email,newsletter,email,weekly_digest,77.07
+2025-06-17,Email,newsletter,email,cart_reminder,12.77
+2025-06-17,Email,newsletter,email,winback,113.41
+2025-06-18,Google Ads,google,cpc,summer_sale,71.78
+2025-06-18,Google Ads,google,cpc,brand_search,646.33
+2025-06-18,Google Ads,google,cpc,competitor_kw,585.04
+2025-06-18,Google Ads,google,cpc,retargeting,17.78
+2025-06-18,Facebook,facebook,paid_social,summer_sale,113.61
+2025-06-18,Facebook,facebook,paid_social,lookalike_audience,7.3
+2025-06-18,Facebook,facebook,paid_social,video_ads,270.18
+2025-06-18,Facebook,facebook,paid_social,retargeting,1011.64
+2025-06-18,LinkedIn,linkedin,paid_social,b2b_leads,862.63
+2025-06-18,LinkedIn,linkedin,paid_social,webinar_promo,76.86
+2025-06-18,LinkedIn,linkedin,paid_social,thought_leadership,35.83
+2025-06-18,Organic,google,organic,(not set),0.0
+2025-06-18,Email,newsletter,email,weekly_digest,80.2
+2025-06-18,Email,newsletter,email,cart_reminder,55.52
+2025-06-18,Email,newsletter,email,winback,89.24
+2025-06-19,Google Ads,google,cpc,summer_sale,258.25
+2025-06-19,Google Ads,google,cpc,brand_search,460.64
+2025-06-19,Google Ads,google,cpc,competitor_kw,698.89
+2025-06-19,Google Ads,google,cpc,retargeting,193.65
+2025-06-19,Facebook,facebook,paid_social,summer_sale,208.81
+2025-06-19,Facebook,facebook,paid_social,lookalike_audience,218.64
+2025-06-19,Facebook,facebook,paid_social,video_ads,103.4
+2025-06-19,Facebook,facebook,paid_social,retargeting,587.48
+2025-06-19,LinkedIn,linkedin,paid_social,b2b_leads,25.97
+2025-06-19,LinkedIn,linkedin,paid_social,webinar_promo,496.59
+2025-06-19,LinkedIn,linkedin,paid_social,thought_leadership,336.87
+2025-06-19,Organic,google,organic,(not set),0.0
+2025-06-19,Email,newsletter,email,weekly_digest,91.33
+2025-06-19,Email,newsletter,email,cart_reminder,59.14
+2025-06-19,Email,newsletter,email,winback,54.94
+2025-06-20,Google Ads,google,cpc,summer_sale,542.15
+2025-06-20,Google Ads,google,cpc,brand_search,527.96
+2025-06-20,Google Ads,google,cpc,competitor_kw,415.83
+2025-06-20,Google Ads,google,cpc,retargeting,46.31
+2025-06-20,Facebook,facebook,paid_social,summer_sale,475.94
+2025-06-20,Facebook,facebook,paid_social,lookalike_audience,774.51
+2025-06-20,Facebook,facebook,paid_social,video_ads,31.36
+2025-06-20,Facebook,facebook,paid_social,retargeting,103.74
+2025-06-20,LinkedIn,linkedin,paid_social,b2b_leads,227.9
+2025-06-20,LinkedIn,linkedin,paid_social,webinar_promo,303.78
+2025-06-20,LinkedIn,linkedin,paid_social,thought_leadership,227.74
+2025-06-20,Organic,google,organic,(not set),0.0
+2025-06-20,Email,newsletter,email,weekly_digest,26.52
+2025-06-20,Email,newsletter,email,cart_reminder,35.97
+2025-06-20,Email,newsletter,email,winback,151.39
+2025-06-21,Google Ads,google,cpc,summer_sale,10.62
+2025-06-21,Google Ads,google,cpc,brand_search,61.39
+2025-06-21,Google Ads,google,cpc,competitor_kw,684.03
+2025-06-21,Google Ads,google,cpc,retargeting,725.33
+2025-06-21,Facebook,facebook,paid_social,summer_sale,193.87
+2025-06-21,Facebook,facebook,paid_social,lookalike_audience,126.21
+2025-06-21,Facebook,facebook,paid_social,video_ads,751.34
+2025-06-21,Facebook,facebook,paid_social,retargeting,104.08
+2025-06-21,LinkedIn,linkedin,paid_social,b2b_leads,455.41
+2025-06-21,LinkedIn,linkedin,paid_social,webinar_promo,132.24
+2025-06-21,LinkedIn,linkedin,paid_social,thought_leadership,180.61
+2025-06-21,Organic,google,organic,(not set),0.0
+2025-06-21,Email,newsletter,email,weekly_digest,187.17
+2025-06-21,Email,newsletter,email,cart_reminder,15.12
+2025-06-21,Email,newsletter,email,winback,11.93
+2025-06-22,Google Ads,google,cpc,summer_sale,146.31
+2025-06-22,Google Ads,google,cpc,brand_search,926.9
+2025-06-22,Google Ads,google,cpc,competitor_kw,156.28
+2025-06-22,Google Ads,google,cpc,retargeting,162.08
+2025-06-22,Facebook,facebook,paid_social,summer_sale,605.54
+2025-06-22,Facebook,facebook,paid_social,lookalike_audience,25.08
+2025-06-22,Facebook,facebook,paid_social,video_ads,615.95
+2025-06-22,Facebook,facebook,paid_social,retargeting,129.92
+2025-06-22,LinkedIn,linkedin,paid_social,b2b_leads,416.82
+2025-06-22,LinkedIn,linkedin,paid_social,webinar_promo,91.53
+2025-06-22,LinkedIn,linkedin,paid_social,thought_leadership,92.41
+2025-06-22,Organic,google,organic,(not set),0.0
+2025-06-22,Email,newsletter,email,weekly_digest,100.32
+2025-06-22,Email,newsletter,email,cart_reminder,38.45
+2025-06-22,Email,newsletter,email,winback,74.86
+2025-06-23,Google Ads,google,cpc,summer_sale,682.17
+2025-06-23,Google Ads,google,cpc,brand_search,88.45
+2025-06-23,Google Ads,google,cpc,competitor_kw,176.48
+2025-06-23,Google Ads,google,cpc,retargeting,608.4
+2025-06-23,Facebook,facebook,paid_social,summer_sale,300.35
+2025-06-23,Facebook,facebook,paid_social,lookalike_audience,68.06
+2025-06-23,Facebook,facebook,paid_social,video_ads,34.68
+2025-06-23,Facebook,facebook,paid_social,retargeting,978.39
+2025-06-23,LinkedIn,linkedin,paid_social,b2b_leads,614.86
+2025-06-23,LinkedIn,linkedin,paid_social,webinar_promo,92.52
+2025-06-23,LinkedIn,linkedin,paid_social,thought_leadership,112.65
+2025-06-23,Organic,google,organic,(not set),0.0
+2025-06-23,Email,newsletter,email,weekly_digest,16.85
+2025-06-23,Email,newsletter,email,cart_reminder,176.55
+2025-06-23,Email,newsletter,email,winback,30.16
+2025-06-24,Google Ads,google,cpc,summer_sale,285.4
+2025-06-24,Google Ads,google,cpc,brand_search,654.57
+2025-06-24,Google Ads,google,cpc,competitor_kw,399.59
+2025-06-24,Google Ads,google,cpc,retargeting,74.61
+2025-06-24,Facebook,facebook,paid_social,summer_sale,99.93
+2025-06-24,Facebook,facebook,paid_social,lookalike_audience,55.57
+2025-06-24,Facebook,facebook,paid_social,video_ads,271.85
+2025-06-24,Facebook,facebook,paid_social,retargeting,845.65
+2025-06-24,LinkedIn,linkedin,paid_social,b2b_leads,301.44
+2025-06-24,LinkedIn,linkedin,paid_social,webinar_promo,119.39
+2025-06-24,LinkedIn,linkedin,paid_social,thought_leadership,369.07
+2025-06-24,Organic,google,organic,(not set),0.0
+2025-06-24,Email,newsletter,email,weekly_digest,114.59
+2025-06-24,Email,newsletter,email,cart_reminder,45.14
+2025-06-24,Email,newsletter,email,winback,32.95
+2025-06-25,Google Ads,google,cpc,summer_sale,671.59
+2025-06-25,Google Ads,google,cpc,brand_search,524.9
+2025-06-25,Google Ads,google,cpc,competitor_kw,173.74
+2025-06-25,Google Ads,google,cpc,retargeting,11.0
+2025-06-25,Facebook,facebook,paid_social,summer_sale,217.21
+2025-06-25,Facebook,facebook,paid_social,lookalike_audience,962.31
+2025-06-25,Facebook,facebook,paid_social,video_ads,19.59
+2025-06-25,Facebook,facebook,paid_social,retargeting,292.71
+2025-06-25,LinkedIn,linkedin,paid_social,b2b_leads,56.06
+2025-06-25,LinkedIn,linkedin,paid_social,webinar_promo,593.92
+2025-06-25,LinkedIn,linkedin,paid_social,thought_leadership,210.97
+2025-06-25,Organic,google,organic,(not set),0.0
+2025-06-25,Email,newsletter,email,weekly_digest,30.15
+2025-06-25,Email,newsletter,email,cart_reminder,24.79
+2025-06-25,Email,newsletter,email,winback,186.3
+2025-06-26,Google Ads,google,cpc,summer_sale,42.29
+2025-06-26,Google Ads,google,cpc,brand_search,231.46
+2025-06-26,Google Ads,google,cpc,competitor_kw,146.41
+2025-06-26,Google Ads,google,cpc,retargeting,1094.91
+2025-06-26,Facebook,facebook,paid_social,summer_sale,281.3
+2025-06-26,Facebook,facebook,paid_social,lookalike_audience,58.88
+2025-06-26,Facebook,facebook,paid_social,video_ads,642.38
+2025-06-26,Facebook,facebook,paid_social,retargeting,293.49
+2025-06-26,LinkedIn,linkedin,paid_social,b2b_leads,351.62
+2025-06-26,LinkedIn,linkedin,paid_social,webinar_promo,238.78
+2025-06-26,LinkedIn,linkedin,paid_social,thought_leadership,49.72
+2025-06-26,Organic,google,organic,(not set),0.0
+2025-06-26,Email,newsletter,email,weekly_digest,111.34
+2025-06-26,Email,newsletter,email,cart_reminder,44.78
+2025-06-26,Email,newsletter,email,winback,4.99
+2025-06-27,Google Ads,google,cpc,summer_sale,393.62
+2025-06-27,Google Ads,google,cpc,brand_search,394.26
+2025-06-27,Google Ads,google,cpc,competitor_kw,738.84
+2025-06-27,Google Ads,google,cpc,retargeting,52.83
+2025-06-27,Facebook,facebook,paid_social,summer_sale,12.76
+2025-06-27,Facebook,facebook,paid_social,lookalike_audience,77.97
+2025-06-27,Facebook,facebook,paid_social,video_ads,1156.75
+2025-06-27,Facebook,facebook,paid_social,retargeting,149.41
+2025-06-27,LinkedIn,linkedin,paid_social,b2b_leads,469.86
+2025-06-27,LinkedIn,linkedin,paid_social,webinar_promo,270.93
+2025-06-27,LinkedIn,linkedin,paid_social,thought_leadership,2.88
+2025-06-27,Organic,google,organic,(not set),0.0
+2025-06-27,Email,newsletter,email,weekly_digest,42.7
+2025-06-27,Email,newsletter,email,cart_reminder,148.28
+2025-06-27,Email,newsletter,email,winback,22.15
+2025-06-28,Google Ads,google,cpc,summer_sale,330.31
+2025-06-28,Google Ads,google,cpc,brand_search,1163.83
+2025-06-28,Google Ads,google,cpc,competitor_kw,268.96
+2025-06-28,Google Ads,google,cpc,retargeting,48.26
+2025-06-28,Facebook,facebook,paid_social,summer_sale,349.64
+2025-06-28,Facebook,facebook,paid_social,lookalike_audience,59.45
+2025-06-28,Facebook,facebook,paid_social,video_ads,643.21
+2025-06-28,Facebook,facebook,paid_social,retargeting,264.08
+2025-06-28,LinkedIn,linkedin,paid_social,b2b_leads,59.94
+2025-06-28,LinkedIn,linkedin,paid_social,webinar_promo,825.07
+2025-06-28,LinkedIn,linkedin,paid_social,thought_leadership,27.67
+2025-06-28,Organic,google,organic,(not set),0.0
+2025-06-28,Email,newsletter,email,weekly_digest,48.44
+2025-06-28,Email,newsletter,email,cart_reminder,81.68
+2025-06-28,Email,newsletter,email,winback,89.23
+2025-06-29,Google Ads,google,cpc,summer_sale,875.7
+2025-06-29,Google Ads,google,cpc,brand_search,247.12
+2025-06-29,Google Ads,google,cpc,competitor_kw,195.75
+2025-06-29,Google Ads,google,cpc,retargeting,1.16
+2025-06-29,Facebook,facebook,paid_social,summer_sale,262.08
+2025-06-29,Facebook,facebook,paid_social,lookalike_audience,46.59
+2025-06-29,Facebook,facebook,paid_social,video_ads,872.06
+2025-06-29,Facebook,facebook,paid_social,retargeting,63.29
+2025-06-29,LinkedIn,linkedin,paid_social,b2b_leads,414.57
+2025-06-29,LinkedIn,linkedin,paid_social,webinar_promo,150.23
+2025-06-29,LinkedIn,linkedin,paid_social,thought_leadership,49.12
+2025-06-29,Organic,google,organic,(not set),0.0
+2025-06-29,Email,newsletter,email,weekly_digest,95.29
+2025-06-29,Email,newsletter,email,cart_reminder,7.92
+2025-06-29,Email,newsletter,email,winback,108.49
+2025-06-30,Google Ads,google,cpc,summer_sale,40.99
+2025-06-30,Google Ads,google,cpc,brand_search,438.21
+2025-06-30,Google Ads,google,cpc,competitor_kw,1082.96
+2025-06-30,Google Ads,google,cpc,retargeting,17.71
+2025-06-30,Facebook,facebook,paid_social,summer_sale,522.89
+2025-06-30,Facebook,facebook,paid_social,lookalike_audience,727.59
+2025-06-30,Facebook,facebook,paid_social,video_ads,148.01
+2025-06-30,Facebook,facebook,paid_social,retargeting,49.37
+2025-06-30,LinkedIn,linkedin,paid_social,b2b_leads,347.71
+2025-06-30,LinkedIn,linkedin,paid_social,webinar_promo,309.95
+2025-06-30,LinkedIn,linkedin,paid_social,thought_leadership,112.92
+2025-06-30,Organic,google,organic,(not set),0.0
+2025-06-30,Email,newsletter,email,weekly_digest,115.31
+2025-06-30,Email,newsletter,email,cart_reminder,9.9
+2025-06-30,Email,newsletter,email,winback,75.92
+2025-07-01,Google Ads,google,cpc,summer_sale,758.21
+2025-07-01,Google Ads,google,cpc,brand_search,472.42
+2025-07-01,Google Ads,google,cpc,competitor_kw,80.49
+2025-07-01,Google Ads,google,cpc,retargeting,50.65
+2025-07-01,Facebook,facebook,paid_social,summer_sale,104.68
+2025-07-01,Facebook,facebook,paid_social,lookalike_audience,602.33
+2025-07-01,Facebook,facebook,paid_social,video_ads,243.9
+2025-07-01,Facebook,facebook,paid_social,retargeting,86.59
+2025-07-01,LinkedIn,linkedin,paid_social,b2b_leads,338.89
+2025-07-01,LinkedIn,linkedin,paid_social,webinar_promo,90.34
+2025-07-01,LinkedIn,linkedin,paid_social,thought_leadership,393.83
+2025-07-01,Organic,google,organic,(not set),0.0
+2025-07-01,Email,newsletter,email,weekly_digest,138.95
+2025-07-01,Email,newsletter,email,cart_reminder,15.97
+2025-07-01,Email,newsletter,email,winback,10.53
+2025-07-02,Google Ads,google,cpc,summer_sale,93.26
+2025-07-02,Google Ads,google,cpc,brand_search,107.24
+2025-07-02,Google Ads,google,cpc,competitor_kw,186.8
+2025-07-02,Google Ads,google,cpc,retargeting,981.6
+2025-07-02,Facebook,facebook,paid_social,summer_sale,255.98
+2025-07-02,Facebook,facebook,paid_social,lookalike_audience,668.5
+2025-07-02,Facebook,facebook,paid_social,video_ads,84.0
+2025-07-02,Facebook,facebook,paid_social,retargeting,215.53
+2025-07-02,LinkedIn,linkedin,paid_social,b2b_leads,127.37
+2025-07-02,LinkedIn,linkedin,paid_social,webinar_promo,86.64
+2025-07-02,LinkedIn,linkedin,paid_social,thought_leadership,585.9
+2025-07-02,Organic,google,organic,(not set),0.0
+2025-07-02,Email,newsletter,email,weekly_digest,14.62
+2025-07-02,Email,newsletter,email,cart_reminder,150.47
+2025-07-02,Email,newsletter,email,winback,22.95
+2025-07-03,Google Ads,google,cpc,summer_sale,579.56
+2025-07-03,Google Ads,google,cpc,brand_search,48.16
+2025-07-03,Google Ads,google,cpc,competitor_kw,39.97
+2025-07-03,Google Ads,google,cpc,retargeting,727.92
+2025-07-03,Facebook,facebook,paid_social,summer_sale,31.81
+2025-07-03,Facebook,facebook,paid_social,lookalike_audience,240.69
+2025-07-03,Facebook,facebook,paid_social,video_ads,1031.52
+2025-07-03,Facebook,facebook,paid_social,retargeting,103.64
+2025-07-03,LinkedIn,linkedin,paid_social,b2b_leads,220.34
+2025-07-03,LinkedIn,linkedin,paid_social,webinar_promo,461.54
+2025-07-03,LinkedIn,linkedin,paid_social,thought_leadership,131.37
+2025-07-03,Organic,google,organic,(not set),0.0
+2025-07-03,Email,newsletter,email,weekly_digest,126.79
+2025-07-03,Email,newsletter,email,cart_reminder,7.61
+2025-07-03,Email,newsletter,email,winback,52.86
+2025-07-04,Google Ads,google,cpc,summer_sale,13.27
+2025-07-04,Google Ads,google,cpc,brand_search,422.2
+2025-07-04,Google Ads,google,cpc,competitor_kw,1114.38
+2025-07-04,Google Ads,google,cpc,retargeting,183.13
+2025-07-04,Facebook,facebook,paid_social,summer_sale,195.15
+2025-07-04,Facebook,facebook,paid_social,lookalike_audience,223.44
+2025-07-04,Facebook,facebook,paid_social,video_ads,440.49
+2025-07-04,Facebook,facebook,paid_social,retargeting,144.59
+2025-07-04,LinkedIn,linkedin,paid_social,b2b_leads,142.25
+2025-07-04,LinkedIn,linkedin,paid_social,webinar_promo,225.68
+2025-07-04,LinkedIn,linkedin,paid_social,thought_leadership,337.78
+2025-07-04,Organic,google,organic,(not set),0.0
+2025-07-04,Email,newsletter,email,weekly_digest,51.73
+2025-07-04,Email,newsletter,email,cart_reminder,34.56
+2025-07-04,Email,newsletter,email,winback,91.23
+2025-07-05,Google Ads,google,cpc,summer_sale,416.28
+2025-07-05,Google Ads,google,cpc,brand_search,51.5
+2025-07-05,Google Ads,google,cpc,competitor_kw,442.51
+2025-07-05,Google Ads,google,cpc,retargeting,561.96
+2025-07-05,Facebook,facebook,paid_social,summer_sale,387.17
+2025-07-05,Facebook,facebook,paid_social,lookalike_audience,11.06
+2025-07-05,Facebook,facebook,paid_social,video_ads,161.01
+2025-07-05,Facebook,facebook,paid_social,retargeting,600.07
+2025-07-05,LinkedIn,linkedin,paid_social,b2b_leads,312.88
+2025-07-05,LinkedIn,linkedin,paid_social,webinar_promo,66.74
+2025-07-05,LinkedIn,linkedin,paid_social,thought_leadership,412.91
+2025-07-05,Organic,google,organic,(not set),0.0
+2025-07-05,Email,newsletter,email,weekly_digest,29.34
+2025-07-05,Email,newsletter,email,cart_reminder,14.55
+2025-07-05,Email,newsletter,email,winback,142.46
+2025-07-06,Google Ads,google,cpc,summer_sale,428.49
+2025-07-06,Google Ads,google,cpc,brand_search,438.75
+2025-07-06,Google Ads,google,cpc,competitor_kw,239.44
+2025-07-06,Google Ads,google,cpc,retargeting,327.77
+2025-07-06,Facebook,facebook,paid_social,summer_sale,328.15
+2025-07-06,Facebook,facebook,paid_social,lookalike_audience,150.12
+2025-07-06,Facebook,facebook,paid_social,video_ads,306.24
+2025-07-06,Facebook,facebook,paid_social,retargeting,262.32
+2025-07-06,LinkedIn,linkedin,paid_social,b2b_leads,316.84
+2025-07-06,LinkedIn,linkedin,paid_social,webinar_promo,335.7
+2025-07-06,LinkedIn,linkedin,paid_social,thought_leadership,163.79
+2025-07-06,Organic,google,organic,(not set),0.0
+2025-07-06,Email,newsletter,email,weekly_digest,86.45
+2025-07-06,Email,newsletter,email,cart_reminder,60.33
+2025-07-06,Email,newsletter,email,winback,68.01
+2025-07-07,Google Ads,google,cpc,summer_sale,107.74
+2025-07-07,Google Ads,google,cpc,brand_search,1003.64
+2025-07-07,Google Ads,google,cpc,competitor_kw,464.56
+2025-07-07,Google Ads,google,cpc,retargeting,90.96
+2025-07-07,Facebook,facebook,paid_social,summer_sale,285.84
+2025-07-07,Facebook,facebook,paid_social,lookalike_audience,272.66
+2025-07-07,Facebook,facebook,paid_social,video_ads,514.91
+2025-07-07,Facebook,facebook,paid_social,retargeting,197.11
+2025-07-07,LinkedIn,linkedin,paid_social,b2b_leads,256.84
+2025-07-07,LinkedIn,linkedin,paid_social,webinar_promo,103.11
+2025-07-07,LinkedIn,linkedin,paid_social,thought_leadership,285.56
+2025-07-07,Organic,google,organic,(not set),0.0
+2025-07-07,Email,newsletter,email,weekly_digest,48.49
+2025-07-07,Email,newsletter,email,cart_reminder,111.94
+2025-07-07,Email,newsletter,email,winback,47.22
+2025-07-08,Google Ads,google,cpc,summer_sale,1067.11
+2025-07-08,Google Ads,google,cpc,brand_search,10.17
+2025-07-08,Google Ads,google,cpc,competitor_kw,4.01
+2025-07-08,Google Ads,google,cpc,retargeting,304.02
+2025-07-08,Facebook,facebook,paid_social,summer_sale,206.56
+2025-07-08,Facebook,facebook,paid_social,lookalike_audience,119.8
+2025-07-08,Facebook,facebook,paid_social,video_ads,316.83
+2025-07-08,Facebook,facebook,paid_social,retargeting,661.55
+2025-07-08,LinkedIn,linkedin,paid_social,b2b_leads,504.62
+2025-07-08,LinkedIn,linkedin,paid_social,webinar_promo,57.38
+2025-07-08,LinkedIn,linkedin,paid_social,thought_leadership,32.72
+2025-07-08,Organic,google,organic,(not set),0.0
+2025-07-08,Email,newsletter,email,weekly_digest,10.8
+2025-07-08,Email,newsletter,email,cart_reminder,123.29
+2025-07-08,Email,newsletter,email,winback,100.05
+2025-07-09,Google Ads,google,cpc,summer_sale,306.98
+2025-07-09,Google Ads,google,cpc,brand_search,555.44
+2025-07-09,Google Ads,google,cpc,competitor_kw,56.73
+2025-07-09,Google Ads,google,cpc,retargeting,860.45
+2025-07-09,Facebook,facebook,paid_social,summer_sale,255.12
+2025-07-09,Facebook,facebook,paid_social,lookalike_audience,442.65
+2025-07-09,Facebook,facebook,paid_social,video_ads,120.48
+2025-07-09,Facebook,facebook,paid_social,retargeting,274.32
+2025-07-09,LinkedIn,linkedin,paid_social,b2b_leads,161.5
+2025-07-09,LinkedIn,linkedin,paid_social,webinar_promo,364.73
+2025-07-09,LinkedIn,linkedin,paid_social,thought_leadership,123.25
+2025-07-09,Organic,google,organic,(not set),0.0
+2025-07-09,Email,newsletter,email,weekly_digest,15.84
+2025-07-09,Email,newsletter,email,cart_reminder,17.25
+2025-07-09,Email,newsletter,email,winback,153.66
+2025-07-10,Google Ads,google,cpc,summer_sale,519.17
+2025-07-10,Google Ads,google,cpc,brand_search,541.55
+2025-07-10,Google Ads,google,cpc,competitor_kw,79.26
+2025-07-10,Google Ads,google,cpc,retargeting,316.88
+2025-07-10,Facebook,facebook,paid_social,summer_sale,36.99
+2025-07-10,Facebook,facebook,paid_social,lookalike_audience,648.95
+2025-07-10,Facebook,facebook,paid_social,video_ads,31.97
+2025-07-10,Facebook,facebook,paid_social,retargeting,467.27
+2025-07-10,LinkedIn,linkedin,paid_social,b2b_leads,84.28
+2025-07-10,LinkedIn,linkedin,paid_social,webinar_promo,506.12
+2025-07-10,LinkedIn,linkedin,paid_social,thought_leadership,79.61
+2025-07-10,Organic,google,organic,(not set),0.0
+2025-07-10,Email,newsletter,email,weekly_digest,114.6
+2025-07-10,Email,newsletter,email,cart_reminder,1.9
+2025-07-10,Email,newsletter,email,winback,52.06
+2025-07-11,Google Ads,google,cpc,summer_sale,229.46
+2025-07-11,Google Ads,google,cpc,brand_search,303.21
+2025-07-11,Google Ads,google,cpc,competitor_kw,660.24
+2025-07-11,Google Ads,google,cpc,retargeting,271.67
+2025-07-11,Facebook,facebook,paid_social,summer_sale,357.32
+2025-07-11,Facebook,facebook,paid_social,lookalike_audience,303.97
+2025-07-11,Facebook,facebook,paid_social,video_ads,351.27
+2025-07-11,Facebook,facebook,paid_social,retargeting,108.52
+2025-07-11,LinkedIn,linkedin,paid_social,b2b_leads,226.42
+2025-07-11,LinkedIn,linkedin,paid_social,webinar_promo,153.15
+2025-07-11,LinkedIn,linkedin,paid_social,thought_leadership,514.33
+2025-07-11,Organic,google,organic,(not set),0.0
+2025-07-11,Email,newsletter,email,weekly_digest,118.63
+2025-07-11,Email,newsletter,email,cart_reminder,48.59
+2025-07-11,Email,newsletter,email,winback,62.91
+2025-07-12,Google Ads,google,cpc,summer_sale,568.83
+2025-07-12,Google Ads,google,cpc,brand_search,427.1
+2025-07-12,Google Ads,google,cpc,competitor_kw,272.22
+2025-07-12,Google Ads,google,cpc,retargeting,267.12
+2025-07-12,Facebook,facebook,paid_social,summer_sale,225.97
+2025-07-12,Facebook,facebook,paid_social,lookalike_audience,796.49
+2025-07-12,Facebook,facebook,paid_social,video_ads,20.65
+2025-07-12,Facebook,facebook,paid_social,retargeting,163.23
+2025-07-12,LinkedIn,linkedin,paid_social,b2b_leads,64.81
+2025-07-12,LinkedIn,linkedin,paid_social,webinar_promo,547.32
+2025-07-12,LinkedIn,linkedin,paid_social,thought_leadership,248.97
+2025-07-12,Organic,google,organic,(not set),0.0
+2025-07-12,Email,newsletter,email,weekly_digest,115.19
+2025-07-12,Email,newsletter,email,cart_reminder,38.44
+2025-07-12,Email,newsletter,email,winback,19.62
+2025-07-13,Google Ads,google,cpc,summer_sale,81.53
+2025-07-13,Google Ads,google,cpc,brand_search,871.91
+2025-07-13,Google Ads,google,cpc,competitor_kw,127.93
+2025-07-13,Google Ads,google,cpc,retargeting,52.22
+2025-07-13,Facebook,facebook,paid_social,summer_sale,349.41
+2025-07-13,Facebook,facebook,paid_social,lookalike_audience,32.68
+2025-07-13,Facebook,facebook,paid_social,video_ads,851.68
+2025-07-13,Facebook,facebook,paid_social,retargeting,83.91
+2025-07-13,LinkedIn,linkedin,paid_social,b2b_leads,316.54
+2025-07-13,LinkedIn,linkedin,paid_social,webinar_promo,305.2
+2025-07-13,LinkedIn,linkedin,paid_social,thought_leadership,207.5
+2025-07-13,Organic,google,organic,(not set),0.0
+2025-07-13,Email,newsletter,email,weekly_digest,14.79
+2025-07-13,Email,newsletter,email,cart_reminder,165.51
+2025-07-13,Email,newsletter,email,winback,40.62
+2025-07-14,Google Ads,google,cpc,summer_sale,2.37
+2025-07-14,Google Ads,google,cpc,brand_search,281.89
+2025-07-14,Google Ads,google,cpc,competitor_kw,653.91
+2025-07-14,Google Ads,google,cpc,retargeting,240.61
+2025-07-14,Facebook,facebook,paid_social,summer_sale,386.18
+2025-07-14,Facebook,facebook,paid_social,lookalike_audience,77.09
+2025-07-14,Facebook,facebook,paid_social,video_ads,159.26
+2025-07-14,Facebook,facebook,paid_social,retargeting,539.94
+2025-07-14,LinkedIn,linkedin,paid_social,b2b_leads,8.69
+2025-07-14,LinkedIn,linkedin,paid_social,webinar_promo,747.96
+2025-07-14,LinkedIn,linkedin,paid_social,thought_leadership,97.69
+2025-07-14,Organic,google,organic,(not set),0.0
+2025-07-14,Email,newsletter,email,weekly_digest,17.37
+2025-07-14,Email,newsletter,email,cart_reminder,58.47
+2025-07-14,Email,newsletter,email,winback,149.44
+2025-07-15,Google Ads,google,cpc,summer_sale,83.73
+2025-07-15,Google Ads,google,cpc,brand_search,449.9
+2025-07-15,Google Ads,google,cpc,competitor_kw,12.27
+2025-07-15,Google Ads,google,cpc,retargeting,1176.35
+2025-07-15,Facebook,facebook,paid_social,summer_sale,113.73
+2025-07-15,Facebook,facebook,paid_social,lookalike_audience,221.47
+2025-07-15,Facebook,facebook,paid_social,video_ads,583.69
+2025-07-15,Facebook,facebook,paid_social,retargeting,261.91
+2025-07-15,LinkedIn,linkedin,paid_social,b2b_leads,52.25
+2025-07-15,LinkedIn,linkedin,paid_social,webinar_promo,292.04
+2025-07-15,LinkedIn,linkedin,paid_social,thought_leadership,635.37
+2025-07-15,Organic,google,organic,(not set),0.0
+2025-07-15,Email,newsletter,email,weekly_digest,83.38
+2025-07-15,Email,newsletter,email,cart_reminder,52.31
+2025-07-15,Email,newsletter,email,winback,68.72
+2025-07-16,Google Ads,google,cpc,summer_sale,560.3
+2025-07-16,Google Ads,google,cpc,brand_search,477.87
+2025-07-16,Google Ads,google,cpc,competitor_kw,151.45
+2025-07-16,Google Ads,google,cpc,retargeting,392.76
+2025-07-16,Facebook,facebook,paid_social,summer_sale,475.56
+2025-07-16,Facebook,facebook,paid_social,lookalike_audience,228.98
+2025-07-16,Facebook,facebook,paid_social,video_ads,67.98
+2025-07-16,Facebook,facebook,paid_social,retargeting,353.78
+2025-07-16,LinkedIn,linkedin,paid_social,b2b_leads,80.7
+2025-07-16,LinkedIn,linkedin,paid_social,webinar_promo,185.92
+2025-07-16,LinkedIn,linkedin,paid_social,thought_leadership,440.3
+2025-07-16,Organic,google,organic,(not set),0.0
+2025-07-16,Email,newsletter,email,weekly_digest,16.57
+2025-07-16,Email,newsletter,email,cart_reminder,36.21
+2025-07-16,Email,newsletter,email,winback,147.8
+2025-07-17,Google Ads,google,cpc,summer_sale,28.45
+2025-07-17,Google Ads,google,cpc,brand_search,1241.81
+2025-07-17,Google Ads,google,cpc,competitor_kw,53.47
+2025-07-17,Google Ads,google,cpc,retargeting,56.15
+2025-07-17,Facebook,facebook,paid_social,summer_sale,464.71
+2025-07-17,Facebook,facebook,paid_social,lookalike_audience,126.83
+2025-07-17,Facebook,facebook,paid_social,video_ads,112.84
+2025-07-17,Facebook,facebook,paid_social,retargeting,362.61
+2025-07-17,LinkedIn,linkedin,paid_social,b2b_leads,195.19
+2025-07-17,LinkedIn,linkedin,paid_social,webinar_promo,168.47
+2025-07-17,LinkedIn,linkedin,paid_social,thought_leadership,458.94
+2025-07-17,Organic,google,organic,(not set),0.0
+2025-07-17,Email,newsletter,email,weekly_digest,58.71
+2025-07-17,Email,newsletter,email,cart_reminder,112.01
+2025-07-17,Email,newsletter,email,winback,4.91
+2025-07-18,Google Ads,google,cpc,summer_sale,161.7
+2025-07-18,Google Ads,google,cpc,brand_search,766.89
+2025-07-18,Google Ads,google,cpc,competitor_kw,74.75
+2025-07-18,Google Ads,google,cpc,retargeting,343.35
+2025-07-18,Facebook,facebook,paid_social,summer_sale,81.81
+2025-07-18,Facebook,facebook,paid_social,lookalike_audience,489.67
+2025-07-18,Facebook,facebook,paid_social,video_ads,464.08
+2025-07-18,Facebook,facebook,paid_social,retargeting,170.41
+2025-07-18,LinkedIn,linkedin,paid_social,b2b_leads,135.62
+2025-07-18,LinkedIn,linkedin,paid_social,webinar_promo,174.75
+2025-07-18,LinkedIn,linkedin,paid_social,thought_leadership,603.54
+2025-07-18,Organic,google,organic,(not set),0.0
+2025-07-18,Email,newsletter,email,weekly_digest,59.58
+2025-07-18,Email,newsletter,email,cart_reminder,68.44
+2025-07-18,Email,newsletter,email,winback,75.77
+2025-07-19,Google Ads,google,cpc,summer_sale,100.77
+2025-07-19,Google Ads,google,cpc,brand_search,501.36
+2025-07-19,Google Ads,google,cpc,competitor_kw,311.3
+2025-07-19,Google Ads,google,cpc,retargeting,421.97
+2025-07-19,Facebook,facebook,paid_social,summer_sale,124.03
+2025-07-19,Facebook,facebook,paid_social,lookalike_audience,40.21
+2025-07-19,Facebook,facebook,paid_social,video_ads,1305.43
+2025-07-19,Facebook,facebook,paid_social,retargeting,31.06
+2025-07-19,LinkedIn,linkedin,paid_social,b2b_leads,558.35
+2025-07-19,LinkedIn,linkedin,paid_social,webinar_promo,88.1
+2025-07-19,LinkedIn,linkedin,paid_social,thought_leadership,142.63
+2025-07-19,Organic,google,organic,(not set),0.0
+2025-07-19,Email,newsletter,email,weekly_digest,6.83
+2025-07-19,Email,newsletter,email,cart_reminder,0.5
+2025-07-19,Email,newsletter,email,winback,192.67
+2025-07-20,Google Ads,google,cpc,summer_sale,94.22
+2025-07-20,Google Ads,google,cpc,brand_search,535.29
+2025-07-20,Google Ads,google,cpc,competitor_kw,165.53
+2025-07-20,Google Ads,google,cpc,retargeting,624.41
+2025-07-20,Facebook,facebook,paid_social,summer_sale,610.33
+2025-07-20,Facebook,facebook,paid_social,lookalike_audience,380.28
+2025-07-20,Facebook,facebook,paid_social,video_ads,75.7
+2025-07-20,Facebook,facebook,paid_social,retargeting,127.08
+2025-07-20,LinkedIn,linkedin,paid_social,b2b_leads,549.54
+2025-07-20,LinkedIn,linkedin,paid_social,webinar_promo,264.98
+2025-07-20,LinkedIn,linkedin,paid_social,thought_leadership,31.5
+2025-07-20,Organic,google,organic,(not set),0.0
+2025-07-20,Email,newsletter,email,weekly_digest,183.59
+2025-07-20,Email,newsletter,email,cart_reminder,9.05
+2025-07-20,Email,newsletter,email,winback,45.32
+2025-07-21,Google Ads,google,cpc,summer_sale,13.23
+2025-07-21,Google Ads,google,cpc,brand_search,176.61
+2025-07-21,Google Ads,google,cpc,competitor_kw,725.6
+2025-07-21,Google Ads,google,cpc,retargeting,729.78
+2025-07-21,Facebook,facebook,paid_social,summer_sale,542.03
+2025-07-21,Facebook,facebook,paid_social,lookalike_audience,501.98
+2025-07-21,Facebook,facebook,paid_social,video_ads,36.55
+2025-07-21,Facebook,facebook,paid_social,retargeting,70.0
+2025-07-21,LinkedIn,linkedin,paid_social,b2b_leads,216.78
+2025-07-21,LinkedIn,linkedin,paid_social,webinar_promo,398.88
+2025-07-21,LinkedIn,linkedin,paid_social,thought_leadership,217.63
+2025-07-21,Organic,google,organic,(not set),0.0
+2025-07-21,Email,newsletter,email,weekly_digest,144.75
+2025-07-21,Email,newsletter,email,cart_reminder,60.33
+2025-07-21,Email,newsletter,email,winback,10.19
+2025-07-22,Google Ads,google,cpc,summer_sale,1036.28
+2025-07-22,Google Ads,google,cpc,brand_search,214.93
+2025-07-22,Google Ads,google,cpc,competitor_kw,272.35
+2025-07-22,Google Ads,google,cpc,retargeting,23.19
+2025-07-22,Facebook,facebook,paid_social,summer_sale,317.65
+2025-07-22,Facebook,facebook,paid_social,lookalike_audience,93.56
+2025-07-22,Facebook,facebook,paid_social,video_ads,299.34
+2025-07-22,Facebook,facebook,paid_social,retargeting,345.9
+2025-07-22,LinkedIn,linkedin,paid_social,b2b_leads,18.24
+2025-07-22,LinkedIn,linkedin,paid_social,webinar_promo,124.2
+2025-07-22,LinkedIn,linkedin,paid_social,thought_leadership,463.94
+2025-07-22,Organic,google,organic,(not set),0.0
+2025-07-22,Email,newsletter,email,weekly_digest,131.1
+2025-07-22,Email,newsletter,email,cart_reminder,18.69
+2025-07-22,Email,newsletter,email,winback,31.45
+2025-07-23,Google Ads,google,cpc,summer_sale,151.94
+2025-07-23,Google Ads,google,cpc,brand_search,601.85
+2025-07-23,Google Ads,google,cpc,competitor_kw,568.93
+2025-07-23,Google Ads,google,cpc,retargeting,200.68
+2025-07-23,Facebook,facebook,paid_social,summer_sale,107.89
+2025-07-23,Facebook,facebook,paid_social,lookalike_audience,212.89
+2025-07-23,Facebook,facebook,paid_social,video_ads,635.75
+2025-07-23,Facebook,facebook,paid_social,retargeting,162.02
+2025-07-23,LinkedIn,linkedin,paid_social,b2b_leads,183.43
+2025-07-23,LinkedIn,linkedin,paid_social,webinar_promo,222.44
+2025-07-23,LinkedIn,linkedin,paid_social,thought_leadership,296.96
+2025-07-23,Organic,google,organic,(not set),0.0
+2025-07-23,Email,newsletter,email,weekly_digest,84.55
+2025-07-23,Email,newsletter,email,cart_reminder,98.05
+2025-07-23,Email,newsletter,email,winback,22.33
+2025-07-24,Google Ads,google,cpc,summer_sale,249.17
+2025-07-24,Google Ads,google,cpc,brand_search,87.4
+2025-07-24,Google Ads,google,cpc,competitor_kw,576.59
+2025-07-24,Google Ads,google,cpc,retargeting,512.12
+2025-07-24,Facebook,facebook,paid_social,summer_sale,86.43
+2025-07-24,Facebook,facebook,paid_social,lookalike_audience,80.36
+2025-07-24,Facebook,facebook,paid_social,video_ads,702.09
+2025-07-24,Facebook,facebook,paid_social,retargeting,175.64
+2025-07-24,LinkedIn,linkedin,paid_social,b2b_leads,117.58
+2025-07-24,LinkedIn,linkedin,paid_social,webinar_promo,546.2
+2025-07-24,LinkedIn,linkedin,paid_social,thought_leadership,239.6
+2025-07-24,Organic,google,organic,(not set),0.0
+2025-07-24,Email,newsletter,email,weekly_digest,6.74
+2025-07-24,Email,newsletter,email,cart_reminder,138.63
+2025-07-24,Email,newsletter,email,winback,4.05
+2025-07-25,Google Ads,google,cpc,summer_sale,101.57
+2025-07-25,Google Ads,google,cpc,brand_search,214.02
+2025-07-25,Google Ads,google,cpc,competitor_kw,1409.36
+2025-07-25,Google Ads,google,cpc,retargeting,63.7
+2025-07-25,Facebook,facebook,paid_social,summer_sale,4.72
+2025-07-25,Facebook,facebook,paid_social,lookalike_audience,734.6
+2025-07-25,Facebook,facebook,paid_social,video_ads,54.03
+2025-07-25,Facebook,facebook,paid_social,retargeting,458.49
+2025-07-25,LinkedIn,linkedin,paid_social,b2b_leads,388.65
+2025-07-25,LinkedIn,linkedin,paid_social,webinar_promo,282.61
+2025-07-25,LinkedIn,linkedin,paid_social,thought_leadership,5.35
+2025-07-25,Organic,google,organic,(not set),0.0
+2025-07-25,Email,newsletter,email,weekly_digest,20.62
+2025-07-25,Email,newsletter,email,cart_reminder,64.01
+2025-07-25,Email,newsletter,email,winback,88.58
+2025-07-26,Google Ads,google,cpc,summer_sale,355.98
+2025-07-26,Google Ads,google,cpc,brand_search,91.83
+2025-07-26,Google Ads,google,cpc,competitor_kw,95.52
+2025-07-26,Google Ads,google,cpc,retargeting,878.75
+2025-07-26,Facebook,facebook,paid_social,summer_sale,59.2
+2025-07-26,Facebook,facebook,paid_social,lookalike_audience,48.71
+2025-07-26,Facebook,facebook,paid_social,video_ads,547.44
+2025-07-26,Facebook,facebook,paid_social,retargeting,614.06
+2025-07-26,LinkedIn,linkedin,paid_social,b2b_leads,476.03
+2025-07-26,LinkedIn,linkedin,paid_social,webinar_promo,247.63
+2025-07-26,LinkedIn,linkedin,paid_social,thought_leadership,231.78
+2025-07-26,Organic,google,organic,(not set),0.0
+2025-07-26,Email,newsletter,email,weekly_digest,78.68
+2025-07-26,Email,newsletter,email,cart_reminder,82.97
+2025-07-26,Email,newsletter,email,winback,64.27
+2025-07-27,Google Ads,google,cpc,summer_sale,998.2
+2025-07-27,Google Ads,google,cpc,brand_search,127.26
+2025-07-27,Google Ads,google,cpc,competitor_kw,83.37
+2025-07-27,Google Ads,google,cpc,retargeting,315.16
+2025-07-27,Facebook,facebook,paid_social,summer_sale,89.0
+2025-07-27,Facebook,facebook,paid_social,lookalike_audience,452.6
+2025-07-27,Facebook,facebook,paid_social,video_ads,296.08
+2025-07-27,Facebook,facebook,paid_social,retargeting,249.83
+2025-07-27,LinkedIn,linkedin,paid_social,b2b_leads,319.3
+2025-07-27,LinkedIn,linkedin,paid_social,webinar_promo,123.33
+2025-07-27,LinkedIn,linkedin,paid_social,thought_leadership,306.44
+2025-07-27,Organic,google,organic,(not set),0.0
+2025-07-27,Email,newsletter,email,weekly_digest,114.41
+2025-07-27,Email,newsletter,email,cart_reminder,59.25
+2025-07-27,Email,newsletter,email,winback,54.99
+2025-07-28,Google Ads,google,cpc,summer_sale,200.28
+2025-07-28,Google Ads,google,cpc,brand_search,857.13
+2025-07-28,Google Ads,google,cpc,competitor_kw,159.18
+2025-07-28,Google Ads,google,cpc,retargeting,328.73
+2025-07-28,Facebook,facebook,paid_social,summer_sale,70.98
+2025-07-28,Facebook,facebook,paid_social,lookalike_audience,98.4
+2025-07-28,Facebook,facebook,paid_social,video_ads,568.83
+2025-07-28,Facebook,facebook,paid_social,retargeting,353.73
+2025-07-28,LinkedIn,linkedin,paid_social,b2b_leads,165.12
+2025-07-28,LinkedIn,linkedin,paid_social,webinar_promo,281.99
+2025-07-28,LinkedIn,linkedin,paid_social,thought_leadership,267.05
+2025-07-28,Organic,google,organic,(not set),0.0
+2025-07-28,Email,newsletter,email,weekly_digest,5.26
+2025-07-28,Email,newsletter,email,cart_reminder,104.59
+2025-07-28,Email,newsletter,email,winback,51.25
+2025-07-29,Google Ads,google,cpc,summer_sale,541.82
+2025-07-29,Google Ads,google,cpc,brand_search,130.1
+2025-07-29,Google Ads,google,cpc,competitor_kw,344.65
+2025-07-29,Google Ads,google,cpc,retargeting,384.13
+2025-07-29,Facebook,facebook,paid_social,summer_sale,270.75
+2025-07-29,Facebook,facebook,paid_social,lookalike_audience,308.17
+2025-07-29,Facebook,facebook,paid_social,video_ads,361.51
+2025-07-29,Facebook,facebook,paid_social,retargeting,322.09
+2025-07-29,LinkedIn,linkedin,paid_social,b2b_leads,195.3
+2025-07-29,LinkedIn,linkedin,paid_social,webinar_promo,106.94
+2025-07-29,LinkedIn,linkedin,paid_social,thought_leadership,625.85
+2025-07-29,Organic,google,organic,(not set),0.0
+2025-07-29,Email,newsletter,email,weekly_digest,82.95
+2025-07-29,Email,newsletter,email,cart_reminder,41.89
+2025-07-29,Email,newsletter,email,winback,33.28
+2025-07-30,Google Ads,google,cpc,summer_sale,162.9
+2025-07-30,Google Ads,google,cpc,brand_search,355.81
+2025-07-30,Google Ads,google,cpc,competitor_kw,564.89
+2025-07-30,Google Ads,google,cpc,retargeting,114.15
+2025-07-30,Facebook,facebook,paid_social,summer_sale,452.09
+2025-07-30,Facebook,facebook,paid_social,lookalike_audience,110.72
+2025-07-30,Facebook,facebook,paid_social,video_ads,64.03
+2025-07-30,Facebook,facebook,paid_social,retargeting,776.07
+2025-07-30,LinkedIn,linkedin,paid_social,b2b_leads,85.37
+2025-07-30,LinkedIn,linkedin,paid_social,webinar_promo,544.74
+2025-07-30,LinkedIn,linkedin,paid_social,thought_leadership,113.62
+2025-07-30,Organic,google,organic,(not set),0.0
+2025-07-30,Email,newsletter,email,weekly_digest,34.04
+2025-07-30,Email,newsletter,email,cart_reminder,103.3
+2025-07-30,Email,newsletter,email,winback,35.14
+2025-07-31,Google Ads,google,cpc,summer_sale,734.46
+2025-07-31,Google Ads,google,cpc,brand_search,28.74
+2025-07-31,Google Ads,google,cpc,competitor_kw,140.76
+2025-07-31,Google Ads,google,cpc,retargeting,374.62
+2025-07-31,Facebook,facebook,paid_social,summer_sale,25.6
+2025-07-31,Facebook,facebook,paid_social,lookalike_audience,525.44
+2025-07-31,Facebook,facebook,paid_social,video_ads,269.58
+2025-07-31,Facebook,facebook,paid_social,retargeting,409.88
+2025-07-31,LinkedIn,linkedin,paid_social,b2b_leads,270.64
+2025-07-31,LinkedIn,linkedin,paid_social,webinar_promo,574.66
+2025-07-31,LinkedIn,linkedin,paid_social,thought_leadership,19.71
+2025-07-31,Organic,google,organic,(not set),0.0
+2025-07-31,Email,newsletter,email,weekly_digest,77.84
+2025-07-31,Email,newsletter,email,cart_reminder,85.34
+2025-07-31,Email,newsletter,email,winback,72.27
+2025-08-01,Google Ads,google,cpc,summer_sale,17.31
+2025-08-01,Google Ads,google,cpc,brand_search,35.05
+2025-08-01,Google Ads,google,cpc,competitor_kw,75.18
+2025-08-01,Google Ads,google,cpc,retargeting,1452.58
+2025-08-01,Facebook,facebook,paid_social,summer_sale,305.99
+2025-08-01,Facebook,facebook,paid_social,lookalike_audience,124.28
+2025-08-01,Facebook,facebook,paid_social,video_ads,437.33
+2025-08-01,Facebook,facebook,paid_social,retargeting,320.48
+2025-08-01,LinkedIn,linkedin,paid_social,b2b_leads,144.39
+2025-08-01,LinkedIn,linkedin,paid_social,webinar_promo,673.14
+2025-08-01,LinkedIn,linkedin,paid_social,thought_leadership,64.23
+2025-08-01,Organic,google,organic,(not set),0.0
+2025-08-01,Email,newsletter,email,weekly_digest,161.92
+2025-08-01,Email,newsletter,email,cart_reminder,14.25
+2025-08-01,Email,newsletter,email,winback,10.57
+2025-08-02,Google Ads,google,cpc,summer_sale,542.59
+2025-08-02,Google Ads,google,cpc,brand_search,534.06
+2025-08-02,Google Ads,google,cpc,competitor_kw,346.27
+2025-08-02,Google Ads,google,cpc,retargeting,2.13
+2025-08-02,Facebook,facebook,paid_social,summer_sale,112.98
+2025-08-02,Facebook,facebook,paid_social,lookalike_audience,355.47
+2025-08-02,Facebook,facebook,paid_social,video_ads,774.17
+2025-08-02,Facebook,facebook,paid_social,retargeting,6.52
+2025-08-02,LinkedIn,linkedin,paid_social,b2b_leads,381.1
+2025-08-02,LinkedIn,linkedin,paid_social,webinar_promo,114.75
+2025-08-02,LinkedIn,linkedin,paid_social,thought_leadership,432.6
+2025-08-02,Organic,google,organic,(not set),0.0
+2025-08-02,Email,newsletter,email,weekly_digest,15.18
+2025-08-02,Email,newsletter,email,cart_reminder,178.99
+2025-08-02,Email,newsletter,email,winback,38.39
+2025-08-03,Google Ads,google,cpc,summer_sale,137.13
+2025-08-03,Google Ads,google,cpc,brand_search,20.41
+2025-08-03,Google Ads,google,cpc,competitor_kw,1110.56
+2025-08-03,Google Ads,google,cpc,retargeting,132.68
+2025-08-03,Facebook,facebook,paid_social,summer_sale,146.72
+2025-08-03,Facebook,facebook,paid_social,lookalike_audience,621.93
+2025-08-03,Facebook,facebook,paid_social,video_ads,141.18
+2025-08-03,Facebook,facebook,paid_social,retargeting,173.83
+2025-08-03,LinkedIn,linkedin,paid_social,b2b_leads,26.54
+2025-08-03,LinkedIn,linkedin,paid_social,webinar_promo,764.97
+2025-08-03,LinkedIn,linkedin,paid_social,thought_leadership,101.82
+2025-08-03,Organic,google,organic,(not set),0.0
+2025-08-03,Email,newsletter,email,weekly_digest,32.28
+2025-08-03,Email,newsletter,email,cart_reminder,120.75
+2025-08-03,Email,newsletter,email,winback,58.23
+2025-08-04,Google Ads,google,cpc,summer_sale,323.62
+2025-08-04,Google Ads,google,cpc,brand_search,757.46
+2025-08-04,Google Ads,google,cpc,competitor_kw,211.0
+2025-08-04,Google Ads,google,cpc,retargeting,279.16
+2025-08-04,Facebook,facebook,paid_social,summer_sale,122.57
+2025-08-04,Facebook,facebook,paid_social,lookalike_audience,132.7
+2025-08-04,Facebook,facebook,paid_social,video_ads,436.24
+2025-08-04,Facebook,facebook,paid_social,retargeting,435.0
+2025-08-04,LinkedIn,linkedin,paid_social,b2b_leads,24.17
+2025-08-04,LinkedIn,linkedin,paid_social,webinar_promo,71.66
+2025-08-04,LinkedIn,linkedin,paid_social,thought_leadership,592.32
+2025-08-04,Organic,google,organic,(not set),0.0
+2025-08-04,Email,newsletter,email,weekly_digest,17.08
+2025-08-04,Email,newsletter,email,cart_reminder,47.2
+2025-08-04,Email,newsletter,email,winback,115.5
+2025-08-05,Google Ads,google,cpc,summer_sale,203.3
+2025-08-05,Google Ads,google,cpc,brand_search,247.36
+2025-08-05,Google Ads,google,cpc,competitor_kw,801.63
+2025-08-05,Google Ads,google,cpc,retargeting,260.16
+2025-08-05,Facebook,facebook,paid_social,summer_sale,370.64
+2025-08-05,Facebook,facebook,paid_social,lookalike_audience,211.25
+2025-08-05,Facebook,facebook,paid_social,video_ads,543.88
+2025-08-05,Facebook,facebook,paid_social,retargeting,5.31
+2025-08-05,LinkedIn,linkedin,paid_social,b2b_leads,465.22
+2025-08-05,LinkedIn,linkedin,paid_social,webinar_promo,117.58
+2025-08-05,LinkedIn,linkedin,paid_social,thought_leadership,160.15
+2025-08-05,Organic,google,organic,(not set),0.0
+2025-08-05,Email,newsletter,email,weekly_digest,125.28
+2025-08-05,Email,newsletter,email,cart_reminder,108.09
+2025-08-05,Email,newsletter,email,winback,1.46
+2025-08-06,Google Ads,google,cpc,summer_sale,181.66
+2025-08-06,Google Ads,google,cpc,brand_search,761.38
+2025-08-06,Google Ads,google,cpc,competitor_kw,249.69
+2025-08-06,Google Ads,google,cpc,retargeting,449.88
+2025-08-06,Facebook,facebook,paid_social,summer_sale,268.57
+2025-08-06,Facebook,facebook,paid_social,lookalike_audience,68.73
+2025-08-06,Facebook,facebook,paid_social,video_ads,667.75
+2025-08-06,Facebook,facebook,paid_social,retargeting,263.71
+2025-08-06,LinkedIn,linkedin,paid_social,b2b_leads,161.26
+2025-08-06,LinkedIn,linkedin,paid_social,webinar_promo,670.04
+2025-08-06,LinkedIn,linkedin,paid_social,thought_leadership,91.74
+2025-08-06,Organic,google,organic,(not set),0.0
+2025-08-06,Email,newsletter,email,weekly_digest,63.73
+2025-08-06,Email,newsletter,email,cart_reminder,75.57
+2025-08-06,Email,newsletter,email,winback,55.83
+2025-08-07,Google Ads,google,cpc,summer_sale,140.08
+2025-08-07,Google Ads,google,cpc,brand_search,453.98
+2025-08-07,Google Ads,google,cpc,competitor_kw,359.64
+2025-08-07,Google Ads,google,cpc,retargeting,470.52
+2025-08-07,Facebook,facebook,paid_social,summer_sale,166.36
+2025-08-07,Facebook,facebook,paid_social,lookalike_audience,190.79
+2025-08-07,Facebook,facebook,paid_social,video_ads,142.3
+2025-08-07,Facebook,facebook,paid_social,retargeting,589.08
+2025-08-07,LinkedIn,linkedin,paid_social,b2b_leads,330.81
+2025-08-07,LinkedIn,linkedin,paid_social,webinar_promo,113.94
+2025-08-07,LinkedIn,linkedin,paid_social,thought_leadership,212.5
+2025-08-07,Organic,google,organic,(not set),0.0
+2025-08-07,Email,newsletter,email,weekly_digest,105.2
+2025-08-07,Email,newsletter,email,cart_reminder,44.98
+2025-08-07,Email,newsletter,email,winback,40.37
+2025-08-08,Google Ads,google,cpc,summer_sale,256.93
+2025-08-08,Google Ads,google,cpc,brand_search,967.62
+2025-08-08,Google Ads,google,cpc,competitor_kw,300.45
+2025-08-08,Google Ads,google,cpc,retargeting,92.98
+2025-08-08,Facebook,facebook,paid_social,summer_sale,830.24
+2025-08-08,Facebook,facebook,paid_social,lookalike_audience,150.56
+2025-08-08,Facebook,facebook,paid_social,video_ads,112.87
+2025-08-08,Facebook,facebook,paid_social,retargeting,102.57
+2025-08-08,LinkedIn,linkedin,paid_social,b2b_leads,94.4
+2025-08-08,LinkedIn,linkedin,paid_social,webinar_promo,277.23
+2025-08-08,LinkedIn,linkedin,paid_social,thought_leadership,250.2
+2025-08-08,Organic,google,organic,(not set),0.0
+2025-08-08,Email,newsletter,email,weekly_digest,214.5
+2025-08-08,Email,newsletter,email,cart_reminder,19.46
+2025-08-08,Email,newsletter,email,winback,2.74
+2025-08-09,Google Ads,google,cpc,summer_sale,19.27
+2025-08-09,Google Ads,google,cpc,brand_search,93.14
+2025-08-09,Google Ads,google,cpc,competitor_kw,881.2
+2025-08-09,Google Ads,google,cpc,retargeting,747.81
+2025-08-09,Facebook,facebook,paid_social,summer_sale,95.54
+2025-08-09,Facebook,facebook,paid_social,lookalike_audience,76.81
+2025-08-09,Facebook,facebook,paid_social,video_ads,556.11
+2025-08-09,Facebook,facebook,paid_social,retargeting,746.23
+2025-08-09,LinkedIn,linkedin,paid_social,b2b_leads,10.22
+2025-08-09,LinkedIn,linkedin,paid_social,webinar_promo,394.12
+2025-08-09,LinkedIn,linkedin,paid_social,thought_leadership,262.29
+2025-08-09,Organic,google,organic,(not set),0.0
+2025-08-09,Email,newsletter,email,weekly_digest,174.14
+2025-08-09,Email,newsletter,email,cart_reminder,25.23
+2025-08-09,Email,newsletter,email,winback,23.09
+2025-08-10,Google Ads,google,cpc,summer_sale,832.15
+2025-08-10,Google Ads,google,cpc,brand_search,194.54
+2025-08-10,Google Ads,google,cpc,competitor_kw,103.34
+2025-08-10,Google Ads,google,cpc,retargeting,115.48
+2025-08-10,Facebook,facebook,paid_social,summer_sale,99.65
+2025-08-10,Facebook,facebook,paid_social,lookalike_audience,675.19
+2025-08-10,Facebook,facebook,paid_social,video_ads,57.61
+2025-08-10,Facebook,facebook,paid_social,retargeting,257.04
+2025-08-10,LinkedIn,linkedin,paid_social,b2b_leads,65.1
+2025-08-10,LinkedIn,linkedin,paid_social,webinar_promo,836.19
+2025-08-10,LinkedIn,linkedin,paid_social,thought_leadership,24.34
+2025-08-10,Organic,google,organic,(not set),0.0
+2025-08-10,Email,newsletter,email,weekly_digest,107.57
+2025-08-10,Email,newsletter,email,cart_reminder,53.09
+2025-08-10,Email,newsletter,email,winback,35.17
+2025-08-11,Google Ads,google,cpc,summer_sale,150.36
+2025-08-11,Google Ads,google,cpc,brand_search,1077.21
+2025-08-11,Google Ads,google,cpc,competitor_kw,220.32
+2025-08-11,Google Ads,google,cpc,retargeting,230.45
+2025-08-11,Facebook,facebook,paid_social,summer_sale,200.02
+2025-08-11,Facebook,facebook,paid_social,lookalike_audience,50.27
+2025-08-11,Facebook,facebook,paid_social,video_ads,480.45
+2025-08-11,Facebook,facebook,paid_social,retargeting,396.35
+2025-08-11,LinkedIn,linkedin,paid_social,b2b_leads,145.6
+2025-08-11,LinkedIn,linkedin,paid_social,webinar_promo,118.93
+2025-08-11,LinkedIn,linkedin,paid_social,thought_leadership,506.86
+2025-08-11,Organic,google,organic,(not set),0.0
+2025-08-11,Email,newsletter,email,weekly_digest,6.84
+2025-08-11,Email,newsletter,email,cart_reminder,60.28
+2025-08-11,Email,newsletter,email,winback,112.2
+2025-08-12,Google Ads,google,cpc,summer_sale,567.3
+2025-08-12,Google Ads,google,cpc,brand_search,166.14
+2025-08-12,Google Ads,google,cpc,competitor_kw,216.58
+2025-08-12,Google Ads,google,cpc,retargeting,612.07
+2025-08-12,Facebook,facebook,paid_social,summer_sale,961.43
+2025-08-12,Facebook,facebook,paid_social,lookalike_audience,6.25
+2025-08-12,Facebook,facebook,paid_social,video_ads,47.77
+2025-08-12,Facebook,facebook,paid_social,retargeting,79.39
+2025-08-12,LinkedIn,linkedin,paid_social,b2b_leads,250.11
+2025-08-12,LinkedIn,linkedin,paid_social,webinar_promo,528.67
+2025-08-12,LinkedIn,linkedin,paid_social,thought_leadership,54.34
+2025-08-12,Organic,google,organic,(not set),0.0
+2025-08-12,Email,newsletter,email,weekly_digest,58.3
+2025-08-12,Email,newsletter,email,cart_reminder,60.92
+2025-08-12,Email,newsletter,email,winback,68.06
+2025-08-13,Google Ads,google,cpc,summer_sale,432.5
+2025-08-13,Google Ads,google,cpc,brand_search,262.1
+2025-08-13,Google Ads,google,cpc,competitor_kw,110.51
+2025-08-13,Google Ads,google,cpc,retargeting,628.72
+2025-08-13,Facebook,facebook,paid_social,summer_sale,380.29
+2025-08-13,Facebook,facebook,paid_social,lookalike_audience,149.9
+2025-08-13,Facebook,facebook,paid_social,video_ads,222.84
+2025-08-13,Facebook,facebook,paid_social,retargeting,328.72
+2025-08-13,LinkedIn,linkedin,paid_social,b2b_leads,387.33
+2025-08-13,LinkedIn,linkedin,paid_social,webinar_promo,60.49
+2025-08-13,LinkedIn,linkedin,paid_social,thought_leadership,206.14
+2025-08-13,Organic,google,organic,(not set),0.0
+2025-08-13,Email,newsletter,email,weekly_digest,158.05
+2025-08-13,Email,newsletter,email,cart_reminder,35.34
+2025-08-13,Email,newsletter,email,winback,15.66
+2025-08-14,Google Ads,google,cpc,summer_sale,419.48
+2025-08-14,Google Ads,google,cpc,brand_search,193.88
+2025-08-14,Google Ads,google,cpc,competitor_kw,289.31
+2025-08-14,Google Ads,google,cpc,retargeting,580.7
+2025-08-14,Facebook,facebook,paid_social,summer_sale,564.55
+2025-08-14,Facebook,facebook,paid_social,lookalike_audience,111.25
+2025-08-14,Facebook,facebook,paid_social,video_ads,463.92
+2025-08-14,Facebook,facebook,paid_social,retargeting,0.01
+2025-08-14,LinkedIn,linkedin,paid_social,b2b_leads,267.74
+2025-08-14,LinkedIn,linkedin,paid_social,webinar_promo,134.3
+2025-08-14,LinkedIn,linkedin,paid_social,thought_leadership,480.55
+2025-08-14,Organic,google,organic,(not set),0.0
+2025-08-14,Email,newsletter,email,weekly_digest,47.62
+2025-08-14,Email,newsletter,email,cart_reminder,46.81
+2025-08-14,Email,newsletter,email,winback,117.88
+2025-08-15,Google Ads,google,cpc,summer_sale,586.7
+2025-08-15,Google Ads,google,cpc,brand_search,339.53
+2025-08-15,Google Ads,google,cpc,competitor_kw,666.18
+2025-08-15,Google Ads,google,cpc,retargeting,52.32
+2025-08-15,Facebook,facebook,paid_social,summer_sale,630.81
+2025-08-15,Facebook,facebook,paid_social,lookalike_audience,131.82
+2025-08-15,Facebook,facebook,paid_social,video_ads,74.33
+2025-08-15,Facebook,facebook,paid_social,retargeting,426.92
+2025-08-15,LinkedIn,linkedin,paid_social,b2b_leads,37.81
+2025-08-15,LinkedIn,linkedin,paid_social,webinar_promo,646.18
+2025-08-15,LinkedIn,linkedin,paid_social,thought_leadership,120.51
+2025-08-15,Organic,google,organic,(not set),0.0
+2025-08-15,Email,newsletter,email,weekly_digest,34.69
+2025-08-15,Email,newsletter,email,cart_reminder,6.35
+2025-08-15,Email,newsletter,email,winback,193.96

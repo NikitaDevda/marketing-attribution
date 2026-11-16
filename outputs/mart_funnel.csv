@@ -1,0 +1,6 @@
+step,event_type,n,pct_of_top,drop_pct
+1,session_start,23920,100.0,
+2,product_view,15882,66.4,33.6
+3,add_to_cart,6364,26.61,59.93
+4,checkout,4749,19.85,25.38
+5,purchase,3874,16.2,18.42

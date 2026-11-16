@@ -1,0 +1,16 @@
+channel,campaign,revenue,spend,customers,orders,roas,cac
+Email,cart_reminder,615265.79,13966.89,498,498,44.05,28.05
+Email,weekly_digest,627243.98,15893.6,514,514,39.47,30.92
+Email,winback,575821.24,15578.19,474,474,36.96,32.87
+Google Ads,summer_sale,252782.6,78624.86,205,205,3.22,383.54
+Google Ads,brand_search,267019.37,84613.38,203,203,3.16,416.81
+Google Ads,retargeting,264030.66,84028.23,215,215,3.14,390.83
+Google Ads,competitor_kw,249644.54,95007.79,208,208,2.63,456.77
+LinkedIn,thought_leadership,122606.83,56663.74,94,94,2.16,602.81
+LinkedIn,webinar_promo,100274.07,63261.92,82,82,1.59,771.49
+LinkedIn,b2b_leads,99047.43,62652.65,79,79,1.58,793.07
+Facebook,video_ads,79560.22,69153.2,63,63,1.15,1097.67
+Facebook,lookalike_audience,69731.76,68685.88,51,51,1.02,1346.78
+Facebook,summer_sale,63521.47,63954.18,53,53,0.99,1206.68
+Facebook,retargeting,61002.89,68738.74,47,47,0.89,1462.53
+Organic,(not set),1361661.22,0.0,1088,1088,,0.0
